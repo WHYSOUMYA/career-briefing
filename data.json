@@ -1,80 +1,194 @@
 {
-  "generated_at": "2026-09-27T00:00:00+00:00",
+  "generated_at": "2026-09-27T15:14:23.377618+00:00",
   "categories": {
     "affairs": [
       {
-        "title": "Agentic AI overtakes chatbot-era hiring criteria",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "The Rise of Agentic AI Jobs: 15 New Careers to Look For",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhJdGdyTk40ZFA5aU8tM3AxVmlUcmplMG9CVFhDVjhDMGlUcnV2cUVPQ2cyU0RfZi1UU2FqZGZ2VWlsdWdzSmxXazNYT2RMS2FtZXVVZElhV0FCVV9nOFhPUGtPS25CSTRpNXBQc1JDLVlqcE9vVEt2YmxydTJGR1VaVThHdENhclBYR2s1dEdNYzFjUFkyb0EtU2UydUxPVHVVMll3RXh3VUlYTW5SY2ZKalBzSEh5Y2c0dE8zWdIBvwFBVV95cUxPYUhJdGdyTk40ZFA5aU8tM3AxVmlUcmplMG9CVFhDVjhDMGlUcnV2cUVPQ2cyU0RfZi1UU2FqZGZ2VWlsdWdzSmxXazNYT2RMS2FtZXVVZElhV0FCVV9nOFhPUGtPS25CSTRpNXBQc1JDLVlqcE9vVEt2YmxydTJGR1VaVThHdENhclBYR2s1dEdNYzFjUFkyb0EtU2UydUxPVHVVMll3RXh3VUlYTW5SY2ZKalBzSEh5Y2c0dE8zWQ?oc=5",
+        "source": "ETHRWorld.com",
+        "published": "Fri, 25 Sep 2026 07:59:01 GMT"
       },
       {
-        "title": "Developers use AI tools widely but trust in output keeps falling",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Agentic AI in Healthcare: Use Cases, ROI, and Implementation Strategies",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1dsM3NqWDE2NU9GcmpRTzAtbW92em1KOVVzNm9OckdVTkpVNlNtb0RBckQ3c3ljVXI3dVVESVU0aFpnbFZjNXFmWGpaTUdKVnNWMnFGenoxUXZDVFZYeDFSR3FMU3dLVFJObEEybnhSMXZkeFFaOUtGTy1XckdWRFJKV1dyZnExcHBnY05aRXJ5aHpvRkNWR2ZpODlzNU5iUkJSYlo1V3JYTGZTQmc?oc=5",
+        "source": "Nasscom",
+        "published": "Fri, 25 Sep 2026 08:31:04 GMT"
       },
       {
-        "title": "India's Global Capability Centres cross 2,100, still growing",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Salesforces Agents for Impact Cohort Showcases AI Solutions for Indias Social Sector",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUlqQVBrbEVWTV9Id0FPZGVKX2JhM0JPTFRTN19rMzZxZXRJUmlDaHNaaEdiTC1leVhEM2hvZ0ItbDBER1BRUDZtS003UUlQYmNPTnh5WDM3TmxpSmk4X3FXRVlvdlc2MzRDR3BVMjVEWC1FNFdzTk1qZjB5dnQxV1RYSHFIUlhqTHpSS1ZnYzYxRkdPeFRMNjZQbTNyY25QODJlV05CX0wxZm5Zcm1HNGw0dG9XU1FJWkk1VzQ1VHrSAcYBQVVfeXFMTlh5Q1lDUGlDUktBSFVlU25fdEw3N2pvWDhxZjR0SDF6a3JSbTlfY3lZT3pwTlZ0b0dJYXJtMWJOcFExeHZnNVFVdUxfZWV6RmozdVkyTng1QWVyVnlleDNHNjJlSlloOFhhY01QRWQ1N1lNdFFsam5oU1dGbFFrVkRqQ00yalpWdTJSLXRoNjMyVzBQWEFPQUpUaFV5N2NMVzV3V0Rzak5kdGpDSlZxZDBFSlVzODVWdTFyejdhanM3THozUzRB?oc=5",
+        "source": "TheWire.in",
+        "published": "Fri, 25 Sep 2026 12:27:34 GMT"
+      },
+      {
+        "title": "How agentic AI could reshape the way we make digital payments",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzR5ZndFLVNMMC1fYXJhREtNV29nOVROc05BNjgyOEp2MTJ4VWpkZzBNSGxoNi1CLXc0QXh5b3ctdEx0TFdFMWRmd21JbkMxanljZm9HX2VHX3ZLZHBSTnNXOWhlNHlYclRfN1F0Z0FUaTlKUDcwWFNhY1ZGcTdhOVJNSFhvMzFfWFlFUUlYWUF2SlBwbzhJcnBXUk9OVGprdnhR0gGqAUFVX3lxTFBZcXhCNFRJNEhvQmpBeEhOR01pdVBDRDdzMHNSRHZHNHI5OWd2WWlFTWxvOEZMVklMM3Z4MGd0aGxXWDJ4QXpud2lYMHgyMXRlTlBNWmo0dUZiUERYNXZmOXhRUFFzaXhrMndpYlA3S1lqaWNSMzZIUnNvLVVfZ3NEMHFmeW5scFk4eWF6MFVTejY0UThic0pyN2M1bjNBbW5LUkhKeHUwaGRB?oc=5",
+        "source": "The Indian Express",
+        "published": "Wed, 16 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "NIELIT and Intel India Organized National Leadership Dialogue and Launched Agentic AI Skilling Programs for Preparing India’s Workforce for the Agentic AI Era",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vMUxrLXhnMXZXeVRZRkdydW5qOE9sSU5EOThZS0NFU1lKTkdKalJMRDBLMU96MjludERYZ3ZJOFd5NXRfNjdXU0ozeUwxTURQU3cxTGlVMUROeU45VEUwYnVmYVdvYXFy?oc=5",
+        "source": "PIB",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "India plans AI registry as it looks to roll out agentic payments, sources say",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVNCTTRPWDZrd1cwM2NQVG84dHJQSHVmMnNJRU5TdGZMc3l2LUFLRlJoNDZQemUtdGF4T3BhdFhtUFhZSXZwQV9PZGxpTW9fMWFJMU4wZENTaTl3Q2tmUGVEVFpIelZFWjJ5R1J5c3dvYk5xUDNmX2Fha0daQUV5eS1RNU1zZXBhQ1Z5VW1JNF9UdzRvdDlzb2U1NW5UUm9vYWM0VGxLcUxzbkttR2cxYU5JWnp6NkJ6Y1E?oc=5",
+        "source": "Reuters",
+        "published": "Thu, 10 Sep 2026 07:00:00 GMT"
       }
     ],
     "layoffs": [
       {
-        "title": "Global tech layoffs cross 93,000 in the first five months of 2026",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHVQNU1QVUQyZU92SjhJUXFnYWkyWkdsRHFFTUpMRmRnd21JTkhLVkx2RzJ4SklUajNmMldtZDg3a1Jja0xFOVhMc3dKZmZKbmZoZURSMnJXS0JnQVZ6RldXSTFpb0t0d3BGQ3gyY3phOU1MWERPdklmZGdVY1ZoUlMzVnBGQ1F6X0IzQzdn?oc=5",
+        "source": "news.crunchbase.com",
+        "published": "Fri, 25 Sep 2026 11:00:42 GMT"
       },
       {
-        "title": "Oracle cuts ~10,000 India roles as part of global restructuring",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Tech layoffs tracker 2026: All the job losses across Xbox, Apple, Oracle, Uber, TikTok, Meta and others",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNFlNaFV5cWQ3bUJRZWZUVkhDLTNjX2I2Y1Z4WHRBeFc3cDNEWFpneXRadjB4d3JhaDVnNVI4cm1ZUzlUZ2dWektUQzBvam5kQ1dkeFptbHJOd215aTNoZzNDMXJuTEtRVjlTbkVVb09faGRDNUNLMUkwUS1fZ2VqVURLTnpBaEdCT3NaLVZhcTdTbXZqTEFVRmRyR0FlaHo0ckZ4blFpRWhZRU54aG0zQnViMkkwSDRTbm82UDBxZ1NiT0NaT2FWN3k4X05iTkNSVXg1OV90LVQ2dkM0VEk2WnNUbnlaUzE5R1FrdmN2VjBLZWJDN2hpVg?oc=5",
+        "source": "Yahoo Tech",
+        "published": "Fri, 25 Sep 2026 13:12:21 GMT"
       },
       {
-        "title": "Coinbase moves toward smaller, AI-native teams",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2xxSmV5YTBnYnZ4bFBDdXVFWjBUajF2aEVkelkzeW1aZWh3LXN0TERYSHNEbVhNWU5oa2x4MnhxX0NCTUpiLTg4YjVaVWlTWWpYZ1JfeEpLVXp0ZV9lWGpobkl3bXlSdFBpdEpyMm5BbGZ6eVh6UzNnSkxUQmZKNEVQSlBhWWRhUVRHb0FpNUtqdXhDUGgzRUsySFAxY3JlMzd1OVhzS1VLR2NvNEl2c05WVjJlLW5hUEs3N1JVNGZVYURlZkVuQUZvbm9DMEtCWDNMOVhmaVNfZFJ5QTVLbHY5ZlR3SlFmbHFLNEpNUQ?oc=5",
+        "source": "Livemint",
+        "published": "Sat, 12 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "From Oracle to Amazon: Tech giants drive global wave of layoffs in 2026",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNam5OYm9BOENRdnp6Um84QmhtZHVxOVNzNnRhRGpfLWVLMVplVnFBMnlSYVRPNmNkQjY4NzAxUzlvY1Z6bHNKQXc1S0liVkpiQUFWTnBkQW50QmRVVHFjTkFOcE1TamU5dlRnSUp1Rm9lQUZIVWR4Z1VHWTQwdm0zTmV6b202bzBZczZvbTduam9jOUZBLXItT2VwWjdYazgxQ2paYVdWcmhoaE5VY2FhQWc2X2dad29fZGgxWTFqN2FrcXpwSVUzTHdfQkpkdlNIOUtab3NkcWExd9IB3wFBVV95cUxNckljbEVtZzVZRno3WS1jX2JXbm5zYk9kODE2UkQ4ZnhQQklnX3lYME0xaXhfUUtjV1lFT092Nk1sZGduT1M0VkRxV196aldMT2NFbnNpNzRyY3g3dnFFUnFyMy0tMnlEcFQxMm9IcFR0Y2d6UUIxNzNtanpwMV9mNmdkcU85Q19ESE1yZjdxUzN1NVQ0UVdQaDdka3NEY3V1Rm5iQi03SnRtcUZfWkxUUXo2Rzg4NnV2X1dCZUktcU9qWnZRUTZJTmt4bERGUFUycTdPYllmZ2ZVQVkzZ0JR?oc=5",
+        "source": "Business Standard",
+        "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "1.76 lakh layoffs in 9 months: AI, cost cuts and the changing world of work",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNUNKQ2dmSVdwSVRYVUY4bl94Tk1jQU81cGJmZGY0TnlSb3o3RGpjY1RncllFS3E2UkJ0b2x1MzNVOWJieVdEMnZ0Q1dKVFkxUGN1aExIV2hxZG9rNVZMeXMzQVpLbHdQU0FXRHFwbUVVWlB1QXNaTW1ET2cybmRiZXdOeWJyaFZJOTRkbmRfYUliMUJPczdWd2dtdnZkZE1PRU96Mm1yOVM0aGtkbzc0ckN3YmJqclVUZnE1Y1QyV0pSRzNQbVdudlVDam1DZnRrWkVtWl9zUFVJVVHSAeABQVVfeXFMT3hsZEUyN2xrMGl2TGJodTUzcTROMktBZTEtQUtsZ3VUQWVKMFFMQWVSOTE4dUxEQWN2czVYeU05cTNmeDRiNGg5U1hIakRNR1BnUzN1T3ZERXE5Q0dCOWZvTTd4NXk0V3laT2dZMW9FX0Z4Yl9HZWdleF9XemlMX1ZVRXBpRWYxWEM5QV9xYUJGZVlLVnZOSEk0RmdSSzNvaHRIeUk5SS1IZFlpN3FTTEpRZWo2elpVU05RcEJIX0h5YUJBMHhMbjJpTm1qVXVlN2ZUNnRNUmFfUGo3cXhUc1E?oc=5",
+        "source": "India Today",
+        "published": "Wed, 23 Sep 2026 12:35:05 GMT"
+      },
+      {
+        "title": "Oracle begins fresh round of layoffs; over 1,000 Indian employees set to lose jobs",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmRwT2RLQ1hIXzg5Z0lPeFVFZ19wRExYZUxHZEw5NDV3anZabHVJYWJwMzhfaDV3cnpBTW5NdEpIMTVHWTJ5WmotUEFERVczQmduX3h6UFRTZnRMU05lZ2xWeFh2SUlCY0x1aXZ2MmlmZUM1cUQtMF8yNkU0d0Y4SGRHdlI4OGs0Ujl4VUhfVDJJVjJHSWJWNDQ2VG9tOEtBeS1YMXRNZGpHTWEtZUNJaWRaYzJEeVNPbFM2Vl9KTE1iaTJCb2QzMEpxNkpQQzFuUGc?oc=5",
+        "source": "Deccan Herald",
+        "published": "Tue, 15 Sep 2026 07:00:00 GMT"
       }
     ],
     "placements": [
       {
-        "title": "Cognizant plans to hire ~25,000 freshers in 2026",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "IITs to stop campus hiring by 22 companies for 2 years after 150+ job offers to 2026 graduates went unhon",
+        "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOc2RteVpKSkNEN1dHMExROXRlUW5UdldacG94UXljVEtfR3QwczlwZXpiaGZfQkpnMW82MnMySkFaUXhuNEVXY012N0NyTWZOdDVkVUJKQk1zZ0h4RE5wZ1gyVDZ4aEdpVENtS2oxa1NmSG9VeW50ZUtnWFZYRVZvZ1FPTHlTSTRUQjAtRjQ4XzZMTXd6SUY2Tm1PMUVPSG8wV1FpeXlrQnF4amI3bHhRWXYxUnR3ek5qeTl0MmRwVS00TUF5MUxOTk1QckxabkVkQmg1a29ZTGhjZ1NydGVBUld5MlJVcGRkaVkwcHNSaXlaWUJhWW9idm9sWkV1cjdJM2cwVzc4WXNZTC1UbEZuWkNWY3RrMEMyTDZrRjlTMkE1STduOHBFLUZJM25RTVhib1ZVNkd5UHNlN0hYWEFla0VKMEhNZEN2UUs1WlI4d0JpSmdxZGtSbmlqRdIB4AJBVV95cUxQVkpFdzRmRk1TZlY5bEstdHFFU05DYjNtcWEtLXBjMkViUUlPSlpNMlBfeG0xLTU0ZXZwODZGWFR4bG90NjFmWlVuT0FmREZWbzRoQXlSa3d6LU5ESVBKOEtVLTJOR3B0eHZHUllEQXVDVmpPbWpwVEYxV0ZYY0g2ZTF3SDNrckFqYUJFcFRFNjJoRGQxUURnWHZyQWdUTDVPWWdMQ3Z2Mnh3SmN1cVpheFZJZE9qNmRJdDlmZFY3Zk1hSDF2NVNfMnJWeGhGdEM1Tkdhc0tOYWd3LXE4VGlXOXlRZE90MzE2NVJxYTc1OVpKZXQ1Szk2RjdRUzE2bTVJUXRsNi1tVjRNZTRPVzlFLV9sUVZOY1RmdFZwYndPV0JEVTFLeFpEVW9qVG9lNllkY2VDTlQxLW90bFRHMVNIZzhuREkxdjhhb3FWSHUzT0FyRVh3NHJ1MFJFUFdQWk1k?oc=5",
+        "source": "The Times of India",
+        "published": "Fri, 25 Sep 2026 06:34:00 GMT"
       },
       {
-        "title": "Campus resume screening shifts to AI-based filtering",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "IITs bar Oracle, 21 other companies from campus hiring over withdrawn job offers",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYllSQ0E4cWdvWmd0QnpyNEt6U05SNGVyVGtOU0MtalZjN0pabWJsODZnN25SOFpSWExQN2JwS0VYX2lYVFl5ZGhrWW91SWhKcnQyZ2xRWkJOaW90QjVUdHlhaTBUUi1aR3lVWUFIeDVjSTBJWDFXa01kblZwTW4xQU5kUWxuRGp3OW5xV09jRnFzNWthdFdyOTZORmJUWXJyWEJIT0tWZDdxZHFOTUxybDVDQ283WldLYzluaExhV3ZnS1NjZUNGWVFNMFRmRzhmTWJHRkZFbmPSAd4BQVVfeXFMTTU0U1hQRnRVSnFqcE1hcXdIZndUZ0NDdU56MHlBNlVENHF6Z3RWLWtJNFhhWVNjb3FEYi1HTGdWVmpDRXhKMnh3R3BYcWg4RjMyakk1ZFNKS2lkOHkybmRJd283RnhsSlNGVmJZb0FsNzhtczJrbnNoelVMTERDbG9Zek9HZy1UalVnLXhzeU5yNHpyQ1M0cVZGOXdYSUtqenZXMWUwamF0MnhJZ0dWd1VqNVA2YVZNcEJPejlVRnFuaGlwandPMW1zbjlBblhaUkJucXdEOGZMWkZHZVdR?oc=5",
+        "source": "India Today",
+        "published": "Fri, 25 Sep 2026 13:49:32 GMT"
       },
       {
-        "title": "Core-branch hiring in EVs, semiconductors and energy picks up",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "2026 Layoffs: How Will Wave Impact India’s IT Hiring Pipeline & Campus Recruitment?",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM3RIQzdYckdpeGl5bFV1bWw0dTZQN1J2eW5SaTgxbTE3VGpSV3pCa0tiaDJvalZqNjdCYkt1ZXFEUktnRTRoQnJUWVB1dkNMMzdRbWFZRjhaR1pOOTZkaU44N1Q5ekE5MFZ3ZjZXNzRKUlgzYVVGVnQ3MHVrRm1FdFZvV3dRUU1VZFQ4VHprWklwRlRpdFYxVWRoZXlBN3psSW96RENJYS1TRGdraG1MYzNDcTBmeFZfV2NobWpYQkNiMmVGbmx2RWRuUGN6SFFTaW1fQ3k2TzZ5QdIB3wFBVV95cUxOOWdNclZadHJ6VVd4R2NJZ0Z4NnlpT0E4ODVoT3BYa3ZWSkRXY3pCT1l1NHFFQUlwSE9lUnFtVTh2V2RiRXItTmtzRmMwU3FpN0lBZlVBNUJFTG9RX2NsSWFfWElGZEdmNlp3WkNWZU4wOV9IVWY4dEF1SmU2UnJOTVNOM2xTR3RHRzNoYUVyaUJWMUFLLVBJWC1Ec3RiQkR5RF9YNDljZWJjeTZRbTBnSFBiNlVOSVFHTXJCUWkxUzZKY0lNdFRlMDVKMmFhbnpGOXUwcXVuMG1iQTRRVlZB?oc=5",
+        "source": "News18",
+        "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "India’s campus talent landscape pivots to skill-based hiring as 86 percent of employers adopt AI in recruitment: Deloitte India",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZWt6clJFMzZ5Mi1sNXZyWUZvTS1oX3NiNVg1Njlub0hYMDBxZHM0aDc2OV9USTdGc2plemthX284em9MbnRKWlFqRjNkZk1pQWpXZXptdlg1YWt1WFdMR1hudFJnVGRkZUREMFNKNlNfWms0QTFBWVZGbHVXOEZBZEVVb2JWTVVoWmhDRl8yamg3WlVNU1N3aFJ2SjhCZHp0QVNoMHFZRFRsZTJuNFV2RkpMTTdveGN2ZlRKVDMtZm5NNkxrVVFrc2FuNE9hbDYyQWtXS0lUQ0J5dEFVaGJLODZVS1pGel9WVzJ6UF9qVVU2cVhDTGxJNVdHbUROV3VyOGVQZXNMZ2J3QTI2?oc=5",
+        "source": "Deloitte",
+        "published": "Thu, 27 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Is B Tech CSE Still the Best Engineering Branch in 2026?",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGF1MTZRYWRGbkNsbnZReVQ2ZUo5WE5Ya0ZGS21xVXpPX1NHWk5EZ3ZqS0piVHc2RWVUNnF5VmtDNVRlcDlMZl9xNS00Y2szUFJtRkNNU1ZvNUM3cjNWVkVwTVlWUlJTamJPTWR4Q1ZpQmgwUHpGYmRqb0hJZGQ5M1Z6YWJSOUwyLTRCNGxYTnRXOVdleTg00gGfAUFVX3lxTE9BdFdiNm1VV2E1WDZrbFpLUE14RlUycW1BUVZ0N1NEMUQyVzRRYTc0VjBHYXQ0dW5SMmoyTHE4dkY3SmZtbF9TT0IwVGJweXpEbVRDbkNBSjNmNXBhQWdaWURoWktDUWlnNXdodW9BdDF6WVhzVExsNjA0MFFfdWR0LUJWN053V3FzVHo3Q1AyU1RfSE52aXh5N2s4U1RSUQ?oc=5",
+        "source": "Shoolini University",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "MBA still pays more than an engineering degree in 2026 placements",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmNwN1J2UmtoUllSYXVmYndXeEVPWXktazZaQXU1Z3ZJRkEtSGxtSF9BMmNnR19PTWFVMHpyTlAtQmR1bFFtZkUzNVN4TzJYV1U0MnJaWHBNNGdGZzFzcGk5LUFvZjNqZkdUYmk1Qi13ckNUck1yOUNWeE9MT0FNUWYzWGtBdnBfdkdEbTZjcU0ySGdMSVhkUkwxYVJaQVRlY0JHOG1hd1RDUDVhZ2otejNQSnVaNmFScU1sZVhhZzlTS2c5RHZQQ1B0c2_SAdIBQVVfeXFMT3hvMjg5SDJaZ2Q5eHcwVDVEZG5PUmR6am5hRWxxZkRKeE1mMjY3NF84UG9SZkZZR2xSS2FYUHVZRkJlVDlkSS1fcnAxNGIwRTlZQUxxaGQtcXJzZjBtR0xTVkZqMHhuVDlIQjlGOWZnM2tMbTMyLV9nel9fX3J3bTdIX2JTWXlTRW5jSUFSbnRtWWtDeFJBS3Z6Mkw2dmYtWXpBMjFKN09tS3pxeXdBY2t3RkNkN0tSTmVyV0hjb1hEQTdEcXplcmdtXzJuMi1lVXp3?oc=5",
+        "source": "The Economic Times",
+        "published": "Thu, 27 Aug 2026 07:00:00 GMT"
       }
     ],
     "india": [
       {
-        "title": "Placeholder — run the scraper to pull today's India headlines",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Students Climb Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRTlHbzhFLUpwZGxXVEZCNUdiZFlRbHM4dU5xQ1JtQ2QzY0VEeURzUGVTWDlqX0UyTFpvTW56TDVBbmpNbHNzTHdPbEZZRGJmNW9XZ01taHRGQ25qQUJvOU1zNDhUV0ZKc0d3LWtFWTMyMzZBUXNIdEE0R1l3akQ0dkdkVllfR3Jhdm4tcVA4bnNnSk1mYWtYeGx3Tmg5NGhlX3ByZHBRajFaMHpDVkRVU1NXRDlNOGtXMUVQX0FkbTY3aVpIYlJoVWRtNWNGMThBbU1NN2tRWEFWc0ZE0gHkAUFVX3lxTFA0VnRsUkhqcnY4OFZRWXZ1RHJqRmVJTUhTZW5RSnduYXNlYTBZQUh5TnVJYjNmZ0hlMVh2aDlvX1RtYkdXUzl4a2pLb0w3NnN0VWJ6YzdxcTMwMENob2MtRk42RzlFbTYza1J0bDhOOWROdEFpZk5UYWd2QzBObkUwbnIxME5SZDc0SDhvRjhtQ1hya1Z3TWZSWXlEU1JvVTB0ek1obTRDSVBNZnZ1OEJtWFI5cWFSTUw5alhBSnYtU1VRUzZadzFLNFZ5T08yYkkzRlJ6X2YyTkFCclp6Q051TllfRQ?oc=5",
+        "source": "NDTV",
+        "published": "Sun, 27 Sep 2026 08:54:59 GMT"
+      },
+      {
+        "title": "Asian Games 2026 Day 8 Live Updates: Sarvesh Kushare wins high jump silver; Tejaswin Shankar, Parul Chaudhary bag bronze",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeE9SQWhmZUZVOFA0SlFaem9iM2NUR2pFNEJtNTNxd3dXenpWV293YVY2NU5pTTlCSGkyYjN2S3ZoSGdFa3FCaFdCZy1KRDQwU0k0TkdYc2JSOVY0TFRyR3ZfWm0yY245clhhTEdYNmlaWFNiUUZoMkN2eUVKbDJjUUVCTnVjVGhYVGtFRDIxazB0anhZRG8yNnBaQzJWRi1nbC02RUtDUzJMU3QtWlhwZEpxNGhmX01XemJIejE3NjhYNW1QYmlyU0gxYzBPTF9SQTlKR1I2anB2WWd1bGZ1RE1memVDVjBzdHdfdktHQUlPaGNTMExjR2xVYUl6ZmJCbHfSAYcCQVVfeXFMUHA3S1ZjX2FfUV9YSk82RTBtN3QyWGY0X0ZVU3hreHEyNE9NeW4tWi0wQl9GQXc4NU0yTTlqN0xveXc4bS1nZGNUcmI0cFRvczJBNTVDb3RjTl9yNGpmNFVpclZpU1VLRW9PREVnYTlMbFJqZEVLVEZiN1VIQl9TUWlJUXZkY29RSlFuYmFrTmdPZWY3cDJYSVpMLVNMdVN3d3k1QkhDRmpPS3Vqc1djUW9wdTdXeUFLMEZJNjA1X3E4R3d6RmlJZjl0T1ZNZVFBTnh6Tm1wQ3lrVVh0RUhQTzducEl2Q1dERXNOOUh4NmVFcThPY0ZkajQwSnBQRTF4eThaSlVETWM?oc=5",
+        "source": "The Times of India",
+        "published": "Sun, 27 Sep 2026 13:32:19 GMT"
+      },
+      {
+        "title": "Election Commission’s nine new decisions: What changes and what doesn’t",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnFoTVIwaTlSTklrRlZJX3VHZWNsbW9kMnhxN1ZIYVBjVWZ5RURsYXg1WkVYM3oyM0h1Tmp3MDQ1R3I2eXJDcVlWamdVOEJ5dFY2cmhRTDN0bFY5UmtITzhDT1EtdzNoUUJ6X19TdWpld3FIZy1wbnVLRXpSbXB2UGpvcmdnSnY2VEQ4VGV3M1NaejJ6eDVYMmR1RHFLY2Q1VDdVOWhVaml0QnUzRVpFNGlGWlZIdklxMWZlejN30gHEAUFVX3lxTE5lTFFrMnRoYXNqMkhDbE95V3pOd1JHcnZORS05elJpd3FCRlF0M2p3c19nLWpoZ0VJVlNXWVE2ODhfMzlDS1FKdVg5U1dvRzJTTWxteERGQmZRUlY4MVdWVktySnNSVVlHS05qSkdhTEhscFAyRi05Z0s2UlRLUjJaV0NUNzEzMlgxOHQ3YTFIekhwNUk2R2drYzFIVVBjakhUZlZNbFJNUHZVaEk0Yy14UjJNbVg1VGxrTzRTN1Z1VWJKdEE?oc=5",
+        "source": "The Indian Express",
+        "published": "Sat, 26 Sep 2026 23:25:49 GMT"
+      },
+      {
+        "title": "‘World on edge of abyss today, seeing weaponisation of everything’: Jaishankar at UN | India News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFlYYjhmYng2c2RKcy1lOWl0MHU0V1Z5em9tcl9YaXVwOHl4MDVRUnM3bEg2RHNodlFaMEhjdU9pNFI5Uk13ZTZ5TElZeGZ6TGxaa21XaDRFdFdONDdjUkI3bnhvVElyN2dNLVZjeWxKSjVRaW1DNmJKSzJZdUlFcHMySDkwaTRhQ2R1LTlPYTY5VFRFQnVlM0Z2V3JKNlRZcmJGbVVQZ3phZEJEV3VNdzBhcjlJc3A2OXNhcW9DWmtQd9IBxwFBVV95cUxNTWRpSUJUekJCcE1yQlVJOThsYlpiRXJGZlE3WE1iT2p5LWs4WEJzak41X0VucHN5OVg2MnZ1MzlESHJsUXhZOTBqZXpVSkl5M3hreDFkV0dQYkNhTExoeXBUY1ZnRDdBZ3hpckZBd211OHM3dmEwX0YtR1plNVdfaDN4RzAyaDk2a2ZEZ2JaVmhrU3I0ZjA5Z3o4UGVSdEREWDFZT0JiZW8zSmpFeUttUEVqSS05MVpFQmRGcGptUTB3cXVqekFZ?oc=5",
+        "source": "Hindustan Times",
+        "published": "Sun, 27 Sep 2026 00:50:51 GMT"
+      },
+      {
+        "title": "Ro-Ko return as India enter final stretch of World Cup preparations with WI ODIs",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHlKbWItU2oybHFvZkQybE5Gd3BCQjFjaXczaUZOUlkxTURYWEc1c2ZOQ3k1dGw3UFNGV244Y2t3TEwxdklwY1lpRllwd05takJUWGFOUHIyeUVPQlNLUGZ4UnZXQ3ZjYXdxNkxDUFJOSF91V2dvMzMzdzYzczBlb0VpZ1dwUU9RWUotcGstYU5hLVFqX2JYOVlmWVlhMERDN3pfX0RIbHhGR0p2NkdmTTlXYUpmNG9uOWM5N3RjRkVpbGhZd2R4eklYSExRTzFzMFYwd2hQNNIB3AFBVV95cUxNNFZXZHQ5NFpOeDJUWUNwb3hubFFoejA2Wlo4bUdrQjBoV25KaHkwbVpUWEN2YU1MV3lIV3Jhd050Q1Q1N2xZbFQ3T0lfWHZXR0E0d1RZNnplWlczMzBsUXloeElDa1I3cXJIRkV5M01LRVlZZlJKUkVCbC12UFN3dlI3RFlfVWRfa1NpeWtMWHllc3R6Z2FDa3FKSWx6NXBZUzFYT3BjdWhGbEROeTZsMk1lcEdNOWxfR0M2TVF0VVo0UDdLbHNFRGlFZUlDZ2ctaUt1Sl83TDc1Xzdy?oc=5",
+        "source": "India Today",
+        "published": "Sat, 26 Sep 2026 22:31:34 GMT"
+      },
+      {
+        "title": "Punjab's Lovely Professional University Students Vandalise Campus, Block Highway Over 'Rape' Case",
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZDhUWnJBLWtMcW9DdzVHeHFJc08tUDVwNlFzV3MwUnRCX2FrVnB0Z2t6dkVLRWNlYW1kNTE4U05JVVJOWVo5UVZaSGdUMV80dkRxNHoxSHJYTHVyNUlfQTJnZEM3dmc1SWt1UTBRcFlMd3lrZWlzV1F5WWdsZHFZeFpfRkxpMDhqaXowbnRtNjhLSzlDRkNGV3A1Yk02Vy1wWl9uYlZhMm5lODJTYlAxTEdEZXl4YUJGYUpUbnh3NGlQUFBya2Z3a0dZTTNFZlZFUUZsU3pkSWQ1Z0ZJY3E3eDVlMFE1OXJNZFFtNjdUbFExU0EyTlFRaWVWV1FUekxHY0dET01oUjRjNHdoRjZMZlp6WnVMd05JSGJn0gGjAkFVX3lxTE1Ddm9RalJYOHBTOFdYdUdBcDZCTEdkR1g3ZVFDN01yRHdXS0VPV2ZxaDhTajdDNGdZVlJnUmZOOVZaWWhHOTRsN203bkgybmkxNms0RkRlQjRRbEdGcXlZbTltdjlmeUhvTm4tRFdXUDZOMnNpUFhvS2ZvN2lCemhlaWx3czRVTTZ6RDVGVno3VWVwRlZOTThFcnBiYTRocWNJcWp2OFBzWXBSSzVxM0g4eG5qUDJNcmhqUEdxajk3d2lxUzc4TWdFdk91NTBUMWV0Vl9fQjZXeHEweUl4T1luNEstM1JEckt6TUk4WFJtUUFZYVJCTHpKWTVLUnFheWtFdFdacUxBYXo2SVktb0duR0FGcV8tWWpTMjVMdy1Edjcxdw?oc=5",
+        "source": "NDTV",
+        "published": "Sun, 27 Sep 2026 04:15:00 GMT"
       }
     ],
     "sports": [
       {
-        "title": "Placeholder — run the scraper to pull today's tennis and F1 headlines",
-        "link": "",
-        "source": "Seed data",
-        "published": "27 Sep 2026"
+        "title": "Sania Mirza Makes Big Novak Djokovic Prediction, Backs Him For One More Grand Slam",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTRWMy1VMmthSFRzUHdfSlNHQ1doeXY0NjM5cEx2N0w2S18zTldxTC0tQnZ5NDRrVGItR29RcHBMWlJPclJuNXF2RXN1a0R2VlBUOUxwSnRHRVlHMDZneEI2TEZBMmg1ZVlVVzd6SGJJb0FWR2RxNk1UTC1XaDM4eWhkTGZxeVR3ZGJyMFhLTy0tbGx3RlBHbzVnTU52WXVZbkc0WjhmX2NpTkdoa0xsTk9jcTNJSW1oTmhZQTR3?oc=5",
+        "source": "NDTV Sports",
+        "published": "Sun, 27 Sep 2026 13:52:39 GMT"
+      },
+      {
+        "title": "Linda Nosková and Karolína Muchová build on a Czech tennis legacy, at Wimbledon and beyond",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHN3ZC1yejREekxrXzRPaDdFTWRBVmpwSmJic2NoQWFQUXdubVlKemxBMzZwNFZxSTk1Y2g0NUVqZWUzQ2hYQkZ0MGVlMGZmVzVoLXdhbGtLTU04dkRwbFE0RURoS2hVaTJTZklBS2JtcC1qMDJ2TDV5MWJrT0VMSXJ2NzZ6X2trYkhPb05CTlhMT1BDT3YyM1JWcDd4QQ?oc=5",
+        "source": "The New York Times",
+        "published": "Sun, 27 Sep 2026 12:41:30 GMT"
+      },
+      {
+        "title": "I was focused on becoming the first Aboriginal tennis champion. Then one remark changed something in me",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejVTeFhZRm1pZkNqXzMwQVl6VWdXZmdmMEtwUmJ1MTcyMXNOZ1ZrQWxiX2lFWFlyV0Jxdmt3Xzc1LWk2MXd5N3d1TmlhU05EbDlIUzdfcFo3cGxmYXNDN2J1NzNWaktIU2N6NWNMOUpuMzNpUUlnNkdqbVN5elJIUnlYejJYZmIzUTdLbVFFSVp5THhoSWxwN0k5TDY5SW42QlNwZWNXbXdOSm1YQnUwYnRFUzJrdw?oc=5",
+        "source": "theguardian.com",
+        "published": "Sat, 26 Sep 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Noskova, Muchova Lift Czechia Over Ukraine for 12th Billie Jean King Cup Championship",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY09RNFNCY2JUamtHSmZtaldwQm1lTmhsWEZvY1JoYXFZZlBiN1YyZ3pobDgyY09weFJmVlNzU1B5dU10aGc2eEFERURWYzRIbGsxQkstS2k1bk1QNmdmQWFSX3hSZ3dHdWJ3MUtzdkFjUzBRNVhUSmEtZWxVTnMxcHdsQlplcGhYc2dXMGFpTTI0OFhXc1ZBbGY0UTdFa3N4UWVwQ292OTFGTTQ?oc=5",
+        "source": "Tennis Now",
+        "published": "Sun, 27 Sep 2026 12:52:52 GMT"
+      },
+      {
+        "title": "Filipina tennis player Tenny Madis suffered an early exit in the women's singles tennis event at the 20th Asian Games. Madis fell to hometown bet WTA No. 119 Himeno Sakatsume, 1-6, 0-6, in the first match on center court at the Higashiyama Park Tennis Cent",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXB0bnRwVW1BMGN3Zl9tOXlQV2REeW1aVHBRcmV5bjVsTnUxekJlUVVMaGVxelhtdkswQjhkaXFRSHFhYmt4R05wcDZ3dnFGV1g2UGRtT09NN0xFcHJWbnZ2U29VMVBFdzJjSjZ6enRILUhIUU9EcE85X1haOHJpM29FUzhkOUR0SEVQVVJKOTlzdUNMRUwtajJmTGxxdDFFM3BhMmhTSVc1ZHdnNllZV2hQZWF1bUJILXdkYnhYcTNPSE1tVU44MU02SnlhMVdYbS1mTk03SQ?oc=5",
+        "source": "facebook.com",
+        "published": "Sun, 27 Sep 2026 06:10:31 GMT"
+      },
+      {
+        "title": "Women’s Tennis Gets Three Singles Wins, One Doubles Wins In Day Two of Central Valley Clash",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNWQ2S3prWDQ0b0JyQlNnNmJsWlVaUGNUZXU2dGVEVUNuV0FaSlQwNnF2Y0pfamFuUGstUmFHTGxJTlpnbXhyYW5xNU5zVk1aMDlHcHN5OTVuV2c0VGhnLTNSa2o4SGM1cUx3UXZoS1RjX2xvX3ZTbGV2OGVmQ0N2c0R0ZVJHbzV0a01iV3NCZld6bXQtNkE4Zlc3cFVKREVLclplc0ZOdjF0MklyTkFWR2hrbEtfWmo2bU9hQlk4QUZGYUdnaTR0TGhtLXZwM3phNXR3T3BLbkk1ZXJKNGhXTW5RYw?oc=5",
+        "source": "UC Davis Athletics",
+        "published": "Sun, 27 Sep 2026 06:40:02 GMT"
       }
     ]
   }
