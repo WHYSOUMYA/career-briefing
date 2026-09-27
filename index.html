@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Briefing — Career Intel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#161a22; --panel:#1e2330; --panel-2:#242a3a; --line:#333c52;
+    --ink:#e9e7dd; --ink-dim:#9aa2b8;
+    --amber:#d3a24b; --red:#c1685f; --green:#7fa07a;
+  }
+  @media (prefers-color-scheme: light){
+    :root:not([data-theme="dark"]){
+      --bg:#f3f1ea; --panel:#ffffff; --panel-2:#eeebe0; --line:#d8d3c3;
+      --ink:#20232b; --ink-dim:#5c6070;
+    }
+  }
+  :root[data-theme="dark"]{ --bg:#161a22; }
+  *{box-sizing:border-box;}
+  html{scroll-padding-top:env(safe-area-inset-top,0px);}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:'Inter',sans-serif; font-size:15px; line-height:1.55;
+    padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+    min-height:100%;
+  }
+  header{
+    padding:28px 20px 18px; border-bottom:1px solid var(--line);
+    max-width:760px; margin:0 auto;
+  }
+  .masthead{display:flex; justify-content:space-between; align-items:baseline; gap:12px; flex-wrap:wrap;}
+  h1{
+    font-family:'Fraunces',serif; font-weight:600; font-size:clamp(28px,6vw,38px);
+    margin:0; letter-spacing:-0.01em;
+  }
+  .date{color:var(--ink-dim); font-size:13px; white-space:nowrap;}
+  .sub{color:var(--ink-dim); margin-top:6px; font-size:14px; max-width:56ch;}
+
+  nav{
+    max-width:760px; margin:0 auto; display:flex; gap:4px;
+    padding:14px 20px 0; overflow-x:auto;
+  }
+  nav button{
+    font-family:'Inter',sans-serif; font-size:14px; font-weight:500;
+    background:none; border:none; color:var(--ink-dim);
+    padding:10px 4px; margin-right:20px; cursor:pointer;
+    border-bottom:2px solid transparent; white-space:nowrap;
+  }
+  nav button.active{color:var(--ink); border-bottom-color:var(--amber);}
+  nav button:focus-visible{outline:2px solid var(--amber); outline-offset:2px;}
+
+  main{max-width:760px; margin:0 auto; padding:20px 20px 60px;}
+  section.tab{display:none;}
+  section.tab.active{display:block;}
+
+  .card{
+    background:var(--panel); border:1px solid var(--line); border-radius:6px;
+    padding:16px 18px; margin-bottom:12px;
+  }
+  .card h3{margin:0 0 6px; font-family:'Fraunces',serif; font-weight:600; font-size:17px;}
+  .card h3 a{color:inherit; text-decoration:none;}
+  .card h3 a:hover{text-decoration:underline;}
+  .card p{margin:0; color:var(--ink-dim); font-size:13px;}
+  .tag{
+    display:inline-block; font-size:11.5px; padding:2px 8px; border-radius:100px;
+    margin-bottom:8px; border:1px solid var(--line); color:var(--ink-dim);
+  }
+
+  .idea{border-left:2px solid var(--amber); padding-left:14px; margin-bottom:16px;}
+  .idea h3{font-size:16px; margin-bottom:4px; font-family:'Fraunces',serif; font-weight:600;}
+  .idea p{margin:0; color:var(--ink-dim); font-size:14px;}
+  .idea .stack{font-size:12.5px; color:var(--amber); margin-top:6px;}
+
+  .empty{color:var(--ink-dim); font-size:14px; padding:20px 0;}
+  .note{
+    font-size:13px; color:var(--ink-dim); border-top:1px solid var(--line);
+    margin-top:24px; padding-top:14px;
+  }
+  a{color:var(--amber);}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead">
+    <h1>The Briefing</h1>
+    <span class="date" id="generated-label">loading…</span>
+  </div>
+  <div class="sub">Placements, layoffs, and what to build next — refreshed daily.</div>
+</header>
+
+<nav id="tabs">
+  <button data-tab="affairs" class="active">Current Affairs</button>
+  <button data-tab="layoffs">Layoff Tracker</button>
+  <button data-tab="placements">Placement Pulse</button>
+  <button data-tab="india">India</button>
+  <button data-tab="sports">Sports</button>
+  <button data-tab="ideas">Project Ideas</button>
+</nav>
+
+<main>
+
+  <section class="tab active" id="affairs"><div class="empty">Loading…</div></section>
+  <section class="tab" id="layoffs"><div class="empty">Loading…</div></section>
+  <section class="tab" id="placements"><div class="empty">Loading…</div></section>
+  <section class="tab" id="india"><div class="empty">Loading…</div></section>
+  <section class="tab" id="sports"><div class="empty">Loading…</div></section>
+
+  <section class="tab" id="ideas">
+    <div class="idea">
+      <h3>RAG-powered exam/notes assistant</h3>
+      <p>Chatbot that answers questions using your actual course PDFs instead of hallucinating — the single most hireable "I built something real" project for an AI/ML resume right now.</p>
+      <div class="stack">LangChain or LlamaIndex · FAISS · an LLM API</div>
+    </div>
+    <div class="idea">
+      <h3>Placement-prep agent</h3>
+      <p>An agent that tracks companies visiting your campus, pulls their past interview questions, and quizzes you daily — practical use of agent orchestration, the fastest-growing 2026 skill category.</p>
+      <div class="stack">LangGraph or CrewAI · a scheduler · a small DB</div>
+    </div>
+    <div class="idea">
+      <h3>This dashboard, extended</h3>
+      <p>You're already running it. Add more categories, swap in a real news API, or push notifications when a new layoff or GCC hiring story lands — a working, self-updating tool beats a tutorial project every time.</p>
+      <div class="stack">Python · GitHub Actions · this repo</div>
+    </div>
+    <div class="idea">
+      <h3>Fine-tuned small model for a niche task</h3>
+      <p>Use LoRA to fine-tune a small open model (Llama or Mistral class) to always output a fixed structured format for one narrow task — shows you understand fine-tuning beyond just calling an API.</p>
+      <div class="stack">LoRA/PEFT · Hugging Face · a single GPU (Colab is enough)</div>
+    </div>
+    <div class="idea">
+      <h3>Eval harness for an existing LLM app</h3>
+      <p>Build a small test suite that scores an LLM app's outputs against known-good answers — directly matches the "eval design" skill that's now explicitly listed as a top 2026 hiring criterion.</p>
+      <div class="stack">Python · a labeled test set · any LLM API</div>
+    </div>
+  </section>
+
+  <p class="note">Data refreshes automatically once a day via GitHub Actions. See README.md in the repo to set that up.</p>
+</main>
+
+<script>
+  const buttons = document.querySelectorAll('#tabs button');
+  const tabs = document.querySelectorAll('section.tab');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      tabs.forEach(t => t.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  function renderCategory(containerId, items) {
+    const el = document.getElementById(containerId);
+    if (!items || items.length === 0) {
+      el.innerHTML = '<div class="empty">No items yet — run the scraper.</div>';
+      return;
+    }
+    el.innerHTML = items.map(item => `
+      <div class="card">
+        ${item.source ? `<span class="tag">${item.source}</span>` : ''}
+        <h3>${item.link ? `<a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>` : item.title}</h3>
+        <p>${item.published || ''}</p>
+      </div>
+    `).join('');
+  }
+
+  fetch('data.json?_=' + Date.now())
+    .then(res => res.json())
+    .then(data => {
+      const genDate = new Date(data.generated_at);
+      document.getElementById('generated-label').textContent =
+        'Updated ' + genDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+
+      renderCategory('affairs', data.categories.affairs);
+      renderCategory('layoffs', data.categories.layoffs);
+      renderCategory('placements', data.categories.placements);
+      renderCategory('india', data.categories.india);
+      renderCategory('sports', data.categories.sports);
+    })
+    .catch(err => {
+      document.getElementById('generated-label').textContent = 'data.json not found';
+      ['affairs', 'layoffs', 'placements', 'india', 'sports'].forEach(id => {
+        document.getElementById(id).innerHTML = '<div class="empty">Could not load data.json. Make sure it sits next to index.html.</div>';
+      });
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>

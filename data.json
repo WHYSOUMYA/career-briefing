@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-09-27T00:00:00+00:00",
+  "categories": {
+    "affairs": [
+      {
+        "title": "Agentic AI overtakes chatbot-era hiring criteria",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "Developers use AI tools widely but trust in output keeps falling",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "India's Global Capability Centres cross 2,100, still growing",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      }
+    ],
+    "layoffs": [
+      {
+        "title": "Global tech layoffs cross 93,000 in the first five months of 2026",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "Oracle cuts ~10,000 India roles as part of global restructuring",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "Coinbase moves toward smaller, AI-native teams",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      }
+    ],
+    "placements": [
+      {
+        "title": "Cognizant plans to hire ~25,000 freshers in 2026",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "Campus resume screening shifts to AI-based filtering",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      },
+      {
+        "title": "Core-branch hiring in EVs, semiconductors and energy picks up",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      }
+    ],
+    "india": [
+      {
+        "title": "Placeholder — run the scraper to pull today's India headlines",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      }
+    ],
+    "sports": [
+      {
+        "title": "Placeholder — run the scraper to pull today's tennis and F1 headlines",
+        "link": "",
+        "source": "Seed data",
+        "published": "27 Sep 2026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+name: Update briefing data
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 3:00 UTC = 8:30 AM IST, daily
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python scraper.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Update briefing data"
+          git push
