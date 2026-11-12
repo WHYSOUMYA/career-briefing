@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:23:41.712297+00:00",
+  "generated_at": "2026-11-12T10:40:43.824509+00:00",
   "categories": {
     "affairs": [
       {
@@ -9,10 +9,16 @@
         "published": "Mon, 09 Nov 2026 08:46:36 GMT"
       },
       {
-        "title": "Altimetrik Accelerates Enterprise AI Transforma…",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVhleUppaXBHRElOM2c3ZFlyUHR3QXlXZ1hxRUdoWWFtMDh1QTdkUlVVZ01QQ3p4S2dWWUo5TEh4SlliNk1CNTJaSC11Z0xJV2ZVakdkaTdGUGZteFRBMnJNN1RINVlwRkdTMWg3ZTVkZXFNTkc4LWN6VVZMZWdYNy1BSEo3ck94Xzkwd2t1LU5ueXRmekxiY09GMWJhYTZaYzdzUEN0SlFzOXJCLWdEUDJULWhBUXpEM21Tb1ZEVW94c3lmaHBRdVpXM3dQeGY0M3UtelFGSV9BOGxSSEE?oc=5",
-        "source": "www.uniindia.com",
-        "published": "Tue, 10 Nov 2026 15:30:00 GMT"
+        "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR?oc=5",
+        "source": "Analytics India Magazine",
+        "published": "Wed, 11 Nov 2026 11:30:28 GMT"
+      },
+      {
+        "title": "Omdia: AI Software Revenue to Surpass $200 Bill…",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHpXWFF4dWNVM0ttRzgyMXNVYzgwVS1lYnptaGwyUWM2U3pmU2ZrMWtjUktLbjlhX3J0a1NobWltZVRPMGRxRVBKZ3NUN1JYdUJ3em9CSndmNW42OUM2UjNhNXpUWG84T1NVRzVFcDY1c0loMTZQb1hKSzBMUzdDMGpEZVhrbnEycTI4V0pKX3ZmeDExT3FuN25zbjlzVkpyN3kzU2tSV1NPTnVwTk56RzdxS3RxNjJZQlpPcFNhclgzMk1xMFVnem4yTlhCdmQzQk5WeV80aw?oc=5",
+        "source": "uniindia.com",
+        "published": "Wed, 11 Nov 2026 14:47:00 GMT"
       },
       {
         "title": "NIELIT and Intel India Organized National Leadership Dialogue and Launched Agentic AI Skilling Programs for Preparing India’s Workforce for the Agentic AI Era",
@@ -27,12 +33,6 @@
         "published": "Fri, 12 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "How Retail Leaders Can Leverage Agentic AI for Secure Autonomy",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlZLSGF6QnZDOVVCZGRieElUbjlyUVN4dV96UW9WcGZkdzJlOGtSc0poWVB1SDhfTldqUG01ZmczR2N5SlY2MVIyeUYtRjF3UmoyVWJZeVZjcDJtRzQycEpPR2xCcDNjRzE5dXNSODRLTEROTVZfN1drZHNKWGNXcTBnd3NnRnlJOFZzcnJBdVBHb0hMMkVDU2lpUWRNUkpO?oc=5",
-        "source": "CXOToday.com",
-        "published": "Tue, 10 Nov 2026 09:44:04 GMT"
-      },
-      {
         "title": "Agentic AI governance control model in India",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZVR0JXcy1xN3dXWmVqdUZLRVp2N1UxZVR2TWxNdXM2bzhfTFB0aE9hN0J2TWVibmprV01SQ25ObDhMSEdRNnN0anZ2cGpDS2F0MmFnY2FlVnlEMlpDazdaTnhZLTQ4YmhNQ2JEeTljcWd4Vnk4OHpDUnFPbWFaclRiYjNZOUN2dmFmWjAweEVTN25DclRBQi1lZmxIMEVrdjlnUXBISmxwQQ?oc=5",
         "source": "EY",
@@ -41,40 +41,40 @@
     ],
     "layoffs": [
       {
+        "title": "Qualcomm Layoffs 2026, Hyderabad: How Many Jobs Are At Risk In India Amid Global Workforce Cuts?",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazRuYWJlY1R1aDRCUER1MnZIeGxvcFdkX3FRbExYZGtrbGRqNklRS255RkZSVU96VXJlTTdGOWc1S0dLYlFoX2hMR0pJNjJzN2dBeUEwMlF6bU53bHpRcW1ZaUdYWUhlUlBSVG1HLWlncDNFS3VockptOTFpdnB0Z0pyNXY5a0xEYk9ZcU1ULVlURk9sQTNTMFBGb3JKeWtILTQ2UjExMjVHQVYtYmVtSmVFZ3A5WHJETVoxS1dyNURQNENpUlVhczJJd2tWaEpyLW81bDZRTXhhS0U3aEowdkYyTUZVd9IB7AFBVV95cUxOc1REZDRITW9pLWo3YXQwcFIzcWJLTFlXU2RBSXppQzJ5NEdvRFZhdmZKU2V2SXZZTXRnUWQzZnBHWDBrRGZZMmRYS2M3UjcyYWdNZXdiNVMxZlFBN0J6M0R2MGY4TXNDYTluUFJCWUdocE94czl3NzhKOUJVTHZmcUZiaDgzNlYtbUlFR0REa3FROV92Y0dJOUI5TlBjWmFIeFNIWTl2bU53VGZZOGdERnlwLVk3N0VYUFpmaGZRVVdyRC1TQmNaNHlwcnNEenJKMldvVnBaaHlMM0VxT21Sbm1YWjRTY09GV2FUVA?oc=5",
+        "source": "Jagran Josh",
+        "published": "Thu, 12 Nov 2026 06:44:28 GMT"
+      },
+      {
         "title": "Qualcomm layoffs begin in India, here is what Indian employees may get as severance",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWZTMHlWdVBjNHBKUl8tRU5HRFk4Tlg3UFhaem15VlA2YVNpR0pvWWxVT0Q2c0VpZ09NNnBISnUtMmlaLWxEeUUtdkREM3NQSHBHZi1ONF83eTM0X1hraFpkVlB2NC0yN1dBZmF6SFZncnFMdF8wR3N3T0FsUFlsdW5xYmRBNThzMVgyYUhhck5qb0FscmZqaThaYS1LekR0dzBuOUFiOGJHRFFZazNvcEVFWG05S3FtNThrWVVveXdKOEM5ZUtFdHg1VklxQVF4UmJRWFRENzh3bVHSAeABQVVfeXFMTl9hc0M3MHcybC1iVTNjazBTQWN1T0RNR0hRb3FBRjBHSkt1a2pMcDFBeVNBaHZXYjBkdmdiekRsamhTajJyTXdVQ3l2WGFGcW5oaWNLZUp1ODYyN2gya1R2VkZWeWZiUVMweXZKSHRENTNxaFQ1MnpyQzdIa3pzbWpVa2UzZm1neWVaSUhiSUJQN0lTZzh1VlYtWUl3VTNlNXNVSlJTUHlXaVlHOVdZXzBGbzR5eHJ0eWZ6VlBPZ0ZLWkdVWEdjdXRGaVlHMnFTVG1CZWFjVmRYVzBIaDN6X0o?oc=5",
         "source": "India Today",
         "published": "Wed, 11 Nov 2026 05:13:47 GMT"
       },
       {
-        "title": "Qualcomm layoffs begin in India: More than 1,000 employees likely impacted",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVJwRVZ5QVI2UG8tV1ZZWl9VRVZRZHpveF8xbVdaSGR5RzBFc0JkdmFLSWFMYkJSV0FNVGhwMjJyLUNNUy1fdDRWVEhrTnh0TGltaF9KN2pLOS1aZUgwMmRJUW1hUjJDRnNROFhFc2c1dDh6c1hvVXlndzFNeFlwU3JiVjVrU3hXNXRORnh30gGTAUFVX3lxTE5aQXN2VDV5WlZGTVFSaTB6Tm9PS0xNajhEc0pWYUNZUENMYUY2UUxzUEJmenZmTG52Tlo3Rmp5amJLYXVZcUZIeVh4QXN4YWpFT0hSQWJwZ3FQMWNDdmtfZVNvNzBTNmt3OUJTdE9TX01aOVFVeHdJMjhkS0daSl9TTTNfVE50SlhsQjJkRlNnd2o0Zw?oc=5",
-        "source": "The Week",
-        "published": "Wed, 11 Nov 2026 07:13:44 GMT"
+        "title": "Qualcomm layoffs in India: 1,000 tech jobs at risk as IIT Hyderabad graduate loses Rs 26 lakh campus-placed job",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUmk0QXZHRE5XNUtIRFNGd2QzOW1IbDhXQVY3UjVMUThnYkllV2pWb3VKTE1OWUYxWDdiazdLeVB0MS01bW51V2M2Y1FaZmEtaFBmOGJWZmc3LVpZNUV4Q2xoamxXYnhqYnpjWmpxX0s0VGN5TlRDQVJqQlA1STBjcWFJcE05SGxTbEh6MGdKdDc4aTFBUWxOWDRiVmEzbHdndFlYSXFqUGUzYlJPVkZGUU9IVXZGcVlldFo3dXBFODRuUThmcHlZb3NaTUxoR3FYVlVNUDR2emJpX1RRVEZreW1wNXkycEoxbTd2a1lpb0lfclhTQkxXYnRFb1VDTkMt?oc=5",
+        "source": "Education Times",
+        "published": "Thu, 12 Nov 2026 05:00:00 GMT"
       },
       {
-        "title": "Qualcomm layoffs: How much pay will employees receive after exit?",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHpmQzViQjY2VlM1bl9VSlhpQ0VCbVl2VXZwbVdPYkNuWXhSaXFBUkZ6WXp5SWp0bGV5akkyLWJ0Q3F1TmJmcXd2cWVoOTRaQUUyNUV0MEpvSmpocTNHOFIzazhSQnJSdWZ4YlF5MkxlQWx4VzZxRExZLXhONkhfLWRNMXhwNWx3NnA2T25DcXE0T2NhU1FnZWxXal9nQmZxM2JreXRuQWw2YzB60gGyAUFVX3lxTE5lYkNhM25BOWxDWmpwU3BVMnBrbW9wbjJiY2gwM2tTb09mYmtZakctYzhsNFU3U1Y0bF9xVHN0YnZQWjc4MkxVcXNqbE5qa3BCbUhuWVNHb25pcEg4aEVTcFNPQm9ienNxNHVwdFNYekc0aGtqUzc5dFZiVl9VSjd0SENtczQwX2h6TjJQTFlnN3VKaVc0LUNaaVJYWVhkcTVkTEhnNk5md2xXaTZJdWtTUEE?oc=5",
-        "source": "Firstpost",
-        "published": "Wed, 11 Nov 2026 04:39:36 GMT"
+        "title": "AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVNeHlYTmhBOGxzTWdFQzY5QnZxS1ZRc2JHclRnSnlOdnk2R0VUNk1MOHRFOWRHZUJtYTduZm5qX2FDSnU5c05KTENud19aNmlYXzk1ekR2SmRvVEZHcEJ4NUFKTFBIQXZTekFmRlFEaEhXVURuRmtTdV9SYnVIVDQ2OG4wLURmUldlUnFRUzU?oc=5",
+        "source": "CNET",
+        "published": "Mon, 09 Nov 2026 23:52:00 GMT"
       },
       {
-        "title": "Qualcomm Layoffs May Affect 1,000 India Jobs",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdW51QVh6OWJjZkZJSFJtYVZiYmxXN3UzV1pSU3Zqdk9xVGo3V2QwVmNoZk1LYnpiQ2hpZzZsOENmbjlDV2pjSl96a01tYktyTDBzZlhEX2VDWkkwQWY1V0FRSS1RTU1tRDZ3ZjhHUkFTMEI5dHFia2pOREdhckdKZG9CVWg5QkF5RXJB?oc=5",
-        "source": "BW People",
-        "published": "Wed, 11 Nov 2026 06:52:32 GMT"
+        "title": "Tech layoffs tracker 2026: All the job losses across Canva, Squarespace, Amazon, Microsoft, Apple, Meta and others",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWHhYTEFjM2hYMkVLNXhwd1dUNDJ6dk0zN0k1UFF3Z1pRNzRJM3hSdG1uWEUzTnBrSGpURWtKREhiVmFwUXUyYWlTZUc4RDRJZ2g1c1A2RHdTLXBGaW5jSWY0dDJlUVZTWEJnenh4YzVVLTNLZHV0WHBPcXlUTHBOTVNLMGQ0TDA3Zkpud2E0WjZ2cFZYT1hCWjJJQkoycXFjSlpaZ21pY0o5U2k2ZFRZbEFpWGpxb0FoZGlnaVdIbTFqZGR1ckcxcVM2M1hhUFl0MGhkN2lFOWxPT1A0V1YyWDNjNDAxR2dNNGlNVlk3cWd6VFNXdURUbDNZRHF2M0lxb3dSX2tuUQ?oc=5",
+        "source": "Yahoo Tech",
+        "published": "Tue, 10 Nov 2026 13:19:20 GMT"
       },
       {
         "title": "Tech layoffs November update: Job cuts hit workers at Amazon, Angi, Block, Canva, and Squarespace",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGRocGEwcllhcnV1Q1lKc1RmVG90dG1tUERrSFhOcWhmZEJFR1VlSGdqdWZpU09ZR2F2MW1tTnplcTN2aDBsRkpmLV96WklwNWxqSzVOYlB5LTR0WmFSVGlKSnF0TVU4WDlCaG1FaXRvY0k3MW9kWkdiUlRMdlFWWFNLMkpJMDB5LXV5TjVwT3NxQ05rbVlBTA?oc=5",
         "source": "Fast Company",
         "published": "Fri, 06 Nov 2026 16:45:08 GMT"
-      },
-      {
-        "title": "Qualcomm begins layoffs in India; over 1000 employees, including senior engineers, at risk",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnkzN1h5OHNDb01ualNNYTBZTV9qTTRpcUd5d1J2WHZaTi1VTkNKbktPOUxTZ204UzBlT1FXZXBKR21CYnpMRjRYckU2TE95UWFJLW9PVFJSM3pNRnNnYjNYMkJ1OWRrZ3lKa1VwUEF5dXF5NlBqTEtobmRyUnZwRjFrVndUUnJVZVZHdW44QmFjXzNwQXdSRkdkVGloMDVxWnczSEk2V1JIbi1kMUdzOEFWVTRSdUlzWVJ4SXdQNWlGZzZZSm0w?oc=5",
-        "source": "The South First",
-        "published": "Wed, 11 Nov 2026 03:01:44 GMT"
       }
     ],
     "placements": [
@@ -85,10 +85,16 @@
         "published": "Thu, 27 Aug 2026 10:34:01 GMT"
       },
       {
-        "title": "Four UK universities to hold joint placement drive in India for 2027 graduates",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUJEaEd3TGlRTExNYzRfNE9pU2hOX2ZuS3QtUl9LalR0Z3Z0WVRKV2VYR05NYV9BQ0xVUWc4bXlLdzNNU0NYR3dVNTBXenF1RHlXLUxtekVsSkR2ODBKRjdwcDBCaU9kNVJqZXgySDIwMWNJeC1nSWJRRDkwVFlRTjhKWjFiaXRFUERKYTF1MzdDdEVfVkpzZDdybzg5eFV2aHJpT0plRnotQXpNUi1TQWxWNVV2QjZMRERneW8zZ20xZVkwb2taY2piMG3SAdIBQVVfeXFMTlloSmR5QWl0YlJKSDE3RHFESmVkamlOakRZWGNhTFhlWVdNOEFzZmhWN0xyampob2tPYjNyek9EYkZ5ZW9wRl9Zd3l3djJud2U3SUE5ZlR4YXVNZmxjczhTZmhFYlFzeC1paVBOWmdlbDVxWUdhSVJWdjBHNUluNlYyaUNKVXNTLWVWVldXWXBKSmR1VVFwNC1vS1hNUHVxY0MteS1Odi1ZYkxIUzlTQ0EtS3JYb2RnLXpCa3B0RXNBSVl3RlFsRjV0aldBOVpDcmx3?oc=5",
+        "title": "IIM Placements 2026: Highest Salary Package & Top Recruiting Companies",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41V0lwd0VIb1p4UkltWmJuWXNDd0paVnUzc3kwcE5ENW1NTXNPV1Y3VWtsa0JPSHFhbjlualVYbVkyNS1HcXdTUlVtN3FXTjN6YWFpcVR1YV9lSmktbWhLVDZxLTNCa1IyOEZZNGdjZnF3UQ?oc=5",
+        "source": "Shiksha.com",
+        "published": "Tue, 10 Nov 2026 17:11:08 GMT"
+      },
+      {
+        "title": "8 in 10 engineers, 3 in 4 MBAs, 84% grad unplaced: The placement crisis we ignore",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3lRbmtheEtYSW9OVHJrUGFLcnBfVWZkM25UQnREdzZnMVF3WWRpY3N6M2IwbHNRMFNPdUxtb2puWXBldVlQN1U4LUhTOEdMVk9oTTNSMnREcVZGZnRRenFEMC1mZXZ5X2ExVy1feDJsZEgwaDcwdUxtSExKbFQ3QVlzTmthTmJ4M2VsS3oyN0dtTHlIaTJKY1RKajlfeXZhd2w2N1FTXzFqVVEzSm1Ub2hjRnRyNlIyaDdtUTBVWTZ2OUdabm83QW95Yk42R0ZMZ1HSAdcBQVVfeXFMUE1GZUpBRkQxUFZmWUlzV2xxclZqSHpxUXZSa2JWTlRvSldpRS1YMm42cWtYZW1mc0s5UC1FMXQ4ck5LUS01RXJOa3BHR2hueWlJRlJZb0szdnhHSWZLc3p1RmFGTFlsamlLcGUzSXFiZ3Y0Qy1VVVRqMmxUMGZQcU1sODBTVFdwdlBmT2o1aVVMQk1OTkdveTdDYVZHVjA4bWxDcW9WVXNuSC1wWHVhOHNqa082cnVCaTBZVEhCLTlXNTUyOGh5ZFRxb2NpTEp3VEwzcDNhXzQ?oc=5",
         "source": "India Today",
-        "published": "Wed, 04 Nov 2026 09:41:46 GMT"
+        "published": "Tue, 05 May 2026 07:00:00 GMT"
       },
       {
         "title": "2026 Layoffs: How Will Wave Impact India’s IT Hiring Pipeline & Campus Recruitment?",
@@ -97,68 +103,74 @@
         "published": "Fri, 11 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "MBA still pays more than an engineering degree in 2026 placements",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmNwN1J2UmtoUllSYXVmYndXeEVPWXktazZaQXU1Z3ZJRkEtSGxtSF9BMmNnR19PTWFVMHpyTlAtQmR1bFFtZkUzNVN4TzJYV1U0MnJaWHBNNGdGZzFzcGk5LUFvZjNqZkdUYmk1Qi13ckNUck1yOUNWeE9MT0FNUWYzWGtBdnBfdkdEbTZjcU0ySGdMSVhkUkwxYVJaQVRlY0JHOG1hd1RDUDVhZ2otejNQSnVaNmFScU1sZVhhZzlTS2c5RHZQQ1B0c2_SAdIBQVVfeXFMT3hvMjg5SDJaZ2Q5eHcwVDVEZG5PUmR6am5hRWxxZkRKeE1mMjY3NF84UG9SZkZZR2xSS2FYUHVZRkJlVDlkSS1fcnAxNGIwRTlZQUxxaGQtcXJzZjBtR0xTVkZqMHhuVDlIQjlGOWZnM2tMbTMyLV9nel9fX3J3bTdIX2JTWXlTRW5jSUFSbnRtWWtDeFJBS3Z6Mkw2dmYtWXpBMjFKN09tS3pxeXdBY2t3RkNkN0tSTmVyV0hjb1hEQTdEcXplcmdtXzJuMi1lVXp3?oc=5",
-        "source": "The Economic Times",
-        "published": "Thu, 27 Aug 2026 07:00:00 GMT"
+        "title": "Trend reversal: Nearly 100% mechanical engg, EEE students placed in campus placements in top colleges thi",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTkxER0M5Z0t1dTh5X3dzaGlnMXZSUkdrY1JLZjJfVXYwZHZBX2M4ZEVvQlNMcURRVWg3SjZrWXZXZ0FTUVhtdVhpZzZLaVAwV0tqSmJKbGtIRFRQNTFoT3ZJYl9udGs0VEFuQ3IwSE8tTE9ET0h3SzBjVFV5STIxMzRSYU9PRnRYWTFNZ1NJYjM1MC10UFE4TUllTzl6OEZ5TVI0S3lzZkpNV2tjd3lNS0lvVTF0VTYtd0p1Zy0wMWhLdFhtXzBqOTlaRmFXSTdGV1R1REVhSGttU0ROX2k0YU03bVFMdEI1V0FDeXBkSTNSVjVqR2c4S2wzVWExV3ZoR1N3MWN0aXZpUDZJcEwtUNIBlgJBVV95cUxOamdqNE5aLVFWazkxdF9lNmRNamVjRjVaYnJ3RXJxblZxTVhQdTZpaThVXzNGeTBwcVVueHppNVFGTXRpbXRjZGtqY1JjNnczRG82a2lkX2RDXzJFZy1qcUQ3ejVSc1gxNzBaOGJzeHlrMVlNd2pKZEFMVDRwWTJNeDdWZExpWTY3d2xuMFdpUHlEWGxHMmpiQ0pmOU5IeVo3Smw0T3JCeW13LWRNQXZ6SEtGTldmUmZvWDd0dW9OdHhrNGs0N0tBR3ZvS2YybnVNTnlqUlpTYlVGc3dJblpFRVltZU1DNDgtUGRFX05BQ05lYUIyejQtdzJzUWpISVA4MUItZlJFWXFLWjU4dXpreHJzODlQZw?oc=5",
+        "source": "The Times of India",
+        "published": "Thu, 28 May 2026 07:00:00 GMT"
       },
       {
         "title": "Galgotias University Surges in Times BBA Survey 2026, Rises to No. 2 in India for Placements",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0ZZdk4wLVBvdFY1VGJhYmk3ODIzWWFGQ1BsVUpLNHA0MkFjQ0hUd1RVSlNUcWtBTWxCTzRqUEs0RG53TC02NlpwZzRGQlBMd0hjaElZemFyby1FSFhjd21YYjZ6VVQwMnEyOWpFa3g1Q3lxMlY5Qjc2UzZqU2xiYXJ6WVRqVm5ZV2RUMUw3VEFPV09pbEluQTFscndXSTN0ajAxZkltNzVTbDFLQmJHMmJLOTBNQkVULXZKVFN0eHBkRXBmdnFEaNIBzgFBVV95cUxPS0NlbUEzdmVpRTNUMkF5MHVZS01TU0p0VnIwTDg3bXptV1hPZjVaRkhDN3RoQ1hJNWpxYnpxd0g0ZnZKdjJVLWVoXzNxTm5nSG02a0ZPbXgyT1JYUE1qZElzYUJXTi12OGxXUm1KYWxhZFpFOFJsa1ZxcF8tTkRaVGJqSXRWWHlBbFZGT1p6S0VnQkV6LUZEVVljZjdsUzRQS2o1aXBiLUZHNF90azBDN3FaOHY3MEhaZU01TjBlN0RNcDh2b3Bud3BkTTVpdw?oc=5",
         "source": "TheWire.in",
         "published": "Tue, 11 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "'Sorry, we don't hire humanities students': Viral LinkedIn post exposes placement gap at colleges",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQlkyOE9PeEpoRnZ6SjBZRVVVcHEzbHV6X1EwU184TVBDQWlZdXBYZ0pzR0VubW5oZHlaMDZrTzZaUDRSZFRxbU9jMU9sYWZ6N05XMmtxam5WQlVpdEpFbUVNYnd0Q2FUMkxWT1gyTU1wNng2NWV4LVZDc2FzV2JvU194eko5ZDdOanRQYUgzQ2VTTWJLVHlZYW43dk5rbTdnVzF0YnpjZTdYeElzQWRtTFNzYmxTZ1c4MEI1ZEJmSVItNFUtNU82VUZVRXA3VkxDOHlIOE11dnAzYS1JbFduSjlOQVpIRzgzSWNDcldPemM1akhNODVwUWo0SEZpaFBDWE16ZHk1bTjSAY4CQVVfeXFMTWpDODJTaC1YNWkwYjZBWVdtOUw0YkI0VHcwRFp2R245YnUyQkJvUEY3Q2hPR1g1ZGRqZXlxZnlEVHRyUWQwY2w1NHpEa0VGMDlDemY0THpDVnQ4Zi1xVnlqaVJ6N0cyODl5WWZDekV2dDBVaHMwN3dQRldmeW40SUFodUh6WEVScllVZk02Y1kzSHB5NXBHaU1vTG9qdHlTVmlYQjNxbGlGYnIzajUyWUtyMDR6VklkVlVkRVdGZ1c3ZjF3NVRzVXlIUnJwQXM1bVZKcGtyTGM5V1o3MTltM2FhVkVJclZ3QjR5TmdldldoRHd3bHhudEJiNWdXZk9mczlJbVRMbVNIcVAyTElR?oc=5",
-        "source": "The Times of India",
-        "published": "Tue, 30 Jun 2026 07:00:00 GMT"
       }
     ],
     "india": [
       {
-        "title": "2 Security Personnel Injured In Terror Attack On J&K CRPF Camp",
+        "title": "Terror Attack On J&K CRPF Camp, 3 Security Personnel Injured In Leg, Spine",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW9QUWp1Mk9nbHNIb3h1My1hcFJ0bHpMVlJWbUhqeXFBQXo3enRMN3dKcmJ2dnF1QzZuZmtQNkZreHZvV1R5NjNwTTlnT1JaSjBKcUU1QzRrdnRCRUlLUGY4cnYwUzA4RUtOWDlhRllLN1NhNDBSWUlwNmRGV3RtNFhlZDdrTGJ4VnNnVWtmR1VSbThZbnZGMXR1LXZEU01DUE15RnRNTnU2OF9fX1ZmZ9IBuAFBVV95cUxNczlNTUhwek5oVUl0dDFyclRfY2JZZDY0cDJKQkw0NEYxX0laaHJ2emlWbm1mZ3dQV0V6N01EMDU1ME9BOGxBbnBWY1E0NVp6NzY4aEt5Q0t0S3ZPMUMzREFGb2JOdDdTcERjckJUTFJKQjVGdmFGTENTN1JMTjgzUEtWRmlXTDluQ0ZsV1B6QWVfUnRLYWlyNTh2RFByOW8tSW9SRkFCNjM3MjVKTno0YTRpemVNWEZY?oc=5",
         "source": "NDTV",
-        "published": "Wed, 11 Nov 2026 09:15:04 GMT"
+        "published": "Wed, 11 Nov 2026 09:15:00 GMT"
       },
       {
-        "title": "Terrorists open fire at CRPF party in J&K's Kulgam, 2 injured",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnZCbm1NbmlkelpUcFRwMUVJMjJtQ29KZ0pRMktkbGI4UHZOSWlibTRhMnZYRHVidjVOWGJRa1V6MVdFRFVDUjU5M0hneGthamZyUzFqRG1mZkZMenR6TzQ1aF9lWndZeDloVnI3U05COGFiRkR5UWdxamNCcXpFT3liUWVnWEZnX0VNM3JRY25qTFo5RFBSbXc0d3YwcVNlNHQ4dERxWVdNR2Uzb3Fmdl8wbG85UlJrT2N2dTlhaEZvdUtzanpndTZWZWVQNS1pLXBxSGN5a9IB3AFBVV95cUxOWWY1U1ZfLXZNZFZuREplTnlLM1JGRUtKWDh6NHRQSjNMYjNvQnl6S2EzeGRNcEh5cXJFQUZWV192NEhJZ05DcW9LZ1FhaDVYSTFEQTJCMldVRHZoN0pQcFQ3YXRic1RoWG04M1p1YUtoZXZDaHYzcjdHRElqek5OQ2hqMGtLSHVDU2txQ2tfOUJVQ1RtN184NUVkUzhMejloblZWWEYxREx1dlB6cm1iX3R1MU9QYTF4VjVLRkl6ZWEzdDFNVVBQNFh6UVQwOVE4WGIySnlMOHN0SDIw?oc=5",
-        "source": "The Times of India",
-        "published": "Wed, 11 Nov 2026 09:17:00 GMT"
-      },
-      {
-        "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India News",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONTRvb1ZMVzRnZjJqTFRod1MxYVVVdjVCSmJkeHdUZENSUFlwcUZDWTlaRFhLNjg0THBaY3VGcEhldGVQXzhiVWZydXZHWmNOTlVsMHJyNXRPSEoxNUNJcUVYbmhfeEw0TE0yTHphZWVpR0xMcF9sX1FBamx6QlBuNXo2NTB5ejctWlU0MmpXVko3enAtb1p0WXlPM3R6dC0ySWNrLVdLemE5RFlybWc1RnRDVlZpUnQ2S2VDVnEwTkdCd3N6RE80Qk9lelFSU3FJemw1bHUxVlBGWGdoa2ZHRXpvckdLZVljSmZxVDgwNFNGX1llMzgzRmpoaWdLa1Y4TGVV0gGIAkFVX3lxTFB5T2tyZ1FUTmVoSVFJWmpidnRoSUU5TWYxb2lvUE5OdnJJYi03N1VsSnRQNnBoazlGU3gtX3ZMVjI2X1R0aFFWSWtxT3FyV3B2cGFWejJyYi00TXAwajRtRzJsUlNESUp4SWtIalFRTERvU21xMkRJQUZrZk9XVW11S1JXUk9WOUhqUW01eGtPRTh3ZGl4dVJSWTJMOFd2cHVLa0RTNDJFZUxtQVBReDVMNXBkQnc3eU03emRTb25YSTRjY0RtbEpHUm9PS3lEbkRraEhIdHdrOTJzSC1MNTZjSGpfbFJjRmRWWlVmVlNRTVpNNDg1NHVXRXZJSTVEaXZKd1pCcU9zTA?oc=5",
-        "source": "Hindustan Times",
-        "published": "Wed, 11 Nov 2026 06:48:23 GMT"
-      },
-      {
-        "title": "US plane carrying Iranian deportees forced to turn back after Pak bars entry",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRTJjMms1bnZGN1Y4TlVkRU5mMWhCd21tZ2F2VjA0Zk03clZXZ2o1bld1cmZoV2Y4R0VZdGoxZnpwZTB5czV2RTNfbVM5YlZsSEhZTm9CcUs2SnF1R3Q3LURLZWhpd3g3cWRkclZOdnU3QzVzV1ZzcUdHUUxJTlN2SUtCVVRzd2VQNHktTzZ2eTlpdnFFYm5peW9YdVN5WG5xT1JGOVFSNUxiSHR6N0VqbEszN1VZaVBPMlFDaV9UcHRNLW12cEUyU1N2X043Z2xKd2h4YjlvZ3VOcUl6MGhmNkxaSlVaTmlFYkFfcnRxNFR3b01wUWZkQdIB_gFBVV95cUxOTEt2dEczQldmUlQwV0Y5eExXM0YzUTY5dHY4SVVBNDNYYmdMRnBaUnRrcW11ck5VWjhLTGZFSjBOcWlwSVFRbEI3WW4zTnhTdVRHZmRZdDQxZ0d0YThNZ2tad191R1JKcDFVX2hZSUJuQVF0bktYNVBtanE5cVJZX2lDcENkZ0lCR0NXWEZpOUxMc2JHTFA4OWZmWVh2Q2Y5NEs3U1VCUmdNUWVQQ3M0aTFEcW96VTkxaW5adkQwSzJoQkdPNFdGNVlIQU1XNmdrWW5lZW5JcklzNkNTd1F3X0xraHllUEVrLTRUSTJQbmc3cTB5TlZXREZiWEw0dw?oc=5",
-        "source": "India Today",
-        "published": "Wed, 11 Nov 2026 05:31:41 GMT"
-      },
-      {
-        "title": "India News Live Updates, 11 November 2026: Kerala, Punjab to seek Centre’s intervention on GSDP calculation changes",
+        "title": "India News Highlights, 11 November 2026: After Mother Diary, Amul hikes milk prices",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXBQdWVuRjhxZUZMV2QtaFdaTTVZTjZ2M1ZOY3R6NnMzcmRNWW5EMHJ4a0lvak9ka1JsbEFOTTB4bW8tUE1qRFJCR2F0NXFEdklVckI2d01WUzE4WHQ4MUhIemg2NGRXbUpmNE9KWVRMc21ZSXphVXM0b2lCX1NuYi1LLWtVeEJmaGJOSjlnUkxld1RETWJEXy11anFSa1A4VWRjejZ4M0MyM0xxNkxvaVM0WU9XNm9rNTBvMHZpMG1KT2NOWlItaU1ZcFRBMVBGZjFLNGNEM05LaHN4dXpwOEY2dVQxS185M09PaDNxR3pyc1g0dGVPdk8wNzFJd3pQbDhEYtIBiwJBVV95cUxPdzBnLU1lQVF5cERYZ3BFUnl0XzJnYVgyellzNVp6RU1IZkRfQnJ4MmZ4TDRpdEFnT3ZlMmxlMVUxSnNvbHhGckZ2ZlFPSkNrdmVRMUV6d0N2QW9sa2hPS25YVGU5azhfQ0dmSmtTNk1oRHJ5N3pJRk5VNENPQnp5aVFoR002Q2d0NkNGYlo3VkhvOFoycHpILWJxVC1GTlBLNXp0S0lsSVh3M2NiYmxkWF9jNzE4NGVZV01hQ0cyRTZscnFLejFhXzZXNlNJUzYzQnZXSmVnY2Y2aTdqQi1CZ2NMc0hUTi1BLWNBS0JITWMxWjRLZk4zOU1Ncml5eHp2akJ6YlYycHhCZEk?oc=5",
         "source": "The Indian Express",
-        "published": "Wed, 11 Nov 2026 10:16:24 GMT"
+        "published": "Wed, 11 Nov 2026 02:56:38 GMT"
       },
       {
-        "title": "Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JnUllzZDlKWWhzOThTQjZ5UmVoZU4tVlg1aFotNXdxcGRRR2hsRFJpNzJuMVhOeDlGdFJDM1hqY082QlB2UnVSUmJBNGpwcElRM01vcU9KOWF4UzRRZmhFbVF4T1BMcVJIcXF6aGZvOUxVSFJhZE1pRkgzUGJMRlY1ME9CSlV0SVZ5Q0JIb0cwX2FQdF9leDFoZy1SX1hEV3g5VnIydnpHa3A1YnBoYXZISWFFUzBV0gHAAUFVX3lxTE5mVEE1SjBTYUtYTUJNOThlcW5ocTRpdnVodVU1Vy1MQ3ZRVVJhWUJqd0tLYmFfYmF5WUlUYnNVY2tSbzMzWmoyb2N5Q3pVNV9OZEdZdDQ3MC1EY3o3czJLZ2hsZkQ5OTBYdjVwOWtRdGVUXzM5b081MzRSeU1LOWxVZnpLNWc4bmRZVFpteFpxOGZpUU12TFRwd1dtMHhjWjdEVEhmTGZodmRuX0Zpa3M0a0hvbk00ZlRhNEhRRS1ENQ?oc=5",
+        "title": "Would be an honour: Elon Musk ready to hire Jensen Huang if Nvidia fires him over affair",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRmRNMVdXcnFMSGFzdEhhZUItaXk3aUxUaTJ3Zm1PbV9BU0NzZHNIWE9GUi1uVEJmUTUwLXA1R05IQW15ZVhuVGVBWHVmQnh2U24tYmRpN2NQazlRMzAtM3ZUVVhXZDFFbXV2RVUtUWZWdzJmcXBzcDRmMzBBOFptdmN0UkRtaEZwc1hsY19VbFp5ZUlPZm5HV2FSb25FZGNQNU5XTW9FZ0ktUS1BOEJfUFNWbV9FMkdyVWJrdmpjSVFQMkkwS1JubXFPUHVnbkh2RjlGVFNLbmt1YkFOMkxVSWxXc1pKTUs4WVHSAe8BQVVfeXFMTnl3TnFabUlvMGxEVjF1NEVfWDRSU0R1YWZQZkVmOUgtcnFUQklzRnQzcnh5Z3p6dEhZSWQ1bllvUmQ1c2d3ZklMMkc1eXF2cmNCOGxvQ3RNanExa3NTSkM3bUQxTmRSa3FXT3ZQRnFSa3pDYWpoYVdvZXJOVVZOZGQzVTRBRWhvR1VFajZsXzNDNGEycXQwWjdTbkxaSUM2VjdyWlZ2ajJUV0NvWW4zaFpBQVdDQ0pKQnZ0ZWlqZnl0SHdlcEZzRlByTjRxUEhOWHJxaG1ZQ21qaGQ1RWpJTElzWkNtU25tTTQtbmlieUU?oc=5",
+        "source": "India Today",
+        "published": "Thu, 12 Nov 2026 02:56:05 GMT"
+      },
+      {
+        "title": "Stock Market Today Highlights: Sensex, Nifty turn lower in afternoon trade; Sensex slips 16 points, Nifty falls 31",
+        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQQ1RLN3pnemNJQ3hFTXdIbmkzbUNjY251d1RwOFZIN0RwTG5JbE0zYmFSQTZUV3N3TVhvaGZRRjdhWnE1ZFdtMnNYZ0pEbDQ3WXFiZVNLaDlnYXBIeFlkUlJ6RHJTU01tRWFLeE91M3B6Rjh3NmtfN2RRWWpHZEtvVWNMcUtaTHhTVGlZVU9DWWNCb3RLUE5pOGVHQl9rNEg4Q3BvdnZxdEFOZ2VYcE8zYUUwUTdkV3hjN2FVNElYcndMNTl2TzAzdk85VDAyWFFnbEtGQnozUEcyYTF3eG0tbzZrMUEwRTN2eGNvNHpCZE5TZWxRem9uRE5GVVM4ZnJMbkExTW9jOV9qcWVNNFhDcVo5UmlJclBaZkVTX2Jhai0zcXE4NmttZXZHNURnZEFrcl9hajhn0gG7AkFVX3lxTFBaMHdrYlI3V2xVb3RELUcwazVDRmlkQXV6SklFSllCcWFjeTFmZnZnenNpYXExZjdaSmVOQ19oNmdoYU9TbG41UVpXazN5MC1VQlU4RVAtZEYyWnNFenI1aHBnYkVjS0lTRU1pNHloTUx2dzE4aktrMFgxWG8zTlRSaUpvQzM4bXUteDNrd1ZWOWQzbnI5cE04NEFzR09jWVhPR09tcThtRG8xVTZqcGIzNWFzQl94dzVxeXFtRF91LTZKWVphdVg1X3NKN09nTzEwcjFxRHd2SlB3bnNLYy1wZ1VtQjJteHpVbkRwbjBaX1poanJ6Qi1WdHJ2amZRZTF1RzBFNGdXVkxiVFFENXV6MDA5YmJlUUxKRUZ3Z05OWXYyeERYNnl6ZU1YUUxCdXp3WGxqbFFjSWlmdw?oc=5",
+        "source": "The Times of India",
+        "published": "Thu, 12 Nov 2026 10:17:46 GMT"
+      },
+      {
+        "title": "India cuts visa categories from 13 to 9, application form fields reduced by up to 70% | India News",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1F1SmJta2daNkpvZW1Ja2FLN096YWpFS1VsRHJIM1hBaVNRYVRuSTY0WktMc09ldzB2R01vQXVEQTllZGZISjRYOElOQnZybmd4dTd3Z2d3QnJxYlVaYThWeDVXNWxDS0hiVmtiWTdoMXRkRjE1MjZHY3gyd1FCUExLbW1hN29TNHpvZUZJa1pYSG9Ya05NNnNLZGtOYWhuYnNTbVBYMjBucEI0cUZRb0EzaXExVmtYVklPR3JsOEZOYlpBMjlELXU1TU9tMDRJaXI2dzlkWEJnczN4ZWNPVHE3ZHhJdWlZ0gHuAUFVX3lxTFBoRkVlZHA4U2hHNno4bVRjT3ZzVkJ0LVliRG9sNzBnOVUxamdNUlRUc0Z4YTVMWm9CT01VV3AzM2pycDg1STNaakFvaEhmQmR4em5SMHZDVFJoWnpFMVRTUDRNaENKYzJhXzZZMnRiQmJuRlNCVGl3TlhMRDFJc1Q2QzhxYWtnOHo1V3pIcEFzMENfbXVsS1FzeFp3bXp6NDFQSTQ0NFNhTFduSTdhazdlZHJ0UFZ4a0s5TnFIakk1WkRDQlc4UDdiYTlybWFDQWdfbjlHSWNoYmstT3htcDc1N2N2R3ZicVhjQU5tUWc?oc=5",
+        "source": "Hindustan Times",
+        "published": "Wed, 11 Nov 2026 16:42:58 GMT"
+      },
+      {
+        "title": "Amul Milk Prices To Go Up By Rs 2-4 Per Litre From Today",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2tBaUZDbVdUZ3BoZ1B2QnNmTHBGckZIeFdobXBVYXdmekhVVXNXc2hMT3V4UDg1Q2RHQ0JPVnk5Tzk1SktvOFVMYWl2Z3NDWmxpaVMxQ25PYjhPV2VZbG5UTklCVHB5S3U3ZlZWeGFLdkVsMEMwRW1vSFREb09oRnFvTFVkc2FHXzN4QmFybkhRR3puejZtRWdLbGMyVXVpTXNpdGR5c9IBrwFBVV95cUxPQlpkUExuWWNwMG0tQmFvX1NZR0ZhMEdiTGtJRDdBWGJQOVR4YXlXY3N4SEFKa2lmTUFURk9UQU9SOE01UGRHcnNwWTRiLW9PQlRXN1htRjZwbVRnc0dDYnZSMmE1OWpGLVNvRmVqZFVGU0RTVml3akJHV1luaE1xX1VZdTI3VnlkdlJYQjlXekVkT0dQYnZVMWUtaUZNQm5hM2Z0NWdMM05kbkxsMEt3?oc=5",
         "source": "NDTV",
-        "published": "Wed, 11 Nov 2026 06:40:45 GMT"
+        "published": "Wed, 11 Nov 2026 13:20:02 GMT"
       }
     ],
     "sports": [
       {
-        "title": "WTA Finals 2026: Draw, format and schedule as Linda Nosková qualifies for semifinals",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlpYTHk2b3dENjVCRDRQQUNma2pHZ1JqWVdtMGZZT0NPaFlRY0ExNnpGVzEyamh1bnVvT2hDZjhvWnR5TjQyeEp3aTg3RFBCSnRiYVpMNUw5b0xvVVNJU3BNR213bUM4Z3ZycU9TSFFqMVQtb2ZFSndLUTZDVkstQXJROEJXc01iam50YnM3a2lpdXVfREx6SnltY2RDN1EyNkdN?oc=5",
+        "title": "Tennis chases the sun. At the WTA Finals at Indian Wells, the sun is chasing the players",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzdwbGItcU5iSjUwaElmQ1BvY05Ja3JyRXRtSEl0QlF1WjdQMEZic1pxZzJaR1FWLVc2VlR1bi0yUTgtVW9rVmJxb1BJU2ZtMHZOYm53ODdCaEpZUnlYOS0yaXRGX0pVT1p4clR1RnRSWGRDR2VoU2dpWUhSZDZoTTBzeEJtdFV3Wk9PTjFaR3FJMmpsWDdYcWdvNXY?oc=5",
         "source": "The New York Times",
-        "published": "Wed, 11 Nov 2026 09:20:40 GMT"
+        "published": "Thu, 12 Nov 2026 10:01:02 GMT"
+      },
+      {
+        "title": "Svitolina Surges Past Muchova at WTA Finals",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ha0ZyZHkwMFVHY01lLXJTRDBvaFRLcENhaEc2UjdUQUNidGp6QXpLcGJYekMtOW5EbUp2WGVRZVYzS1JBaFdvbGpPdlJ1M0ttTnkyaVFpMkdOUFh0VEdGLW9mY21oSWlUNnlHbUxYVHlSckZu?oc=5",
+        "source": "Tennis Now",
+        "published": "Wed, 11 Nov 2026 22:39:43 GMT"
+      },
+      {
+        "title": "Cyclone Tennis Adds One On Signing Day",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeEYtNmk5RElhX1pOQ1RyaTdnR2lWV2JXXzB3a0lUY0FnNDkzWTdzdmUxVm1sb1BxbDFSZy1WX2I4VVRoMHRKTjRHWlgwcWhscy0teXZtNm4wVDNDb2FxRjhVMDM3RERTYkJteDFLUllVdXFwM3ZsUVRhVjJpeDNadQ?oc=5",
+        "source": "Iowa State Athletics",
+        "published": "Wed, 11 Nov 2026 22:37:47 GMT"
       },
       {
         "title": "Jannik Sinner: World No 2 confirms aim to return to tennis at Australian Open after lengthy absence with knee injury",
@@ -167,28 +179,16 @@
         "published": "Tue, 10 Nov 2026 14:22:35 GMT"
       },
       {
-        "title": "Pegula knocks out alternate Kostyuk to stay in WTA Finals semi-final race",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQm13TnhJUkYyR216aWs2STNsVTJVNklDTVAyZ0Q0TXVUb1ZXdUtiYzh2eGxzOW92NWpoUk9xczZGLWQzVGVnTEhkeEZ6UlBoaGREc3d3ZTc1Q0NWbXJsR2tNcXlCZEhNOVVtbTJZQVpFUTcxYkF2WmViLXZJYTMyU2R4bDI0TDlocnplcEpnaFdnN3E4OXRhUTh0WnBoRDhJZDE3RzJfNWhXdVBlQVFXYllYOHdZd0xsY0VySTV4dGo5a2hYRUNzSFNKR1Bhci1oS3FwZnV3?oc=5",
-        "source": "Tennis Majors",
-        "published": "Tue, 10 Nov 2026 22:12:59 GMT"
+        "title": "Svitolina comes back from a set down to beat Muchova, moves to 1-1 at FAGE WTA Finals",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaHlFQkdReWd5N0xUd1hQZ2pVZ1BMZ2VDZkhaRmk2a2d0aG9aczktTl9BOVc3NUZqWWR2MFVrTUZYMFBweldPWTRjWnNOVG5QMFNqeENUSlB3TGprdk9vb21xQ3VjYzNrLUlZQWlnQ0RMeE53YjJoTHV3NlJxaE5JeHlmazM0dHM2ZFU4MS1oMHlOUUVpOGJzcy14T3NIc21ma0d3M1A4WVpGem5vNVE2WE5saXljbHJNMmdMWWQyOU11N1dPR0RGVEh4eDRvSGpTWVZZeg?oc=5",
+        "source": "WTA Tennis",
+        "published": "Thu, 12 Nov 2026 01:05:45 GMT"
       },
       {
-        "title": "WTA Finals: Linda Noskova beats Coco Gauff to reach semi-finals, Jessica Pegula wins",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GTmVlRUtGVzRvUE1mci1JeE5KTURON1YxaXZTb2NwSmFaNVJ0MTEtZlZyejU0UF83MXJ5cFFtd2YwVDhhcWdhTnIxOUhadlZPV0tVQXl1QTAyakNXU0I0bE5RN0FnZw?oc=5",
-        "source": "BBC",
-        "published": "Tue, 10 Nov 2026 23:59:03 GMT"
-      },
-      {
-        "title": "2026 NCAA Division I Men’s Tennis Singles and Doubles Championships Selections",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGlSVEROdktsbnBpbzJwdklQNTd4LUdwZnZsdTg4b2didGtRM253M0dHRkhxS0hZRU8wV212bTlOelJUcG05X1BzaDV1ZU5vVXRqbHdoT3RjMGlERkh6VEJMUGwyaVRXdG4yXzJHaEJUTHRBX21PSlJUNXYxRWVpRU44dmVrT1NvNHVoU0x3d21ESHBqYWZEYW9CSWZDdDBoTnJlbjRsN285bWVlWE4wUFVUSThVeXdzUkp3Uy1hcnpBR2I5ckZmWEZkUnF3UdIB0wFBVV95cUxORHVjWktHaHdsOVVtQmF1NGI0M1pTNmhuRk8yMVgwM1VydzdkNldrNk5XbEdIcHpWSnlxYnlmSGluWnRUMktTT192UG5EQTZZYXh0Z0VRX203VVRQLTRXaEp3dWZDRnltTjFxRTdKeUdULVNaeDQ5aWVlblpWOXQ3WTZROE1fN2J3bFZYWlVEMzhKY3ZSbXJuczFuUTgwTGdwdXBuaXRfMVBCQVJVc0pCQUxJTmVlNEZhT2d3WUVCcEVtb1RCT1pTc0VJci1IUnRnMkM4?oc=5",
-        "source": "NCAA.com",
-        "published": "Mon, 09 Nov 2026 22:18:59 GMT"
-      },
-      {
-        "title": "Tennis: Gauff upset at WTA Finals, Pegula back on track",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0R6akhhbV9JMkJPa3pCRnRsakRRYVVIVXFjeDVZWldNY2V6cHo0TlNPQXlIM3R3bmRzNF9VWHA0REF1empXUHdJUE56NVBiVE03Nk1JN0xPQzhYTEhVb2toMU5xcWp3OUlzcWVOeGtWdHVQbEhEQUlGTm9iWWpfdHJDeWNfTGFxd3VWNGpMaldCOWtLMzJQQ184NnVFdDQ5WVRtTXZkbXpKMnpXZlBmQ3h3?oc=5",
-        "source": "ABS-CBN",
-        "published": "Wed, 11 Nov 2026 04:50:50 GMT"
+        "title": "Dabrowski, Stefani in Group 1 Driving Seat at WTA Finals",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1ZBYXpDelNVc21rRmUxcTJsbzJKX3hlS0pSODZsMjY1VlZZcllYNkpjQXF4QTdUQkxMcHlHd254d2h6Njh6WlhBek1NR3lGbXkwZjlfdmhkanp6OE5pamJDVmUtN25BdVNCdWlSdE1LZUpjdm5yTmMwN09ZeDFsR1JRcURkSklHT0E0S1lqR0tFaG5ic0g5VWQ1dGFnMEROdzZFWWJzQ1U?oc=5",
+        "source": "Tennis Canada",
+        "published": "Thu, 12 Nov 2026 02:29:00 GMT"
       }
     ]
   }
