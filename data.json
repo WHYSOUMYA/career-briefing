@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-11-13T10:35:12.596727+00:00",
+  "generated_at": "2026-11-14T09:50:50.019509+00:00",
   "categories": {
     "affairs": [
-      {
-        "title": "Texas Instruments cuts software migration time with agentic AI",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkJzM2NDaTFEN0tpOXlDN0I3YV9OT3pvemxpYVMtcjZrbW95Ql92NTFyU1pjb19rMXZTLWFLb3pYdGtVUEViTTljVmxZRjdmb3Z2Q3JadW81eWRveVVDUFFhRXR3NnVuQ2FRaWF4Z09XWlJWUGVGeFZzTC1mS2xCc3JxZUY2QlpYNGVaNjZqYUlTNG9heXhOTkw2b0FtN0RFbHg2Zw?oc=5",
-        "source": "Manufacturing Today India",
-        "published": "Thu, 12 Nov 2026 10:56:20 GMT"
-      },
-      {
-        "title": "India’s CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJ4OXpxRmpMakVrMDhrdHk4REU3Ti1yQUZmZVMwbGFtaUFFcWFkemxxVDZEWVpYU2x1WENEQmxOcVp0MEhPS2RqUHZJaWFNSVJVMU5KTVUwNm1ZSUtZNE9UZnN4dXNCcWdRc0JNZFFFaGRvRDJLUWJRSER4eXRTY3hacFlkUVBrMzVOcHVDZFZMNzhhLXhKRktWWFlSbGttQU84NmtxWE5YbUs4UEJqdF9kYk9CYS1PYVRXcGw2dWlieENTM1ZJNVFkY0JiLU1BVC1SMXQzYm1VZk1UN2Zn?oc=5",
-        "source": "Industrial Cyber",
-        "published": "Mon, 09 Nov 2026 08:46:36 GMT"
-      },
       {
         "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR?oc=5",
@@ -37,14 +25,38 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZVR0JXcy1xN3dXWmVqdUZLRVp2N1UxZVR2TWxNdXM2bzhfTFB0aE9hN0J2TWVibmprV01SQ25ObDhMSEdRNnN0anZ2cGpDS2F0MmFnY2FlVnlEMlpDazdaTnhZLTQ4YmhNQ2JEeTljcWd4Vnk4OHpDUnFPbWFaclRiYjNZOUN2dmFmWjAweEVTN25DclRBQi1lZmxIMEVrdjlnUXBISmxwQQ?oc=5",
         "source": "EY",
         "published": "Mon, 15 Jun 2026 12:11:47 GMT"
+      },
+      {
+        "title": "India plans AI registry as it looks to roll out agentic payments, sources say",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVNCTTRPWDZrd1cwM2NQVG84dHJQSHVmMnNJRU5TdGZMc3l2LUFLRlJoNDZQemUtdGF4T3BhdFhtUFhZSXZwQV9PZGxpTW9fMWFJMU4wZENTaTl3Q2tmUGVEVFpIelZFWjJ5R1J5c3dvYk5xUDNmX2Fha0daQUV5eS1RNU1zZXBhQ1Z5VW1JNF9UdzRvdDlzb2U1NW5UUm9vYWM0VGxLcUxzbkttR2cxYU5JWnp6NkJ6Y1E?oc=5",
+        "source": "Reuters",
+        "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "PwC India and Leah extend strategic partnership to help organisations drive AI-led business transformations leveraging Leah’s Agentic solutions",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcTVsbi1nQmUwRHF1RWVlSkhsU0tqX3ZkLUkxNlJQUHJEUzlpZmFvU3VVQmE5SnQ4ZHFRekZRVHJLTHNCQ21DU3psa0VPWHNiejlDTXJqMXJMYkx4XzItczFvVEw3NFVYbEVldi1IVDNrbzI3SF90NzBiaGxmcWpmaWF2QUticUZxWGVEUl8wT18tTVJuLUtsdHdpemNCdG1kQlo4eDJZUEVRQWpXY3lRUXFwdWlUazdfeTdMOXFNOUF2dFNfRVR1SHllaWNIQi1PZ0RDcjNucE5iVEJsaWhxUG1ST1RsYWJreU16VUVhdHBKcjEtNjVocVp0bUZhcFNOcWJqZVFEMlpsajA0MHo5NGJTa2E?oc=5",
+        "source": "PwC India",
+        "published": "Mon, 01 Jun 2026 08:41:37 GMT"
       }
     ],
     "layoffs": [
       {
-        "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVNeHlYTmhBOGxzTWdFQzY5QnZxS1ZRc2JHclRnSnlOdnk2R0VUNk1MOHRFOWRHZUJtYTduZm5qX2FDSnU5c05KTENud19aNmlYXzk1ekR2SmRvVEZHcEJ4NUFKTFBIQXZTekFmRlFEaEhXVURuRmtTdV9SYnVIVDQ2OG4wLURmUldlUnFRUzU?oc=5",
-        "source": "CNET",
-        "published": "Thu, 12 Nov 2026 19:20:00 GMT"
+        "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
+        "source": "Yahoo Tech",
+        "published": "Fri, 13 Nov 2026 17:02:05 GMT"
+      },
+      {
+        "title": "10 tech layoffs in 2026 and what drove the job cuts at each company",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MamFYbjJoTWxaWkJWNEg1emRPSFptMjNpWmlJUXp0WTRzR0thSTBKSGlROUhfNEkzdWpDUUh6TmE3UEI5QVpkLW5mNldQUmYtakJ3SlA5eElYVWswV1ZDZWQ3aTBZWEh5UFZzb1l3eUVKV29kUG1uMHpyZw?oc=5",
+        "source": "qz.com",
+        "published": "Fri, 13 Nov 2026 18:15:35 GMT"
+      },
+      {
+        "title": "Tech layoffs 2026: More than 200K jobs cut amid AI investment",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWxpRW9QZEtEVy1NLW1BV0RKNWU0Y3JfRVFmSG1MbTJuMW04RDRURWhLWENnc2pPZC1iN09Zc2wwRXp0NkZNSG0wQWZlVnh0X05XOWYtOVpLWW1hekp2SHdCRWlDZGJzNFY4bW1ITGJmMzN5YXM0OEkxYWdQSVFiRldsUWg4Z1FBOUkzaUdDVEQ?oc=5",
+        "source": "Beinsure",
+        "published": "Fri, 13 Nov 2026 15:24:04 GMT"
       },
       {
         "title": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
@@ -53,28 +65,16 @@
         "published": "Wed, 11 Nov 2026 12:25:02 GMT"
       },
       {
-        "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
-        "source": "Yahoo Tech",
-        "published": "Thu, 12 Nov 2026 16:31:31 GMT"
+        "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVNeHlYTmhBOGxzTWdFQzY5QnZxS1ZRc2JHclRnSnlOdnk2R0VUNk1MOHRFOWRHZUJtYTduZm5qX2FDSnU5c05KTENud19aNmlYXzk1ekR2SmRvVEZHcEJ4NUFKTFBIQXZTekFmRlFEaEhXVURuRmtTdV9SYnVIVDQ2OG4wLURmUldlUnFRUzU?oc=5",
+        "source": "CNET",
+        "published": "Thu, 12 Nov 2026 19:20:00 GMT"
       },
       {
         "title": "Qualcomm layoffs begin in India, here is what Indian employees may get as severance",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWZTMHlWdVBjNHBKUl8tRU5HRFk4Tlg3UFhaem15VlA2YVNpR0pvWWxVT0Q2c0VpZ09NNnBISnUtMmlaLWxEeUUtdkREM3NQSHBHZi1ONF83eTM0X1hraFpkVlB2NC0yN1dBZmF6SFZncnFMdF8wR3N3T0FsUFlsdW5xYmRBNThzMVgyYUhhck5qb0FscmZqaThaYS1LekR0dzBuOUFiOGJHRFFZazNvcEVFWG05S3FtNThrWVVveXdKOEM5ZUtFdHg1VklxQVF4UmJRWFRENzh3bVHSAeABQVVfeXFMTl9hc0M3MHcybC1iVTNjazBTQWN1T0RNR0hRb3FBRjBHSkt1a2pMcDFBeVNBaHZXYjBkdmdiekRsamhTajJyTXdVQ3l2WGFGcW5oaWNLZUp1ODYyN2gya1R2VkZWeWZiUVMweXZKSHRENTNxaFQ1MnpyQzdIa3pzbWpVa2UzZm1neWVaSUhiSUJQN0lTZzh1VlYtWUl3VTNlNXNVSlJTUHlXaVlHOVdZXzBGbzR5eHJ0eWZ6VlBPZ0ZLWkdVWEdjdXRGaVlHMnFTVG1CZWFjVmRYVzBIaDN6X0o?oc=5",
         "source": "India Today",
         "published": "Wed, 11 Nov 2026 05:13:47 GMT"
-      },
-      {
-        "title": "Qualcomm begins India layoffs amid global workforce restructuring",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT25RcGFCLVRtVHBtQTczUENHQkgtQjJEeEV0M2dURjBEYXFjYU9CM2xLaDFEck1CSTlUMFNvR1NLWkNfWEtfelpDOWNqTm9WQlR2V2k3WjRVU2tvMnAzczhHX29GNkl6Rlg3NVBaekxReElESzBOT1hQNkFTdE9RWHBqRUxUVEk4aHVHQUJ2N3hRUFgtN05jWDFmQXMzTFB3UmpoSmV4aHctWGRKZWIyUENtVDc5OGFZMUJqc0ZhSWdtWTV0ejdRNl9vcGpWaWVOWXBELWlGRUo0TkFoMDhDamtsQ2hVOVHSAewBQVVfeXFMTkgxbGplelRGWFE1MmRXYkxjUFhYaTUzTlNoRXVHVldWSXRRcVdCd20ya25NVjFVYVdDNlpxYldySHNjWHBaNlZ6Z014U2JiNkZ0NkJrZ1JDSnpfWU1wUVdBbFAwN0ozM0QwcC1xal9JUFBWQlVqOEZ5dWdKVGxWWndOcnNZalZhb0duYjk3c0NjaW9oTnBVenlqVXhrV3I4d1ZGS3BPM0pVcFJaM2VBWWRqRTRwMGMzUGpQdXZiYTF3YTM0UG91X09lMy1yb19jTVI1TkhzV1c1ZFVBWHF5ZW1Yd3FPN3piX2VuOWk?oc=5",
-        "source": "ETHRWorld.com",
-        "published": "Wed, 11 Nov 2026 12:55:48 GMT"
-      },
-      {
-        "title": "AI Layoffs Tracker",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SZnVlV3ZWcFBrLWJzQ3RjRDcwT3JBTlJLWlRLQ29rWmhtSjdnaHpWb1UzemJ2Z2NWbF8teUc5M1cyZmdtZ0E?oc=5",
-        "source": "Layoffs.fyi",
-        "published": "Wed, 11 Nov 2026 08:00:00 GMT"
       }
     ],
     "placements": [
@@ -117,48 +117,66 @@
     ],
     "india": [
       {
-        "title": "SC: Indians married here can't get divorced abroad",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXBXMnI3WFNnaWltZGtmcTZhdFY1M2FGR25tdzJ3OTlJOWxJVTFpczF0a2N2RDJta2llejdrbDR4NHhZckVxTS1hMHNQOFdCeWFQbVo1bmJWU1UzUzZweFdoaUZzb3FtSHpRaHdCQmZJeG5rcXRqQldISTBVcmdVN1VBdWhtQ0hpczZqRTU5QXJFR3NMMXNPVmFoU2x4VGNRYVpGbzF3WXVTRWs3Q3VHOHVwZW8tXzTSAbwBQVVfeXFMTXc2MHd6QkM2LXJWWTloSHpsVTU0d2R2UC1scGtoQkdvaDVLYWJWcFFLMkcwMUZqZUpHMzZJWlViTHk2M1Rlck5YZ1hRZUhnejFFMklWVlVUaWNYaHd3SlNFUldYT3dLT25FMjZ0RXIzbGVmNHV6WHA1R3VvSW45X2N3YnhDZG1Cb25IWmhYcWJCbFo1V21WQjlSMXpHa25kUUYtVmxaRk9SYTR6ZWtVS2ZpTVhaZG1rVXBmdnU?oc=5",
+        "title": "Microsoft 365 outage ends after over 24 hours; Outlook, Teams restored as company says ‘underlying issue’",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZXcyaG5HWnZxT1doRmJMZkpFRGRWM3ZfbHpDeUZiZ3BXbF9ja0toNmtWSUk1UTZJQWZTVWJkY0xYanpHeWVFWnlwTVdTc2pKdFhIY19kTTI2NExzZzhoZVNvNm9hcl9sR0kxNlBOcEJ3QzBWLXJTNEVYQXVaVHJKTDBPRU1rc2xCT2hFVi1NU3hoRWwzeXJ4b1Q5YzEwbVZ0RG1Da0dUQ05sQnpkcDVDUUwwX3hKN0xyRW95bzBqdWpaMURkTDRDdEdjWlMtb0p0TDhkSVFWbmtXZTg0MWJjYmhOc01WREtoSWZYLXJ3elY3a2RwZk5VY1E2WG10cWVWUUZGS0VneThlMHdXSHE5T1dMRkR0Y3hieTluYm54ONIBpAJBVV95cUxPN3VHMUMxTmxidU9Sd1d6T3lOeUdJNTRNejhoZ1dLVTFqUGhKaThhNGN1c2tKNFR3RS1PM1E4eVluTGRRenpjWTZfWWxoMmdjVkdfd01mTUVXcUFiaTVsTlhJZ2NIZDRfYTA0ZjhLYUphN3pUZ0lDczY2ZnlhQU9JVEpRNEJEQzk4NGR0SHFVRGt4YUlPaGFaZDNSVFRqZElYX25FRkNRcjg1Yk1OSHlJMDcxWW1FUXN4blB1Q3dKZ2RwZXZPdTJCVmptelFRVkFPZEJacHBPellaWENnMVBLRnpUQzlMRmZ2cUNiVENUc2FtaUZUbXdRRk1EelNlREJoZ3Z1MWtxOHBrZjhFd2U5TFR3QXQwckdnZlFrNlpFdDM2Ymdk?oc=5",
         "source": "The Times of India",
-        "published": "Wed, 11 Nov 2026 21:08:00 GMT"
+        "published": "Sat, 14 Nov 2026 06:52:00 GMT"
       },
       {
-        "title": "Microsoft outage status update: Company says that the changes applied to fix outage not working 'as expec",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV1VRRGZDN2FyaDB4Y3E2VUNuSEF3dm0zUlRRSWNmR2U0bmhrYjUxZlFFNDlaOVEtN0o1b2dMcGRiYko4Y0F0bmpieEE0MXcwZHFrNWdYUDBvb083ek9kU1VGUFpyX0dSbHMwam9PV1VhRTlNclR4Sll5RnVRR3BqeVBZMmozVmZDMVJYUHl4eTV3REdoRVRkRjcxUTFtbTJycFpWMG40RGtnSF9WX1ZXdDktbkdHTzBSSFdzdlN2N0VhRXJGTXctOWhCZTA2aG9LSkhWdHo1TjNCRGQtdHBFMXlhdjgtazlfb2p1cVc5WGZuZjE4dlpkV3luc01JYXI1eUtPdnltcDBDYms1VDZyYnlyNlA5Zzl10gGeAkFVX3lxTFBaakVRQUs4MXFDS19VUGZGaDJRRkJaNE1KSElpOGE2b1NpdlV4dGpfdVB3VzVudmMxcEM0SUh4dUhaU05KMDFiY0RhNDIwQ1k5Qy1XU1pOaWwzVkRHcDY1SjU0dkVybEJ6am5ST0x2azBEdWdhZlJ1LUZNZVVCNEpVQXl2eGhOSTlkQmFmcndBYS1haGw4ODhsY3puODZ2YmhPeVFhOHJzSjdHMGVXVU1FUV9oOEhzRmVwTXlPXy0zU3FMd3RDSFp3NkxXRGRTS3lIaVZmeUJBb1FCX2doNUxQamFMN0VfajJLNTN0Z2xkeWZRX1NreFFQMTc3Y0NfNFFGSEFNSmVLRnBWLWd0MzM0dkR3M3hua2tpR2dwcmc?oc=5",
-        "source": "The Times of India",
-        "published": "Fri, 13 Nov 2026 04:32:00 GMT"
-      },
-      {
-        "title": "Microsoft Outage Hits Airline Ops In Delhi, 3 Flights Cancelled, 2 Delayed",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblV6SExqQlg4ck41ZFdhRU5KOXI2b2Nha28zT0dGcU0zWlZ0dzJ1RHFOdW5TQW5JR015Vmtjd0ZacjdIT2dxS1NVNldydmhwUi1NQnItcUt6Z0FQb00tSHhJb0VRbE5VNFJMaXU0WVhZdU01M05HVHY4dkxGRnU5WHlKRHlNYmxXY1E5VTdDSHVuZmkySG5BVUNNeVdkWlFpbXBRRmRJR0hIZVdnVXUwMElhYw?oc=5",
+        "title": "25 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzVFd3YzTHRIdVNJYW11QVFnV0JOVUZib1FLNFRiNmhrX0Uya3h1SERlZ1lEWXBHMTFrVUNTc0ptWWFob3JKdlNGSjRrMGFFSDVGUUVWTEttMnhNX2lySVNDSlpRMU41U0pvVFU5RnhMVVY5Tmt3UzhXMjZoWlFyWmE1MVI4T0szcnFDejZNMXJ6VE1UN1RKaFJISVlKUmVDUk9hSkZXdmdnU2dVUDFETU5YMEtQZ9IBvgFBVV95cUxORnUyX1lBelQtMktKMHoybElyU1NVTEFqZ0FIb3hRNEd1X2txeTAwRmx0UWtzQUgyN3l0NHRISTdwZXlsVjQ3R0xpLWx5YjFnQm5menRfNllBLVVuSHNZcXpEUXFlT0N3dGpUbXB2WU9RX2wySk5JaTVQUENoQkpEbW1DdVd5LTl1SG1OblB4WDZaTm5oaml5c1VyOF9kb3Q4LW5ESW1XUEZnOG9RUnV6eTVoUGs1YUxqcjZfU2NR?oc=5",
         "source": "NDTV",
-        "published": "Fri, 13 Nov 2026 06:49:00 GMT"
+        "published": "Fri, 13 Nov 2026 11:15:00 GMT"
       },
       {
-        "title": "'Servers remain stable so far': Microsoft begins restoring services after global outage hits 365 suite",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObThZYmh3OXJoNHdNeC01VWxDVUJpUWxSRUEwYmdGenYzU1dENkNNMVZEZ2JodnlJczdhX2lxbXlVck5Wc2VIN0FKeHNZMnk4RXZfQ25SZGV6UWxNZU9UdG0yczVaNFNiWHZPX1FoV09GbTJ4Unowd0traHgzMnlaam5IbXU4MW1WeTVMTElrd1ZXRnpiS3Z4SzNIMTAxYTIzdlJhYXRzWmV3RzlGQUx2aXBLdXNPTFE4M095ZlhCSkpWcFdTWE1HcUtraXkyWG1yTGhuaFkwbVA2dU1VeElYaVk4SVdLcy1rS3pKRDJmWlNWRDB2cGxEbXpKdWRWUDJEZWJtTkwxNnEzRkFGR1ZB0gGUAkFVX3lxTE9KUEk2SllPSG8zTVdfSUdIMnFTdXEzbGx6V21TNjhrRnB0N01ERnRxSzRqM1gzZzR0NjFxRzF0Mk9oZnZUUHhtVlZpYkwzYm5TSUFBemRuRFo4WDZKai1CbURfb29ia0lVN2ptYVVnQjJEQ0ZCbjNJclBBanBEWU9JZnB3RU5kTG01T3E4V0xfdWJIUnF2aG5mSWpHSnlpLVoxNjNyWllJWXNlUzFOUXNhZmkzcjR5ZVJiOE9ZMEgyM0c5OGJJR0VfU2VUN2NyYWNxUEZXV2FpQW5NQmpteWNnN0FPWGVtaG1xTHMtcEFaRFpQX1A1ZUlsZkxEejJWZms0SlptMDBfQy0zSzdmVEtIcHlxdw?oc=5",
-        "source": "The Times of India",
-        "published": "Fri, 13 Nov 2026 00:58:00 GMT"
-      },
-      {
-        "title": "Indian Consulate in Dubai working closely with UAE authorities to help victims of Fujairah accident",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFQwS3R1NHl2MVRJdEdzRjM5LTU2MHgtQWFHOGU5YTRicWxaYUw1b2ZIMk9QeGJtUjJUU3cwMXh0RDJCcDRoU0pMeWJTNzZaLV90WXBmajhFNy1sREJ0bHJ4UWtmcmVGU0ZJQmNyRGtfMlFpQkQ2VWFFOTE3X3gtSFJya2cyeVlXQ3VXVUVIV2xuUkwwRXhkNVVFY9IBogFBVV95cUxQSUI5bkctejdrV2JVeXExOC1JVGQ1VHBqRGd4REU1TTUyckJjc1ZNRzJKT3hOUUNXZTRNV0FPdWltQWJoMmtnRWJ2bjl0cUluVVFLbFBmOG9vWDRpNHhXTW9YZ1dJaWlSRFY2YTRVZFFzdDRQNmtLNV9WS29lZTRlWjNrMHdpUG1vLVZDY2xVNTN5NHlRNlJTMTB4WnFXMEhyWlE?oc=5",
+        "title": "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5",
         "source": "The Hindu",
-        "published": "Fri, 13 Nov 2026 01:11:45 GMT"
+        "published": "Fri, 13 Nov 2026 11:48:46 GMT"
       },
       {
-        "title": "India news Live Updates, 13 November 2026: Four killed as suspected militants open fire at vehicles in Manipur’s Ukhrul",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMVc1akhOU1BhWU5qcXdRcUZMYU1iS2kwYmZLb3VUNXdmVzMxbDFUVE5rU0F3Z2JlQjk0elpPMXFHQ0F4RmpYekxrbUZRMUJWODc5ZmpGbkw1aXpYMlgzR0xCWWRDT1Z0Mm55cjlBdVVGdUNySjVXZm9iR0hWUDduMkhfN1k0cjRDVURlX0tIM1ZwM0t5bGxxUFMtbktlbjk2S2tDMEt4cmRzOFhLbjNvc052eWwyczNjZFdVZjBBeXZmNGVKYXNjeDlmcDY5V2lJQms2MUtPTGI4TnF1bDZrUXd5R3F6SDFRTEc1bUlzTFNwWnQ1VXfSAfwBQVVfeXFMTWtLcnBrbkMxa0pXT2ZBQTV0OXJzSGFHLXYwNVdRaWd1UTVEemkyemZJQ2NwVFNMOERJRVN4WmpCSDBWVEFPSzFCc3lFaUdYU0VpSjJNUzdQZVZWWF9sU3NnckdlY0YzcF9McGlLbnc2RS04Tlc5WENQUXRTSkFhTnc4MnQyX1R4M01iUzVncFhTbjkzd3RsS3BMWnNzSmI2STlvU2NtSkR3dDAtdVdsWGxTUnd4cF9iejQ5U083TUtGN0xZT1hUMlpNaHFHV3owT3hNbmVYV0x1TGRZZko2TXJrM29waE1LUW1veVp0VndfUHhfWVpDYmlrdXQ3?oc=5",
-        "source": "The Indian Express",
-        "published": "Fri, 13 Nov 2026 10:26:09 GMT"
+        "title": "CJP: India’s protesters face government crackdown after summer victory",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5",
+        "source": "BBC",
+        "published": "Fri, 13 Nov 2026 23:11:51 GMT"
+      },
+      {
+        "title": "US briefly grounds all flights after ATC glitch causes longest shutdown since 9/11",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNFZxdzZzUXJGN1J6WUtqa0JiSUM3TDJOcnA5OFppLUcwX1VGUElFTHFrNDEyYXBTcnd2Qi0wZ3NNWlhtNmVLUDZiUTdFXzBjLWpOVmFoM2tQS1NsRnZOZi1wV3I2OGVpeDhGenpaV01FaWFqcWZjQ293RjFNT0tucWZIT0otckx3NVhZTEVwUjR1RDd2cWFna052eGV1ZjNTUzZSQTdOb1hjeGdjOE9MT2g4S0RiVzBCVVB3M0o4U1BSb3FfVkRuaWJYaVFiRU1IRERHd3Flc0VTbWF60gHiAUFVX3lxTE1GMk4zYy1ESWVyMEhfY25WQ19vWEZoaWhaRTB4RTdGUVpiX0tHQi0zY0Y1S1hsYk1BZ3FGZ0tHakJkeVdDWkJ6eTd5UmM1U25XTGcxWXB3N2trRFRhczYzcXFKMVV6bnFIRXhyWFYtRVlINEd2c0hIbGRtSXRkay1Nc21yYXdCR05vMHJNcWJPOHdrR1dvcl9uOURGWkZtN0V0ZU1rX0Z1SExaZ0V6dFN3YVF6dEFlX1E0RGNKT3pHNk9vT1RpVkRxTW1PUmxSbzY0R0FnbmtXRlNFYXJaTjVGNWc?oc=5",
+        "source": "India Today",
+        "published": "Fri, 13 Nov 2026 21:43:08 GMT"
+      },
+      {
+        "title": "‘Introspect on your own prejudices’: Indian ambassador on US religious freedom body’s Sharjeel Imam post | India News",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMjhlMk9seS1hMXBYZG1RX3B4NEIwS19mMk5hUjV1ZnZNV3JlUmd6VlhQYXhVdEVYdXNkMElLN3ZGNWozWk1RcFp0QV9MYlFKZ0d5eURPcXNhYTFCX0JPM0FJR2VHakR2MWFPNVBCazcwVEVBUXI4VWhaS2R5YUJ5eTUzbERqdk0tU1pPZDNEVjBsekc4SUx6NGdXZUphNmRrczlSYmx1NmFBeWtEWGhQczhMVEExUmhnaENIY3VtV1R1QnFWeHdoZkpFbC03WURZVVJCNF9tR2N1cklLUEZpdS1hV0Q5VUNGN2tmN0R4TzF2cE5Kcmpv0gH8AUFVX3lxTE5KbHNHYVQ1RlhSZUJWSWE2eS1MUkFpSkNSeUxqTGRFdnN6Sll0ZDVjZlNja1ZjOVBtazg1bWlOQmZFS3VCM3JwUERzdXRRVy1WNnFvZ1RvdGpZNkF5UjAzTl93eDktOVVteU9ia1NQbVFnaVBoMFhrWDNmMENpQWdLOTdVZFB4bG8yOWE1NUt0TkJ5SHQ2UDdpWmltNktFX2Q2c2I3bWFGXzJRNnRwUzU0WnF0QmItRkU2Qmh6akZ4SWJCNU1iZ2doaVNET1FsWXp2Sm1lejRrMlJPUER2T1JRVTBpQWFJbmc2ZThMeHVwTUpxOTNYeHdRdXZVaA?oc=5",
+        "source": "Hindustan Times",
+        "published": "Sat, 14 Nov 2026 03:28:10 GMT"
       }
     ],
     "sports": [
       {
+        "title": "Ahead of ATP Finals, World No. 1 Zverev faces new lawsuit on domestic abuse case",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1ZoaGI5WXAwM0JjUUN3aVJGRkd2UkNjYXBPV3RPUHFQMUJGeVNiWFY0ZW1ERUhYMWl1MUZDOTVrLUVJb0psaWdYRzVneUlNM3BnNldodGF2dHRlM3hyOF9ZQm4tNHNBSkk3Mm5oZTZhcW5uMzJIUGlrWkJ1ZFNsclFtcS1TT0dNNVFWemMzbDUwUVdvdlZwd05WMDJJX3JhMEJ0MndWUnlVRnNIUDN4M1hGcVVhNzBPOFJr0gHCAUFVX3lxTE9tUjNOMF9ILThwOUVfVXBHbzJNNjQ5QzB3U0tJVVczNm8zTUFsWEw5d21FVWt2dlFKUGJSbW9wdlpCN2dxSThnQTM4Mk91MUVsaGE3OHlYU1BHN0dkREJrVmRnTHFkTE1PNGNGdlUwOGlJbThtSGIyS043amtFVHJKU3h0VVNJeExQUEEtT056NEotZXFMQlp5OFV4ZjZzNUU2YXJWRUhiVGdQQnc2X2ZEVzJUeklKV0xVMm5jclZyeTF3?oc=5",
+        "source": "The Indian Express",
+        "published": "Sat, 14 Nov 2026 07:02:34 GMT"
+      },
+      {
         "title": "The path to the final four: Meet the Group 1 FAGE WTA Finals semifinalists",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXdkY0ttRkU4MVAzd0JqVW9RajRIYXdWa2Zmb0VxWDJxdzg1dDl5MGFITVBnMVMxSkRyTkYtbjdIclNyVUlPWUNiWEpMZ1B3TE4tYXV1d0p6MjZiMzVZOXF2Y0Y2ZlUyU2pHYWliUVZPaU1oLVNvUmFaZDI0b2hhWl9ueDJlMk9zUm1meFV2bnR0SW8zRVRTNW5FdURLMFJnamMzTEVLTFo2TW0xUW1UbUFrWmphTGpsbnhOSnBlRjZ1NkRETEZRQ1otNklMR0VhNVI0?oc=5",
         "source": "WTA Tennis",
-        "published": "Fri, 13 Nov 2026 01:40:53 GMT"
+        "published": "Fri, 13 Nov 2026 13:13:46 GMT"
+      },
+      {
+        "title": "WTA Finals 2026: Singles semifinals set after Elina Svitolina shocks Aryna Sabalenka",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDFyU0NJNGljbEtfWlJNLWRWZXRhSWF1dFdSaUlneWs4eGYwdUg2MWNEU3lrWThFdnRRNWZ4RHBrbHFhWFhkXzdZYmROTHpIejFGR016azY2QXJCS3FzUWpHdWsxSHNUVmlQY1BadHlwaTdWTWQ2MEZFU2lJcTEtQ0d5R1pZZ2ZueElwR3lNc01tZWlNZUdKQVdENjlJT2Y0RDZz?oc=5",
+        "source": "The New York Times",
+        "published": "Sat, 14 Nov 2026 09:47:43 GMT"
+      },
+      {
+        "title": "WTA Finals: Elina Svitolina defeats Aryna Sabalenka to reach semi-finals as Mirra Andreeva overwhelms Diana Shnaider",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE9UQTVKTFRDZC1VazZKbm9nX0g5X2lNSWdZOGplRXRVQTFKSlBaOEtvT3k3bVlUaWpNdXZDa05oQjBScGJJS19UWXFrSlRXQ2RjaTRvSlNrNmtJcnY1ODRRQWNuSmJUcnpmd3pLM0VfVmJLZzZaYl9XcUZkTTg0Q1hUempyWnVvc1dMNFIwTTVnNEpzSy1MNndCRHdjUVp6Wlhqanl2dWdEclRQUDl4eW1jRGI3RnJJQVJlR1BLLVV6ZkhsYmxhVDVlZW9Rc3hjNTBkUVhtRDJRWkJXOW1PRlUtNHV3T1VHWHNMbUJpY1ZKdFlT?oc=5",
+        "source": "Sky Sports",
+        "published": "Sat, 14 Nov 2026 01:59:56 GMT"
       },
       {
         "title": "Lucy Shuker: British wheelchair tennis player retires after 24-year career",
@@ -167,28 +185,10 @@
         "published": "Thu, 12 Nov 2026 12:30:19 GMT"
       },
       {
-        "title": "Jannik Sinner: World No 2 confirms aim to return to tennis at Australian Open after lengthy absence with knee injury",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcUpjdE50WTZOeTExcWRoa0d1TEhfdEhjbElCcWZDODJzOHZ2S2JJUUNyVE9vYWFLRWY4TlpTRXJaRGQwV1dwZUpxbDFURFh3VEtLMHFSWFVpUFJZcnVJeTRUY1UyQXpLMjNhTDNLS1dNaTFpLU9NQmVZdEQ1czZPRHhsb19DeEp5djdqU1NhNHQ4ZjRBNnlpblFjVVo5bTktVTRYXzdTUnhjYzV6VGQtRmZwSnA1VDRmb1NVX2drU21QWE5qVllkdlRoMWFyV3dSaElTMXZvRnhIR1V2ZXlwbWlMSXVydGlWOWpCRUNoWUhRbFlw?oc=5",
-        "source": "Sky Sports",
-        "published": "Tue, 10 Nov 2026 14:22:35 GMT"
-      },
-      {
-        "title": "Pegula wins thriller at WTA Finals, Gauff eliminated",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDVjclRubGxpdHNtTkdraWxoT05Jd0NKbFd2dHFicGdTdkpiUDhoNHZBTUZkWTBYcm51amg4ODliQlNZbUViOVY3ODJXbDVJMTRCNndXaWNzWWpmMXFNWjJlcWFZdVNnOWZOUm85Ty1oYmJQTnZocjZBdld2UWlyakJvVEJ4Ym1OTkhXbzJBRFBybVluSFY1U0FRb3NDTFZrQVA0?oc=5",
-        "source": "Reuters",
-        "published": "Thu, 12 Nov 2026 22:29:00 GMT"
-      },
-      {
-        "title": "Tennis chases the sun. At the WTA Finals at Indian Wells, the sun is chasing the players",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzdwbGItcU5iSjUwaElmQ1BvY05Ja3JyRXRtSEl0QlF1WjdQMEZic1pxZzJaR1FWLVc2VlR1bi0yUTgtVW9rVmJxb1BJU2ZtMHZOYm53ODdCaEpZUnlYOS0yaXRGX0pVT1p4clR1RnRSWGRDR2VoU2dpWUhSZDZoTTBzeEJtdFV3Wk9PTjFaR3FJMmpsWDdYcWdvNXY?oc=5",
-        "source": "The New York Times",
-        "published": "Thu, 12 Nov 2026 10:01:02 GMT"
-      },
-      {
-        "title": "Gauff wins six straight games from 5-1 down to beat Kostyuk and keep WTA Finals hopes alive",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOME16SzF3bXNyQU93NFN2a3pkQldBVzVtb3VYNkJTSjFVMnFUTGYta1l2eXVFTnNpYzIyaExqZzFKQTItZjhTRjRGNnB0bjI1VEU5aTVfa2NUOG12dVZGaGpKRXVOYlJNNUQyOGh1SEwteGQxS2hFYlBPbHUyWU9nZmJqbVdmaEVUbWJkb0oyLUFsSkFrWjBOT1RRVGFDajk3Q1NZNVBBLWNSLVI2UWtudFVUeHVrZE82WVVGZFMwejR1NDRPZXJuWmRhakY2V2M4eVJpZzJBeGp4aWVJRVlDUVBFZENDeG8ybkNaWGR3?oc=5",
+        "title": "Andreeva sweeps WTA Finals group losing just 11 games, brushing aside stand-in Shnaider",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX2JMRFhnU0pmVjFtRkpHMkh2QTFoNlhGa2NnSkFmcHg4M0tFV1EyQkJfeDJ4LTFXVzN0aVg0RUZBbGNua2NPNlNaSFRTbWF5aVVUU0tLVklRdURrTHFTR0hzUXJIblE2cWRPZG9kbG9xV01LT1ppS0p3X2lvWmdTQUlTYnpkWDhzUmJPbFlsMHgyNkw3RTBjRk9pSUp0bnZHV3JJYmV4MFBqV0xtOTlrYzktWktPeUpaQlVtWlZHd2lWZWYzamc4TmUtRXVyRGtsY0NkRl9VbUhZYW4tQ2lwVnc4SXdkaGM?oc=5",
         "source": "Tennis Majors",
-        "published": "Thu, 12 Nov 2026 22:00:58 GMT"
+        "published": "Fri, 13 Nov 2026 22:16:14 GMT"
       }
     ]
   }
