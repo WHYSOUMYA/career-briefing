@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-11-15T10:25:51.630075+00:00",
+  "generated_at": "2026-11-16T10:41:21.416832+00:00",
   "categories": {
     "affairs": [
-      {
-        "title": "The agentic AI stack is getting crowded. Orchestration could become the real enterprise advantage",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXU4ckxFM01WZUZodEpfMnpQUzI5ZDVuZmx6SlJxUUttZ1ZDR1ZKdXNsSms2RHdnNm9oOWJZd2FOWFEyYWRHOG1PVHhhSVF4amZkXzZHbE03M0c4TFZaVUo2THdqNmllMGUyaEpFVXFEYkdoTWNLdjFrdHV5aXNBYVRwOEo2SW1saU1pU0xSbUlsMHpJVzBZYV9meTQyczk5QVJqdXJGUUNCUko0YVRiczduT3BoNUZVT1dfOXBXQzFWanQ0QUUyOU5jdERCcmItVndRcXpOTdIB5AFBVV95cUxOWTRPMVlZTmhGd0ozYVc5UDhBUTBBSUZVZnR4WHMwb1Z6YkNYaDd1YWpRYlBCVVFxNXNFUzVqN0NtV05MUGs4Q09lWFpfaDdIUnlwbWpXajJOMFJhS2FOVjNNVTk4OUVQWTg3aG9lRmZTUU40ZmU1ZU5EOTdEakQxWEt4TjJZQXNuaGpZamRwN2ptRVg0M0k3b1Y4NHd6Q2U4SUVjMVZuenNITUNuT3Exd2FuOHRZdzVrQ1VlMDU3WEFtNUpSWWwya2tETEJVN1pYVURuUk9zQ0xkaXkweGhVVE5DNkg?oc=5",
-        "source": "Fortune India",
-        "published": "Thu, 12 Nov 2026 13:27:39 GMT"
-      },
       {
         "title": "NIELIT and Intel India Organized National Leadership Dialogue and Launched Agentic AI Skilling Programs for Preparing India’s Workforce for the Agentic AI Era",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vMUxrLXhnMXZXeVRZRkdydW5qOE9sSU5EOThZS0NFU1lKTkdKalJMRDBLMU96MjludERYZ3ZJOFd5NXRfNjdXU0ozeUwxTURQU3cxTGlVMUROeU45VEUwYnVmYVdvYXFy?oc=5",
@@ -15,10 +9,10 @@
         "published": "Thu, 03 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR?oc=5",
-        "source": "Analytics India Magazine",
-        "published": "Wed, 11 Nov 2026 11:30:28 GMT"
+        "title": "The agentic AI stack is getting crowded. Orchestration could become the real enterprise advantage",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXU4ckxFM01WZUZodEpfMnpQUzI5ZDVuZmx6SlJxUUttZ1ZDR1ZKdXNsSms2RHdnNm9oOWJZd2FOWFEyYWRHOG1PVHhhSVF4amZkXzZHbE03M0c4TFZaVUo2THdqNmllMGUyaEpFVXFEYkdoTWNLdjFrdHV5aXNBYVRwOEo2SW1saU1pU0xSbUlsMHpJVzBZYV9meTQyczk5QVJqdXJGUUNCUko0YVRiczduT3BoNUZVT1dfOXBXQzFWanQ0QUUyOU5jdERCcmItVndRcXpOTdIB5AFBVV95cUxOWTRPMVlZTmhGd0ozYVc5UDhBUTBBSUZVZnR4WHMwb1Z6YkNYaDd1YWpRYlBCVVFxNXNFUzVqN0NtV05MUGs4Q09lWFpfaDdIUnlwbWpXajJOMFJhS2FOVjNNVTk4OUVQWTg3aG9lRmZTUU40ZmU1ZU5EOTdEakQxWEt4TjJZQXNuaGpZamRwN2ptRVg0M0k3b1Y4NHd6Q2U4SUVjMVZuenNITUNuT3Exd2FuOHRZdzVrQ1VlMDU3WEFtNUpSWWwya2tETEJVN1pYVURuUk9zQ0xkaXkweGhVVE5DNkg?oc=5",
+        "source": "Fortune India",
+        "published": "Thu, 12 Nov 2026 13:27:39 GMT"
       },
       {
         "title": "Agentic AI Returns in India Projected to Grow fivefold to US$14.4 Million: SAP Study",
@@ -37,6 +31,12 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVNCTTRPWDZrd1cwM2NQVG84dHJQSHVmMnNJRU5TdGZMc3l2LUFLRlJoNDZQemUtdGF4T3BhdFhtUFhZSXZwQV9PZGxpTW9fMWFJMU4wZENTaTl3Q2tmUGVEVFpIelZFWjJ5R1J5c3dvYk5xUDNmX2Fha0daQUV5eS1RNU1zZXBhQ1Z5VW1JNF9UdzRvdDlzb2U1NW5UUm9vYWM0VGxLcUxzbkttR2cxYU5JWnp6NkJ6Y1E?oc=5",
         "source": "Reuters",
         "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "PwC India and Leah extend strategic partnership to help organisations drive AI-led business transformations leveraging Leah’s Agentic solutions",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcTVsbi1nQmUwRHF1RWVlSkhsU0tqX3ZkLUkxNlJQUHJEUzlpZmFvU3VVQmE5SnQ4ZHFRekZRVHJLTHNCQ21DU3psa0VPWHNiejlDTXJqMXJMYkx4XzItczFvVEw3NFVYbEVldi1IVDNrbzI3SF90NzBiaGxmcWpmaWF2QUticUZxWGVEUl8wT18tTVJuLUtsdHdpemNCdG1kQlo4eDJZUEVRQWpXY3lRUXFwdWlUazdfeTdMOXFNOUF2dFNfRVR1SHllaWNIQi1PZ0RDcjNucE5iVEJsaWhxUG1ST1RsYWJreU16VUVhdHBKcjEtNjVocVp0bUZhcFNOcWJqZVFEMlpsajA0MHo5NGJTa2E?oc=5",
+        "source": "PwC India",
+        "published": "Mon, 01 Jun 2026 08:41:37 GMT"
       }
     ],
     "layoffs": [
@@ -47,34 +47,34 @@
         "published": "Fri, 13 Nov 2026 17:02:05 GMT"
       },
       {
-        "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVNeHlYTmhBOGxzTWdFQzY5QnZxS1ZRc2JHclRnSnlOdnk2R0VUNk1MOHRFOWRHZUJtYTduZm5qX2FDSnU5c05KTENud19aNmlYXzk1ekR2SmRvVEZHcEJ4NUFKTFBIQXZTekFmRlFEaEhXVURuRmtTdV9SYnVIVDQ2OG4wLURmUldlUnFRUzU?oc=5",
-        "source": "CNET",
-        "published": "Thu, 12 Nov 2026 19:20:00 GMT"
-      },
-      {
-        "title": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczhlaG9mLUJPRGkzWk9Sem9lLWlYQWQ3RWpfUzRlZzRjWkxrZDBTVHVFNDhsd1o1MEx1ZFNHUlBaZUVXdTFZYzY3Y1JKUU1oQVh5dFpWRm1XcTRsRlYtdjA4WW5yZ0wwSHoxaFUzNWtSVFlJbWtBejFGOU4wQVFEeEZmSnQtQ0FYRF9iUUZxTU4xVHB4cUVEUjZleDdpQzYzaUlmMG9leDc1MTV4WUhXdzdqWUZwTVVUR19KV2JMYjVvdXPSAcoBQVVfeXFMTXlqemhRdkxuNlZTNG9fdHAySHNXMDdzUVQ2aGl6bmV5Z3d5YUdQeEZuUVF3WU9OeWwweGRmT3UyTFQ5Q2N6N1dVcDlfVDRTanpMczFua1NvUW9PQ2lVTFV3dFlIRnFKcW5iVmU4WU9CTUJGbC05MWdRaTFudzNwVl9tQ2gtMnV5cVZ1RjIzTXp3LWN3TkZxUXFXN0JYOVdsR1E0VVBXcXZIbFI5cFhIRloxTk0wLUMwYWRvYWxVdnY1d1ljc3FWTDlwdw?oc=5",
-        "source": "The Hindu",
-        "published": "Wed, 11 Nov 2026 12:25:02 GMT"
-      },
-      {
-        "title": "Qualcomm layoffs begin in India, here is what Indian employees may get as severance",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWZTMHlWdVBjNHBKUl8tRU5HRFk4Tlg3UFhaem15VlA2YVNpR0pvWWxVT0Q2c0VpZ09NNnBISnUtMmlaLWxEeUUtdkREM3NQSHBHZi1ONF83eTM0X1hraFpkVlB2NC0yN1dBZmF6SFZncnFMdF8wR3N3T0FsUFlsdW5xYmRBNThzMVgyYUhhck5qb0FscmZqaThaYS1LekR0dzBuOUFiOGJHRFFZazNvcEVFWG05S3FtNThrWVVveXdKOEM5ZUtFdHg1VklxQVF4UmJRWFRENzh3bVHSAeABQVVfeXFMTl9hc0M3MHcybC1iVTNjazBTQWN1T0RNR0hRb3FBRjBHSkt1a2pMcDFBeVNBaHZXYjBkdmdiekRsamhTajJyTXdVQ3l2WGFGcW5oaWNLZUp1ODYyN2gya1R2VkZWeWZiUVMweXZKSHRENTNxaFQ1MnpyQzdIa3pzbWpVa2UzZm1neWVaSUhiSUJQN0lTZzh1VlYtWUl3VTNlNXNVSlJTUHlXaVlHOVdZXzBGbzR5eHJ0eWZ6VlBPZ0ZLWkdVWEdjdXRGaVlHMnFTVG1CZWFjVmRYVzBIaDN6X0o?oc=5",
-        "source": "India Today",
-        "published": "Wed, 11 Nov 2026 05:13:47 GMT"
-      },
-      {
         "title": "10 tech layoffs in 2026 and what drove the job cuts at each company",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MamFYbjJoTWxaWkJWNEg1emRPSFptMjNpWmlJUXp0WTRzR0thSTBKSGlROUhfNEkzdWpDUUh6TmE3UEI5QVpkLW5mNldQUmYtakJ3SlA5eElYVWswV1ZDZWQ3aTBZWEh5UFZzb1l3eUVKV29kUG1uMHpyZw?oc=5",
         "source": "qz.com",
         "published": "Fri, 13 Nov 2026 18:15:35 GMT"
       },
       {
-        "title": "eToro set for another round of layoffs as profits plunge and valuation slides",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qWG12SDYwMlM4S2lDNHhSREZIaXhFaFhvc2pvN0pYamM0SUl1NXRuTWpiLWpVN3lBbjdqY2ZBQ2xKWC1odTBOX19tclRDVWNqdm9iQm8yMFZSRzF4bWJQV2R5X1BuSTg?oc=5",
-        "source": "CTech",
-        "published": "Sun, 15 Nov 2026 08:27:00 GMT"
+        "title": "Meta, Microsoft, PayPal Lead 2026 Tech Layoffs as AI Spending Results in Significant Job Cuts",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSktwZWp4WG9xQU84WnFOcnNnTmJXX3lZS0d6ZTloNW1ZRXEtNDVPSFVTc2dlZVhUX3lUNzNWUEpoVHpIOElrTnpTemM4dDM3RHR5VG50bm9OM0p3M3pHZWVndDZwR01MZlQxY0UtVHhnWnppNVZxemxhUGJwMGt4ZnJ0aEdwTWp1c3B1elc3QUc1OTZsUEpNdDZfd1hSYkpqaUNxQTNfajJ4UDVnSnpWTTRUcFZSOGN1eDZpQXp5anBCUUl0UHhqR3JPdDhqSFdrREZIYVBNYw?oc=5",
+        "source": "Crowdfund Insider",
+        "published": "Sun, 15 Nov 2026 21:10:53 GMT"
+      },
+      {
+        "title": "Layoff Tracker 2026: 90+ Companies Cutting Jobs",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWxJMW1sTjUwRVNKSXpQWHN3OWFieURKZWlHSGF1MVFMdUl5Z0FkRE5zb2J0allacVZQYWplSC1HNXhENjJwbnIxMEN2ZkRNODhHLTIxQXNqWUxkZXUzbnVKMXNvQnRLVUhtY1hIMUthX25NcW95S0RDRzg4ZEttTW5IYmRncm41RTVHNWdpYy1RS1ZuNFpaQnVIS1U?oc=5",
+        "source": "Intellizence",
+        "published": "Fri, 13 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Companies laying off staff this year include Meta, Amazon, and Dropbox — see the list",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUtSVkJCN0tBeHVpR3owbi1YTzFyVHNOZlBWOWt4empJQ29tTnpBQ1ZjbEIySlZ3YnhWN3pLRTRocTdLTURIaXo3RmJqY3RKeHlOc1kxbHBSQ0NSM0NHamVZWjNPOWpKRlpkVEprdW1EQ0RVSW52TEtGem95bDlHVVcyUHg?oc=5",
+        "source": "Business Insider",
+        "published": "Wed, 11 Nov 2026 18:40:00 GMT"
+      },
+      {
+        "title": "Tech layoffs 2026: More than 200K jobs cut amid AI investment",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWxpRW9QZEtEVy1NLW1BV0RKNWU0Y3JfRVFmSG1MbTJuMW04RDRURWhLWENnc2pPZC1iN09Zc2wwRXp0NkZNSG0wQWZlVnh0X05XOWYtOVpLWW1hekp2SHdCRWlDZGJzNFY4bW1ITGJmMzN5YXM0OEkxYWdQSVFiRldsUWg4Z1FBOUkzaUdDVEQ?oc=5",
+        "source": "Beinsure",
+        "published": "Fri, 13 Nov 2026 15:24:04 GMT"
       }
     ],
     "placements": [
@@ -85,16 +85,22 @@
         "published": "Thu, 27 Aug 2026 10:34:01 GMT"
       },
       {
+        "title": "8 in 10 engineers, 3 in 4 MBAs, 84% grad unplaced: The placement crisis we ignore",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3lRbmtheEtYSW9OVHJrUGFLcnBfVWZkM25UQnREdzZnMVF3WWRpY3N6M2IwbHNRMFNPdUxtb2puWXBldVlQN1U4LUhTOEdMVk9oTTNSMnREcVZGZnRRenFEMC1mZXZ5X2ExVy1feDJsZEgwaDcwdUxtSExKbFQ3QVlzTmthTmJ4M2VsS3oyN0dtTHlIaTJKY1RKajlfeXZhd2w2N1FTXzFqVVEzSm1Ub2hjRnRyNlIyaDdtUTBVWTZ2OUdabm83QW95Yk42R0ZMZ1HSAdcBQVVfeXFMUE1GZUpBRkQxUFZmWUlzV2xxclZqSHpxUXZSa2JWTlRvSldpRS1YMm42cWtYZW1mc0s5UC1FMXQ4ck5LUS01RXJOa3BHR2hueWlJRlJZb0szdnhHSWZLc3p1RmFGTFlsamlLcGUzSXFiZ3Y0Qy1VVVRqMmxUMGZQcU1sODBTVFdwdlBmT2o1aVVMQk1OTkdveTdDYVZHVjA4bWxDcW9WVXNuSC1wWHVhOHNqa082cnVCaTBZVEhCLTlXNTUyOGh5ZFRxb2NpTEp3VEwzcDNhXzQ?oc=5",
+        "source": "India Today",
+        "published": "Tue, 05 May 2026 07:00:00 GMT"
+      },
+      {
         "title": "IIM Placements 2026: Highest Salary Package & Top Recruiting Companies",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41V0lwd0VIb1p4UkltWmJuWXNDd0paVnUzc3kwcE5ENW1NTXNPV1Y3VWtsa0JPSHFhbjlualVYbVkyNS1HcXdTUlVtN3FXTjN6YWFpcVR1YV9lSmktbWhLVDZxLTNCa1IyOEZZNGdjZnF3UQ?oc=5",
         "source": "Shiksha.com",
-        "published": "Tue, 10 Nov 2026 17:11:08 GMT"
+        "published": "Tue, 10 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "Four UK universities to hold joint placement drive in India for 2027 graduates",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUJEaEd3TGlRTExNYzRfNE9pU2hOX2ZuS3QtUl9LalR0Z3Z0WVRKV2VYR05NYV9BQ0xVUWc4bXlLdzNNU0NYR3dVNTBXenF1RHlXLUxtekVsSkR2ODBKRjdwcDBCaU9kNVJqZXgySDIwMWNJeC1nSWJRRDkwVFlRTjhKWjFiaXRFUERKYTF1MzdDdEVfVkpzZDdybzg5eFV2aHJpT0plRnotQXpNUi1TQWxWNVV2QjZMRERneW8zZ20xZVkwb2taY2piMG3SAdIBQVVfeXFMTlloSmR5QWl0YlJKSDE3RHFESmVkamlOakRZWGNhTFhlWVdNOEFzZmhWN0xyampob2tPYjNyek9EYkZ5ZW9wRl9Zd3l3djJud2U3SUE5ZlR4YXVNZmxjczhTZmhFYlFzeC1paVBOWmdlbDVxWUdhSVJWdjBHNUluNlYyaUNKVXNTLWVWVldXWXBKSmR1VVFwNC1vS1hNUHVxY0MteS1Odi1ZYkxIUzlTQ0EtS3JYb2RnLXpCa3B0RXNBSVl3RlFsRjV0aldBOVpDcmx3?oc=5",
-        "source": "India Today",
-        "published": "Wed, 04 Nov 2026 09:41:46 GMT"
+        "title": "Trend reversal: Nearly 100% mechanical engg, EEE students placed in campus placements in top colleges thi",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTkxER0M5Z0t1dTh5X3dzaGlnMXZSUkdrY1JLZjJfVXYwZHZBX2M4ZEVvQlNMcURRVWg3SjZrWXZXZ0FTUVhtdVhpZzZLaVAwV0tqSmJKbGtIRFRQNTFoT3ZJYl9udGs0VEFuQ3IwSE8tTE9ET0h3SzBjVFV5STIxMzRSYU9PRnRYWTFNZ1NJYjM1MC10UFE4TUllTzl6OEZ5TVI0S3lzZkpNV2tjd3lNS0lvVTF0VTYtd0p1Zy0wMWhLdFhtXzBqOTlaRmFXSTdGV1R1REVhSGttU0ROX2k0YU03bVFMdEI1V0FDeXBkSTNSVjVqR2c4S2wzVWExV3ZoR1N3MWN0aXZpUDZJcEwtUNIBlgJBVV95cUxOamdqNE5aLVFWazkxdF9lNmRNamVjRjVaYnJ3RXJxblZxTVhQdTZpaThVXzNGeTBwcVVueHppNVFGTXRpbXRjZGtqY1JjNnczRG82a2lkX2RDXzJFZy1qcUQ3ejVSc1gxNzBaOGJzeHlrMVlNd2pKZEFMVDRwWTJNeDdWZExpWTY3d2xuMFdpUHlEWGxHMmpiQ0pmOU5IeVo3Smw0T3JCeW13LWRNQXZ6SEtGTldmUmZvWDd0dW9OdHhrNGs0N0tBR3ZvS2YybnVNTnlqUlpTYlVGc3dJblpFRVltZU1DNDgtUGRFX05BQ05lYUIyejQtdzJzUWpISVA4MUItZlJFWXFLWjU4dXpreHJzODlQZw?oc=5",
+        "source": "The Times of India",
+        "published": "Thu, 28 May 2026 07:00:00 GMT"
       },
       {
         "title": "Galgotias University Surges in Times BBA Survey 2026, Rises to No. 2 in India for Placements",
@@ -103,54 +109,48 @@
         "published": "Tue, 11 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Telangana engineering colleges see rise in registrations for campus placements",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbXVHS0ZpUDJTaGNuLVFJT1Y0aGRTd1REdlRsLW1yRlUwQ3pxTGRoUHlZWlp6QU1ucFU3eUFkeG01clpMdk8xYTFtS0FwMFdFaDJIT2swYm1faGt3dzhiMlg4c25PWE1wYmRiMkZNWTVubXFfWHk5MVFNck56cU5LRGJud2RTd29ILWF4VG5JdTRZQlFwMFFYQ1pZQVZiY1NyUHAwM0VUVUlWN2NfalVLcUJFNkhod05UdzlGdkZGckpRYVNOSGh2Zm5UZ3g5a3lseU1CUnhMOVFpYTdUWlNkVGNSaC10WDJrTEQ40gHwAUFVX3lxTE5ybEpFb013NG81UU1wWDdnSUVhM3hyRnVhSUZxZmMwaTdJNmNHWGt0RENLMFE0VEFBVF83bUE3TDd0bjhHSlE3UU1CVGJFSUNHb0JoWFZzekZuRk14UWhLN0U4Sk1qLVA1Wmo5S2ppekFZOXlSbENKQmVmbVdOeWp4bWtxY3luOElGOG1CUlM4YzBUNkYwS01ZZFNRLWo1WXB4QzRqMWw3S3Y4WG0tdmZtS0YtN0NRSVNlQWl0WVllbG5tR2tvOElPT3FyX2k3a2dlaWJhS1l3bENrQktYZGFrcWw3TGo0emwxMkVPYUU1Ng?oc=5",
-        "source": "The Times of India",
-        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "When IIT job offers vanish: Inside the biggest trust crisis in campus placements",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSWtOLTU4SkJqQlJWd2poMW85T2pPU0ZZTWlUVkhmMUJEd1I3WXk5VEdYSEVXdndNQVhNZTU5cFFsUXJjdy1lM0hLZ2d2UTB1eXJTV3YxcG5GWnpsZGZkLVp4a3RoNjFtaDFFdlpUUU16X0J3eldHZ3JNQTFGQ0N3cEpzNDVYNTJqZWhJMUJheWR0RmNQV21sSHphRTJfTGdHTTczTWlURnF0RkRYSFNvWnhfQTVQSS00ZFNSc0tkbGFFVlZQbGFLM09nb0FJX29fLU9kb3JxMU5wQnIyQVBBd21ScERpRXBNc3BoTNIB8gFBVV95cUxOcXVCaHRaVHpUN0taN1pIb3hnREptX1VwOVZ0UXhOS3h0UTRiczdQdkJPOU5lRld4M3hYUUdrdVpaczNUaDVLVlF5WnNyZXktTDcxZUZYanJnMXZFV1RzbTJfd3JyNkFKbmZFZEhnS0xPTC16ZjJraUhKNWdPWm9URXI3SXhfbmY1d0RVOS1JenBFSHd4ODdfdWFVN3E0S1hRMjNjZ3dDNTFEZTBJY2xFTmUyVm5wNXp1M2xqYTI3VUJVZEl4dWNReXRfQ2t6MWE2ZUJwNVhMbGtoWWFrcm1SRm9DaGR2UHNERXA0QmFOdmxldw?oc=5",
-        "source": "India Today",
-        "published": "Thu, 25 Jun 2026 07:00:00 GMT"
+        "title": "Top AI Colleges in India 2026: Best Institutes for Artificial Intelligence",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWjAtXzdSQUVGVHVzN1lYaFZvOE1wdkNobDdYSnRMTXVnY0MyWGkwNzJybTMzQ1dNYmlWd04ybGdvTVVJbG43eWp4VjAxem5URUJqUDBUYWx0N3NRRHc4N0pSYzJyNngyWE5pVGJXbHNqYUh4U3l2V2lhdzByVkVPN0ZiU3BFWlpCTU5UMi1NTHNyUTVRaVotMWY5aUZCZmc?oc=5",
+        "source": "LPU",
+        "published": "Sat, 18 Apr 2026 07:00:00 GMT"
       }
     ],
     "india": [
       {
-        "title": "Amitabh Bachchan's Juhu Bungalow 'Jalsa' At Centre Of Family Property Row",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTmZSQkRaZU1aaER5dnF0bDE2QlpoTVVVdWZLT1poWkxzY2hKNzJ0ZjR3dDItck9IYl9FUHB4U0lqcUJ4RURFeVBUM0ZwckJuVEFxbVNFSmZpZ1lmaUF0OFdkUG4tZEpsZExTdXRsdERvUTZpZGY5UUh4UFRQVlBjb0FOd203QXFLaEItazhRY0pGVl8xUmdqSGlwaWtadmdZU2UyWWU4ZnRQOFNxNlRHU3ZQM0pJUmlnUVl0VmJuaE9XcEplUm1yajRkdWE2UmxoZ0RIdENLejNTN1FZeE5NVndNbXJkYi1oblVaR3J1NkJ3R0F5ZVAw0gH_AUFVX3lxTE9hRTBZZk1ZQnQwNF9hWmRVak1wMGpWNVV1UHUxTFNid2dJMDRVWnhvaGNrOWV5UDZqWFNlUHFMM20yUnRORHVMRlJnU1RhcjliVjNoQldiZXpGUjktd2pDV3NNQWptTUVDY3pvUFJzb1hvdVh2UGxLNmU4YjdVZFdsUnNpaE5VeWc4bW04bHN5SEtHMkVuTmRqQXFlWElyVWhHYnozbDVnNWtSNGRNZThSdXZKeHAtdi1VWEwxUkFtZ1FPZ0l4ZC1QSlRpaVptdXVYbE0wTHlRVXpUYjM4WjI2b1Fqbk9HakRqRTNDbWlqT0VLa0VVOXU1aGVqSTNCSQ?oc=5",
-        "source": "NDTV",
-        "published": "Sat, 14 Nov 2026 12:10:20 GMT"
+        "title": "13-year-old boy identified as fourth Indian killed in UAE road accident",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajU1RHE2YVBHZlhpU2E1aU9VZWtVZUZsWFYtb18yaEU2U1gzUXhoZkNVSmxYa1BOSmFJbTFRRmxhcGRvT1hXTHNqTDJ4eU1hRXFWOUxGWU5LdGE3dVc2Z3NOb2Q0OFEyUHhPMVhPSS1lREZUenhaaVFJRDJDRUlzeUQzYVlRYUU3YXZJeVlmeXA0ZEJ6TDlsb0YyZzROb19XcU45UjJXOER1VGVzMEtWSmt5ZV9IcnJJeEdDUXpfUE0xQ2RwT1pKVGZn0gHQAUFVX3lxTFBRNHJmUWMtYkQxVFk0XzFGcEMtMW8zUDdjZjAzeW15SHFYeDA0NDd3cTNRRzJUTGotREdwWml6RjBNanZnVk5OaUNkamJHNG4zX0M1eDl5U0NMdmVabVJ6NVhWcGFwa0ZDLVF0TE5laHA5bDlRanJ2UXM5WjcxRHN4QzBIcmFjTVZLTDQtVVc0eC11Nmtud2Fjc1hhU29ZOWJfdlJ0N2s2ZEl1T3pONkx5LXdxU2lzN0JRRjNVck14Yi1QYTBPbjgtbVJBUm91Yzc?oc=5",
+        "source": "The Hindu",
+        "published": "Sun, 15 Nov 2026 23:12:24 GMT"
       },
       {
-        "title": "Canadian woman, 61, reaches Rajasthan for marriage; man backs out, police step in",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa2YzYU5FMHlDeVdVYmY1QjZmUE50VFBIM2FCQ0VjRjFydjRueWNWS3Vac1ZXem5vdTVqVkVaMUwyVWZjUmhDM0wwZlVXTjdBQWRMSGFtVjZXRmUwMk95eklmR1BURmEyZmdLNmVUdWI1a1VFZ0trdmRjRlUzOHJEMWt2ODhHQkotYWxxREowLTM3YUR0S2JDbXRxdkthQUlmVkJKQ3pGSXRZcWhEem8yXzZlS3ZpZ2FIeXBmTU5Sa2s5MnpyWEdtTXRsTTF1c0lVSXY3TEtIOFBzM0NHWGpSWGRfMXFUN1BF0gHuAUFVX3lxTE5kcUNzTklrOEFSNmZsNDA1VzZDcERaM1dZSXN1LTJRejRScmpNS3FmTW9WYWljeG4tcm5QZ0gtYWFoeGVCRENkSUNwZHlwSzRWUzEzQnFzQUZGU1RDUmRVMjA2bmpJeUItNHBVTzVnazl6VW1DZDJhYTl0dmVuSVlxMlNKSEUxT1Q2SkNRRk9VS2RFUXMyeEZtbVpJVDU0TjVRMUdobE43cGpYU19DNDlndEdTTDdfdFdjM2VYOXV5cXotOVpEQ09RaS1WWERIbTdhYkdUUVRaQlRHcGJmQXJjQy1aX0g3V0JJRThjQnc?oc=5",
-        "source": "India Today",
-        "published": "Sat, 14 Nov 2026 20:31:02 GMT"
-      },
-      {
-        "title": "Jaishankar says India-US trade deal almost at finish line, remaining concerns more on American side | India News",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU2E4NTFxVEJCTk1PSkpEY0VpMHp5NkZwWGVUcldSZWdfeE9PVUwxUTh2X1Vxamg4QVpVekdReEQ1dGd2MnNDVlcxTExPdlR1aVZmTHhmcmF0b3B6WUJoM0F0VWd0R1d4LXhkTmpNN2hlRXJ5dlk0UFBwelRCTTc4S29Ca3diRmVuQmFERUVzWXNWSEpCa2E4SXF1TkdrM0FzZmh4RFA3NFdabGdjWUlVRDJnUkRidWQzQS1jWWhlcGJSRFZRaXB5N3pIdjVRaDNOWnRSWXJfYm1Od1lBdXJjOHRaOE9pRUHSAewBQVVfeXFMUF9FaHdJOENXelhyMlI0eU9xaEVmOGZRN2tHTnM0NHBsbi1wM3BROG1JaXV1SkYzTE1hcXpLbFBPb2J3bGE2ZUw3WVk0blJpcF9KMkphMEl5WmxyMVFWSm5nblNvb2c5M1U1MF94dkViN2FzOFkzSEYwSHVVQzJiWHFDOVNESGpfakhBWHFRb0E2cjUyUTNvQmMxM0hBV0dsb3NqcTV0dURONUYyQ1JwU1BFMGo0YXFMZUhFMG53RnFEOW9iVE14Tm1ycVVnbEdwQ25hV285YlphSWFzemNFc2I3WHlsUzBMbzI5RzA?oc=5",
-        "source": "Hindustan Times",
-        "published": "Sun, 15 Nov 2026 06:48:00 GMT"
-      },
-      {
-        "title": "At least 24 killed after bus collides with truck near Kaziranga National Park",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJMjNEWFN2S0h6dFFVUFhOSG5uZEkxa2txYkJzOU1oNnpQVjEwd0hKRW5UeUV4Ri02aHltaWJFb3JHeHBpLTdHN2hLYU01Vlhiai1DUWNEMFBRZWc?oc=5",
-        "source": "BBC",
-        "published": "Fri, 13 Nov 2026 15:16:50 GMT"
-      },
-      {
-        "title": "Who is Mohit Ulva? The India U-19 star who hit the last-ball boundary to seal Asia Cup triumph over Pakis",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUzVfWHM2X01FeXpWT1FWdWpVYncwT1FKcURJQ0c1SVRucWtFeHhPcThudVZSYVJodGQ2blZxMXp5aFZ6Uy1sYWN3dVBTSy1WMWZyb2xSNmlxR2h0TDBlejNSTFFHNHF6SzdTV3R0Slo2S3RUS0RSQ180eDllS1pyRnJjbDFJY1lTU3ZoSWYzVndiTDlFcFA2c084S2Nibk1xdy0wZ1U3em9pQk9TMk5sYUVCZlVVMWpmRDIwMFJtUXdTVTNhQURjZ21qa3RJYkVJNnVtdnd2Vk05REZQWnJlRG9rRnhuMFRNTElFUUU5MnBJR3I0elVhSC1YRHIxNlRhekFNYVB6dGtYTTVqNjY1YTEtNlpoQUlr0gGeAkFVX3lxTFBSNW9GOHlBTFNSMGVkUFQtcmE3UV9IdW9pTFRfMEdtS1hMUWh4YU81X1d3alk4TEo2c2xVRnM4U3RsNzREZGFtQ3ZPZzdyVG1ZaEdycU5qR3ZENmE4VDU2VExjeUE0aF80VU05TURXbEZqNnV2aDZ0aXFORXp2TWxPbmR0bnRmcjlwU3F3VEt2ZUM1U2diVEpFUzJFZFREamxoLVhzU1hCY0hXSnloTUQ2MFhoSFRGVy1kaWZuVnMtS24yQnUyYV9uNV9fWU9rV1NMTjh2SnB3UU91a0h4RjNYNkF5NUhYLURScTFGOWlRNkZVdHNSU29yTHFMYWE5bUdhSTlIWjB0YktkSzVEaE1RVW5ZUHBEMVZsR1RoNHc?oc=5",
+        "title": "'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcmJSc0M0dTNUZkMyOHZlVzRseUgybE5tMFdDWl9hQngxQ3p5Y0h2ejVpTGFQREVpbmFuS0dEVHVwZHFCYXVWbDhCeW95S3Q4eEpPUm1pMWlKQTNVaGotckd2UFNFOUZJcVhOQTc1MmJ1dGc2UkZYbnpjaUQzaFkxWDc4MUVwRjREZ0h1aUUzWlpYaU1XUzdZVG1ZQVBnZTdBMGxzWlUwLXJnWTNQbzZCUUx6X3REaDBTakE1b2NudHN1U0ZDVGE5eVBjeWV2djh0S1ByRFdsWHBaX0psd3RZdGhHcDNSQ1RCUUxIMzIzbGtIR1FLV1hTbmhxaWR3UjZTeG1fc0tsUE96d3M1VlctRGpLbWk4VElKM2dsR0VR0gGjAkFVX3lxTE1JNXNiVWtMajBDNDRvOHJhU0hDRlA1cncyelJrb1hTem8wRnpLd1pQaXg1ckdGbDdsazEyNzMtX25VSmNjSmFfX1FPNU9DZll5RUR3ZGJEQ3pzczRNSXhwUm00MGkwWjBRYkY0ai1paFBwV2NOaEJtMm1fNkRqVnpqejhhQVBfY2JlZFVjZHQ0YjNWZ3ZnTEQ1N2lKSjlERUlIRGZnbnowMEtWbXpQdEZYSUJreDF4S1NDN3Y0VVp1NVFQX25YY0ZueUxHVU52cW1IS2Q3STgzSXRWekdmbExxWk5GejNkZjRHVzhQYWFlSE1ZYXdscHEzTE9Ud05IMW5Dc2JyLXNWM0k1cVVDNC1sRjBRQjdpOHlFN0I2RTdpMmgyTQ?oc=5",
         "source": "The Times of India",
-        "published": "Sat, 14 Nov 2026 14:03:00 GMT"
+        "published": "Mon, 16 Nov 2026 04:47:00 GMT"
       },
       {
-        "title": "Uttarakhand CM in attendance, Congress MLA throws microphone, challenges him to contest",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFRpV3QxWjlBVV9OQ0JhRWFQYVo3SktLa2xrSnlFVGU5OGhmdnFVRFphX3Y1TjlocXhmSHRtcFJpLUlGNzZHNUNxSGk5M21GbVg3Zl9Qclg2V3RhZDh2aWlSS0lkZzRxS3l6dnJYUzhBYnpiTUgzaDlpN0dTWks4bUlnWGJiclVHWkZkWG1NTThsTHgxMGt6T2EyYkMxSUhDTWVWT2h1NmhDQdIBsAFBVV95cUxNd0F1TldEVzR6dDhxbzRXVlhsMHI2MmpkVk4yRWtMMnpsajc4d3NHZzAtejg1OGJKLTA1U3luYXVxMEUwRm12MkZ0X2JhVjNwZmhLV1NmVFdKSk5CZ3dhVjd0NDEtYnNMUFNuMk9qQ29BUTd5ZERnWHBEbEU0dmlvRUw2YmhDaUxYNTBIaFY4NUhGNHBvX2NBQklKMm8wV3dYRHBuQ3J2eWM5Z0VsX01aRg?oc=5",
+        "title": "Lashkar Terrorist Linked To CRPF Camp Attack Killed In J&K Encounter",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZjNpVklEenpsWkw2VU5hU0RDMG5yMnRHMy1ZQy1zY3RUdTJsZ2EtZ3JSb2NMVEoxdVFYRUg3XzFrVzkzVkV4ZzlPRHEzRWl6bGhQdXFDeGVXYUp2RFNxbVJ1T19XdDJuUzl5NDlkNEFndjBMWWhCaVZMVjFWcnVubGc5VVFod1REZFU3eldGaUpjUlM2aXpoMzhuT2lUY3RMOHVkMkUtX0FUSHhtR01QTGlDaEhrTXp4bll6Z1dEX0g0dV9BMjVVM2RmWWpHekNGem9V0gHbAUFVX3lxTE1uNXBkSTUxMHpxSzIwXzRmYmE3aDAtSjRUX1pzUXppeG85WWFTcW1MaWxkOTJPYm9BSmZHalBUWG9XTUExT1loLXYwM2Nja0dZU09UTWRiT1FTa2dnWE9nTFhiUWZpVFdpOEJQSkRMU01RQUpValkxOHZ1MXlxamFLbWNnMWxNLURnVzNzNkV1QXdOUmhsQTZvcnc4WVZ4enkySkpCR3ItcFdwS2x0TkgtcE9aWEY3T3N5NXBaS3F6akNxSkJDNXY0MFI0TTJKaW8xYzFxR1prZEhTOA?oc=5",
+        "source": "NDTV",
+        "published": "Mon, 16 Nov 2026 08:32:49 GMT"
+      },
+      {
+        "title": "Today News Headlines for School Assembly, November 16, 2026: PM Modi to attend ASEAN meet on November 16-17",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1lsc25IY3ZzT1lJZEUwM2VmNjdHcUtpOFJpZlp0X3dlWXhpWTJ6WkIxLXphS25EMmFRTVVlRUdjVFI1aXptUk1TcUNIbEpsTndLcXdTTHRZZWJWUFZseThzTlNKYUliRnZ6U2FyeTZoVkJ1YXF1R1F6SlRpdE9LOGZVV1JERkJHWTZTZWVaZjhldURwMGU1TUFXbVlMRzBxMlRXSEZleGdndlNfazlJdF9fSmtmR21qM05OV3hNTk1VbWtaSlladjI5cmtROTRWSDFoZ0NGX1FnLUpmV2pCOS1hWFZuWmRGMXBLbUQxbU9mSnA2UUxV0gH-AUFVX3lxTE03cmU2UUNQM1hxZDZPUERqMmVxNnVVc2tKejgxM2JHYkpFQ1YtREFGeXpiQ0FxenRpY0tCUXJENlp6MktST2RwVUNUUV9UVWRRR2xwbkdMbmVndkl0VWxqVFV1eEdGODZKSm0yVHpZYVY3RXpscjg4Zy1QUVo4T28xQXFQWGgxdHhBTUFHRFJDd2cxVERLbmVYbF9CNXZFZUw4TmR3WkVOcUpGTnoxdTdTV3JTVnJvRUhMek5MX0tfMlpxMHRzRllRNHJZU2xKWUMyZ05yOGp2S1F2Q204R0FSUHZDdUJNaDZ1a2luWWs4N0IxamRFZXdTcEZncTN3?oc=5",
         "source": "The Indian Express",
-        "published": "Sat, 14 Nov 2026 19:02:07 GMT"
+        "published": "Sun, 15 Nov 2026 12:05:39 GMT"
+      },
+      {
+        "title": "Ex-Muslim Sahil says attacked in Mumbai by group of Muslims over his views",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGFyNkZyYjQyT3hGeUJoQmlWOXRDWVhLazQ2Rl9INkRvLTVQRENOSmxaOW1zZjE2Z3ZucWZ2M2ttVkZ0Tl9QV0dpUGUtYjlMMnFuZUN3Mmx4SFFCZmFKWHp4SXBIOHUwSEhVbmJTQlNreWh2TmNqOXo2TFlYZkxhbThaR0Fnc3pZd2poekEtcWRmSWo1a0RtcTIxaHRkVFdaeXlXMFJYQWZja2t0UGtldDVUREpSOXJQc1JQZnpSMDdHaGhmSkdjU3M1TnZ3RE8ydTI1eWVVOWZtb0gxSzkwdtIB5gFBVV95cUxPT0E5cktST3VqTlZxdmFyWmN0dmJTT1NWMWVsNUszRExfTnZkZTFfNzRxbTFYeThCUGE2Umw1bkt5WVlEcmxJTVFPS0ZUc2xjX2kzYVZOSmlnWXItaUxSOVdDSC1PRnJxSmEtUGhhcWdiX2F3ZC1MN0U3b2tRSVA3Uy10Tk1IVWdtMUh5aWJJMU5aZDBwVUNaZWJIbTJtQy1jcTZrSVMwZUpEaWRqdkNnQVlTQUdaZm54S0w4MThFVkdvdWRtRlN5TmV1QlhWWXpsOXdKYnZxdFU5NTBaTkJ3NUNvREtrUQ?oc=5",
+        "source": "India Today",
+        "published": "Sun, 15 Nov 2026 07:14:32 GMT"
+      },
+      {
+        "title": "‘Highest priority’: Centre responds to Neha Bora ahead of Delhi-NCR toxic air protest | India News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObEhWNWhkREtqdjN5LTJScGk2NjV6RzVQX01ZOWdqbEVjUmRzalNtbVFsUWZLelh6OTlmNXFIVzNlS1VRcVViSVJKOGVJZGhqMVNoUzFCUXA0UzBVNmpITEF6c05jTVgtRHR3S2d2T0JvQjhlUkF6eVNjaEFVSHA5ZjZVRDRjQUhQV2lhZUVCMUk0dkRZNFM4YnJtY1dFcW9RSGItM2NnYll5UWhHd3JrQk5Bak1reW51VHMzVlFhTVhPN29tX2JxRzU1WW81c2J1b0toa1pmUW4yN1lrY2fSAeMBQVVfeXFMTzdqOUpXc0FkOElET0QzdXFLemZDQXpzRWVTSkhKaU1pMFNVMklXNFNQaUdPUmhrNlZTZGx1QzV3aWVKaTVsclotT2ItOTVCc3NuWTl2X1owdWNSQnRiUXJLT1g0NTE1UEpQaGU3VXpiSjE1Y3M0b09pMW8yMjhaMDBFOTVETURRLTFCUXhKZmFyWUswUlJJa1dOdi1Fa2tBZ3Q0WHMwamxYLWxPa3hXNWNLQkFqelZ5T2dCZEM5c3Jsa2tidVBJUnlpT3FNWkE2U2JMSWZ3a08tSFZMNWNIeXc4eHM?oc=5",
+        "source": "Hindustan Times",
+        "published": "Mon, 16 Nov 2026 06:25:48 GMT"
       }
     ],
     "sports": [
@@ -158,37 +158,37 @@
         "title": "Alexander Zverev’s troubled start as world No 1 sums up dismal year for men’s tennis | Tumaini Carayol",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzB3WkdPbXVBaXZTQmptVHEzdmxGd3I1N2EzMjVRLWVzTDhYUXp4cF8xS3hmTldzWGNrelRveVJmQmlDdFRXeGo4VEY2YVlEM2xDWVJpMzZHSDI0VWtDU0dHMTlBU2xoQzZRQjNLRHhRanUtdGtGdV9IcE1aODA3RThNbVZFMFlpVXZ4Um5SZnNnM3RfQ1pVNHp4bjY?oc=5",
         "source": "The Guardian",
-        "published": "Sun, 15 Nov 2026 08:12:00 GMT"
+        "published": "Sun, 15 Nov 2026 14:19:00 GMT"
       },
       {
-        "title": "Sinner, Zverev, Edberg among stars celebrated at ATP No. 1 Club Gala",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uTXQ0cGowX19sd0pXVVRrS3Z0RC1JbzI5M0dPMXZZRlhzcVVqUnJCVjdqNU1BWkpKcWlHa3VxODJjUndKTXlPSGZxdVZCYzhINDB4Mjhhb1pXV2s2Q2tnUEp4SlNlQUk0YjkteV94NncwTW4yMkxZ?oc=5",
+        "title": "ATP Finals 2026: Tennis World No. 1 Alexander Zverev beats debutant Rafael Jódar in Turin opener",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNuM3lrbkJXLUNWS1ZRdVdkTTlhWWdIVmJvMXpXdnZpOXdwMXlqQ1RheGRrN0tBcjJub29MbzZnM0s5bWVYTzdBT1d6WXJBaF96cjlqVEtvYWJ6cU5LcV9xZm9PQWJuNHpTSkhpTzZzSUtmNHBLQUJLNnZVQW5KOVNtMjRSdzI4OXNF?oc=5",
+        "source": "Olympics",
+        "published": "Sun, 15 Nov 2026 15:22:00 GMT"
+      },
+      {
+        "title": "Sinner, Becker headline on-court ATP No. 1 Club celebration in Turin",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUlieDAzWkVxMURZYndyUlZ6STNLcjMtTkRhek9meFd1b2lXRzQ1ejdXOFBBLXhOek9kdDdkcldIMjhkMWxIODVPMlE0RmRiTEkzQjBidDd0QjNiMlNfS3BKZnFQSXdhUHBaMXc3a3ZFSUFTWUZCU3l6YlY5M3NMelQxVi1Xdw?oc=5",
         "source": "ATP Tour",
-        "published": "Sat, 14 Nov 2026 13:28:36 GMT"
+        "published": "Sun, 15 Nov 2026 14:13:50 GMT"
       },
       {
-        "title": "Aryna Sabalenka’s tennis season ends with her game — and perhaps her place in history — uncertain",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0tIbC13RTE2bkRaYmtkU2ZER0pxa3FPSThPU0NWZHRwTy1MNHhDRW1oaUROOEp4cUdGRzhIVTJDR210U2tndWthcmpEeHRlUVZXZGpicUZBbGJWSzR1a2NvQmpENjcwYjBFVzdYYzVnNllaclV6ZU9DTEVHdGxWbzVLSlRsN1RwWHFWbWFhSkIwcTdfQnZjN19WNjRSdw?oc=5",
-        "source": "The New York Times",
-        "published": "Sat, 14 Nov 2026 20:59:51 GMT"
-      },
-      {
-        "title": "Mirra Andreeva reaches World No. 2 after WTA Finals semi-final win",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWno4R1NpLU9zUmtfMG0xcmNScXQwNlBjdWJ1YmJ1dXFUMi1hcnUxZkhoSHpMTDdGdU5YbU53SkxFZmx4Q08wRXJkX3hsVmdOZW5Wdm02elV6Nnl4ZnJlYWRjcVhhSUNlVmJKM2s3Q0xRT05qRUFyR3dHMmxPQkNHSmIzaWVqMXBQLV9HMUt3ZVBacTBSWF9vdEtJMHZQY0k5ZU42MU5IcGtRQnFscUhvVdIBwwFBVV95cUxNaFNTeGdLcmdTSktncDREampkN1ZpYXlXVDRlTXhxRklQRXF1aS1HTGR0ZXNxS05sNVVENXctX043VHozTGRIN1JSVTFmSHNJdnplcU1jU1NCUXV3MUFXZ21Xc3VMdkRwOHE1dkMybi1sbnJkRURyeDNjTFpPbmJyMEIyUnlfZ1h3LVNwUjNHWmRwYlhSdWN4TVhqbUJ0eWdySDljb29ILVpra0VqeER4YkdQUFNBeU5qZDBaaGhlUm40em8?oc=5",
-        "source": "Gulf News",
-        "published": "Sun, 15 Nov 2026 09:36:37 GMT"
-      },
-      {
-        "title": "Andreeva books first FAGE WTA Finals championship ticket after win over Pegula",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSUh2SU5uUWF2bVZITjA0WkZoMF9venBVamdmZkJXNHpNMEgwS29TczYyaG9UekZ4dWl5MUQ5TE9JR3kzSlV1ekRHdXJLc0tSa3kzVkJRT2U2bkxNYkxVUVA4UFRjVUxfNVZRRDJXdWZRTUYwZ2NvcGlCVzZrVFJZVmFfZUprVGNnX3JiaGJpUUJwNm1jN3ZtLVh0RWJ1QTN0T2NXaFRoZ3R6UU9ucklidjhUMC0xcGRsdTRNaE54S1phMjBWYW90OXhFZXR3YVhOeU9YMVF5a1E?oc=5",
-        "source": "WTA Tennis",
-        "published": "Sun, 15 Nov 2026 00:57:57 GMT"
-      },
-      {
-        "title": "WTA Finals results: Elina Svitolina beats Linda Noskova and Mirra Andreeva sees off Jessica Pegula",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZFpaeUtpemE4aHVVWFR0VTBOTjFBbkdUcHZ2ZFh6ZzBzSHhFSy1mc0JKVlZxbXR4c3FORC1PT1RTWExEdHAxTkZseTFvNHdsYV9iSkY1ZWtLS09Rakd1RlU3M3cwZw?oc=5",
+        "title": "ATP Finals: Alexander Zverev beats Rafael Jodar for first win as world number one",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82Uk1mTW9lZTNFa2FDazdOUk9RYktPR0FtdVluM3QtSUcwWFZBUjNEX2tBZG5UcE1QOHN5YndnY1RBN0lUamVxS2hQOE12Z3ZVamdRMTBmSUpCU2pCU3ZBanN3N2pRUQ?oc=5",
         "source": "BBC",
-        "published": "Sat, 14 Nov 2026 22:06:48 GMT"
+        "published": "Sun, 15 Nov 2026 15:29:34 GMT"
+      },
+      {
+        "title": "ATP Finals: World No 1 Alexander Zverev begins campaign with convincing straight-sets victory over Rafael Jodar",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMmpOX05hbFBQaDRxQnNIRHNVUE1JcjNZc3d1cWUxeXNjZl9tTlNjdTRqRkhyVDQwMnJKbWdiMnRYU2pDQWRsTnR0UDRzQXZ1T1pMZHdRREtPQXN1TjNCZEtrbmhSVFNzVXFERW1BUzA4MVFsVlhZRXRfNEhlNkk0MWFoekkwOVc3Ymh3cWI1VmU0dVllaGNvOG5kUkE2UjJqUlFSTnI3RDFlQzY4WDV3eHd1V0x2S3lRbEl2dUxiT3NSVXFPZm9YejZSUm91a0RQZTc5SkpfamRNMVNJS0FJTTNJTldEMG5TVzRzYXFB?oc=5",
+        "source": "Sky Sports",
+        "published": "Sun, 15 Nov 2026 23:32:40 GMT"
+      },
+      {
+        "title": "How a tennis player lost more points than he won and still made the ATP Finals",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFZNaG1DVlRjaFplUTFRNWFTaWNvMERTek5rVG9FQXdReXluOGQ2Sk5McnNaN2xBYzJoUHFfZWl3bWdFblJ1bkgzWExFLTVNeHJ5aExsNVRxNjZ3Ylczc3pOQk9wS0FNMkdqUzlseG9zaTR3T1ZLa2lCS0lBMEx0ZXFzaDFVZmxSN2xaalk3a0w2WXNmNDN5bG1Pb3ZCZHdENDUxcklvQ1J4R2s?oc=5",
+        "source": "The New York Times",
+        "published": "Mon, 16 Nov 2026 01:41:00 GMT"
       }
     ]
   }
