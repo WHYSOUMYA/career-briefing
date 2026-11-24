@@ -1,10 +1,195 @@
 {
-  "generated_at": "2026-11-23T11:51:35.076189+00:00",
+  "generated_at": "2026-11-24T13:18:41.992620+00:00",
   "categories": {
-    "affairs": [],
-    "layoffs": [],
-    "placements": [],
-    "india": [],
-    "sports": []
+    "affairs": [
+      {
+        "title": "Nasscom proposes three-year AI Services Transformation scheme to boost India's tech industry",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOVWx3OEViQ3VMTGdsTXNNcDlIQUo2bEp1R2ZjMHFubXB2c3lEbnFyTDZmeDc0bTZyNF9XWlgxUUgxMUpTeExyVTdfQ3VRU2JpeWppUjhXOGtlczBvY2tLcVNDLTFzRW9WX0R3Y0RERWlMX0VfdWNDcVZ6ZmNTX1N3aEIzckV5NTZxRDBSeFlmR0NfN0ZZWnMtM0VLVkhhWEpxUUpvNkxSbUhZanRna3lmcnZldk9zNkRHdmZqZWFLOGJmVHd1MkRETmM5cU4wdXlrc3REZXQwTlEySGNVWTRxZlY2MEZEOG4tMkNsVDljeVRPNXVldHl0SVgyYWVidnkzRERoTnNub2oyRlFVVVJfN2lPZjIxY2Q5Y1dxUUFnZl9sRW1uMl9PXzExSHR1Y0tQRy13c3dIVnTSAfYBQVVfeXFMTWxRQ2JWSDFRcDl2clZhbkhlYkFfUF9QU3FaMEVVckdlU3NfZTItOVpKamhlNlVKUGljanotdjVibE5lbmdkdzhnblNmSmhpazNpRVdoVUh1Y3c3elVHd0hhTVFrLWt6ZlFpckNKbkZPMWY2dVM4eXh0NmN3OGtUZnBqX0Nad25xRFVPbG5aa3l2Y1VfaVNndW4wYnFJSEw5TnQxWFNJaXZHLTRCbE9XSk9hTUJsMzZtNmxmZXg1Tl84ZjNWS216ZFlRanlwZDVBVzJsWFpNMHRsVkZSYmRHazhwbTBXV1ctb0R2cWRybHkzTUp0SDBn?oc=5",
+        "source": "ET CIO",
+        "published": "Tue, 24 Nov 2026 02:32:09 GMT"
+      },
+      {
+        "title": "Indian Bank Agentic AI Cuts SMA Book to 4%: MD Binod Kumar",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94alNzZFZtMFdURXl0RVdEODRKR054QVQ1Tm85N2F5VWhxanRVNkIwbmx4d1JUOXdJMVdnNnlQM0VrdGZtODJIZE1zWDVWRURhejdDMmVCQnNiTWR0dVJMYktWYlFDYWRaZ2VrM0lueDNRdw?oc=5",
+        "source": "Elets BFSI",
+        "published": "Sat, 21 Nov 2026 21:15:17 GMT"
+      },
+      {
+        "title": "PwC India Opens AI Experience Lab in Gurugram With Over 90 AI Solutions",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXcwT19tLUExamxmeG92ZEVqcnBRZVIzMzltcTROUWdzWFpKWUlMYXFPc1BfOFNOV1VlQmxqay1CbGc4Ry1pOWhmMnZyR2szaTY3aUJkeVBKZlFvay1rdXdlSHhndlM0czAwRG5LQXNPYnlaUk8wbVBGaTZoeWwtRkU0VGRWN3lELXdCRDhicnVHZ0JRWVFZYjM0TEM4UXlUck5LQWVGbVJ5SEZyUEHSAbYBQVVfeXFMTkhTZHczc3M4T3BSOThHTUhmcE4tZHNQU3ZFSzJUUmtuYV9BYTROYk80d1NZYjA2bkZsMk1VcWtnUDBkRkRBV0ZBcXJNb0Zvem42QUtOZnk4RHpjZ2pGOHdGU09OdmlYa0FVSWlIX0lVb0Nfd25LU2c1LWFoSkJxN2x2QXAyWFpLSDIwckwxQTQwR3Z6MEJ5cDU4VzdqX0d1R2JSZTUyU3pZc01sTl9FX2dZazJpcnc?oc=5",
+        "source": "Autocar Professional",
+        "published": "Mon, 23 Nov 2026 07:30:00 GMT"
+      },
+      {
+        "title": "The Future of Agentic AI: Expert Predictions for 2030",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS0NLbUFLT0I3Q2VrWXRxZkRIcFh3TkVyS1p5SHJDLXk1cmdsRFp1a2xlQ2s2Q2Foekk0SHlnNnp6SWhfc002Vm5HYTBiYTJsVUxFMEtHdmtmWGRicUhSaGFwS2Q4UTBTZzdtdEZTMThtWmN6bHNxSjgya3ZOR21TWFNudGxIYk1rSFBta0x3?oc=5",
+        "source": "Nasscom",
+        "published": "Fri, 13 Nov 2026 11:13:12 GMT"
+      },
+      {
+        "title": "NIELIT and Intel India Organized National Leadership Dialogue and Launched Agentic AI Skilling Programs for Preparing India’s Workforce for the Agentic AI Era",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vMUxrLXhnMXZXeVRZRkdydW5qOE9sSU5EOThZS0NFU1lKTkdKalJMRDBLMU96MjludERYZ3ZJOFd5NXRfNjdXU0ozeUwxTURQU3cxTGlVMUROeU45VEUwYnVmYVdvYXFy?oc=5",
+        "source": "www.pib.gov.in",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "The next frontier of tax: Enterprise AI and Agentic AI",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaGgxZ2FnOHZyNHpFYlUxY1U0MEJaM1RIZHRZUmNOamFZRlpPQklGdlVBWTl3NTZWUmtVZVBfWUk0YnYzeVNCM3U3TUJWUzdyc24yY29uWE9hVVVDTDRGbnVHd0t2LTM2c0R0Z1NxaVVlQWs1M0FoX2x1VVM2cFdqbWsyTEdUd3NZeGt5UWVaMndUeUJtV0xHdEt5SlNXdHhXU3lrVXBCRmJlMXBqUDJoYkQ0a3B2cVVvdG12MldsRmM4azFxN3NSdGlOSnVTU3F2TlRj?oc=5",
+        "source": "EY",
+        "published": "Fri, 13 Nov 2026 08:00:00 GMT"
+      }
+    ],
+    "layoffs": [
+      {
+        "title": "Google responds to 'huge layoffs' in India report; says: Last week Google Cloud made …",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclhqMjFBRmVfLTBTWG93TlZqTTQ0RE9vQUxBMG10cnU2ZTd2ZFBzVlJUMWxQUGxMSXpNNk92WUFUYVV4bzVXZ3RhS3dCdzNhVTY2SUdyOGw0TFE4OFlyeGVpQ3oxR3diWWFDMEdvRzBDUE1jd29kNjZfSHVNOW11akc1TldDUF9SUm5sbGRaa1BiVlBOUjJQTDZNblNqLU5vZnFJUnc3SS1rZXhhQ0Jnd0ctRnNNQ2NydDk1VEctenp6Z3RCNFZGY1ZINWp2czNzTUZBcTNTN3VXUWl4SFV2TTJmZUhabVVKTXdYRnBmS1pQVy1LNGJF0gH8AUFVX3lxTFAwbnhhMnZuYzY0SE9GSVdBc21pLVUwT1lUaEJ4M3JIUHV2TWRuYjBpZkpudThvbDJlY1dRRXU3dmpVXzVaNDNhS04wM2tGcU00YW5LYTE2eHlhT1diOEVTa1k2d29DSkg1cTlBeFlDUjFvZnA4R3NRYm1aYTZkZkk5Z19pV1dTd0F5QTBhWlg2LUF0engyVGp2TVNOX0tCdll2M2lMWnlndGZwU1U2Q2c2ZEZValFBbVlxWnRtRFZVX0h6cGNsRTQ1N0RqMFhMdmZlTnVGU3BSTzNiY2I5ZVh6WU9BX0YzdXl2ZG5ZVEVPdEVBdGRySDR0SVJWVQ?oc=5",
+        "source": "The Times of India",
+        "published": "Tue, 24 Nov 2026 04:54:00 GMT"
+      },
+      {
+        "title": "IT buzz: Google and Microsoft freezing hiring in India in 2027, Google eyes fresh layoffs",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5",
+        "source": "India Today",
+        "published": "Mon, 23 Nov 2026 11:23:47 GMT"
+      },
+      {
+        "title": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5",
+        "source": "Yahoo Tech",
+        "published": "Fri, 20 Nov 2026 18:25:29 GMT"
+      },
+      {
+        "title": "EPFO's new withdrawal plan likely to offer financial relief amid rising layoffs; 2 lakh tech employees lose jobs in 2026",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdy1Bb0tkYUNHV3NCNENnR095bDdPOUQzQkZjZkVrWUFfUU1GYVpIRkxXRS1TN1JLamlXX3VvT0xEX1I4RXZXeE9ZVGN5TjVXeDRMTFVyZFZZcEFNTDQyazlvS3JBYU1jTXU3M2xZQWVUVmQ0V3QwRmRCMFlRWkxQdGxibVRQWEpJcXdVMkRqVWVYZ2VNVEpyU0xfQjN6empodG5rZGlFRUFMYUFiZ3pVbElOSjlaT3RKbm9hanNzYjlrNjB3YmVVSGxZNEVSZXpqa3BPa3dXS2tQTFhaQmVDN1dueExTRzY2Wk9EN1VPTTYtZEpXdlBJRWttNUtkd9IBgwJBVV95cUxQNE1EMHdfRXZ5YzVJWEtNRVFqc2paWUNuTnE5TGJzVUFlMWUtWFlDSFhNcmE5SlpXc1BGOGphc1ZDeS11SkpTb3NYYUlhaGpiaGtXV2hab2c1bzhjZzJNWkJKdENDWTZHTzVtNzhlelFnOFdTekhNNWtPNnFXYlBCY1JCdmNkNm92Tnh1QkZEWjQ2SjhwNkt1MldhVTFSbW4zanoyekViR3gxWE1DaEhjMnNNNE84WVRheFlkUVd5ekEzeWo3bDh5MENGZW1ReVd4ZTBqV2V0SjJpaURyX0V3VXlWaGVmb19wdGo2YUs1MHVLVFlZel9xckoza0kyV1djT1c4?oc=5",
+        "source": "Livemint",
+        "published": "Mon, 23 Nov 2026 05:52:33 GMT"
+      },
+      {
+        "title": "Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHVQNU1QVUQyZU92SjhJUXFnYWkyWkdsRHFFTUpMRmRnd21JTkhLVkx2RzJ4SklUajNmMldtZDg3a1Jja0xFOVhMc3dKZmZKbmZoZURSMnJXS0JnQVZ6RldXSTFpb0t0d3BGQ3gyY3phOU1MWERPdklmZGdVY1ZoUlMzVnBGQ1F6X0IzQzdn?oc=5",
+        "source": "Crunchbase News",
+        "published": "Fri, 25 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an anonymous post on Blind alleging widespread job cuts a",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYXNZNk1zU3piX1FuUXM1UVl2MU1vZWd0VjBhT3ZOVFFvN3I4QnZFdXh3MGtPUm1ZbWQ4cDRLNEd4OGlGUUV0MGk4V1FBSVVsN1E?oc=5",
+        "source": "Instagram",
+        "published": "Tue, 24 Nov 2026 12:54:03 GMT"
+      }
+    ],
+    "placements": [
+      {
+        "title": "India’s campus talent landscape pivots to skill-based hiring as 86 percent of employers adopt AI in recruitment: Deloitte India",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZWt6clJFMzZ5Mi1sNXZyWUZvTS1oX3NiNVg1Njlub0hYMDBxZHM0aDc2OV9USTdGc2plemthX284em9MbnRKWlFqRjNkZk1pQWpXZXptdlg1YWt1WFdMR1hudFJnVGRkZUREMFNKNlNfWms0QTFBWVZGbHVXOEZBZEVVb2JWTVVoWmhDRl8yamg3WlVNU1N3aFJ2SjhCZHp0QVNoMHFZRFRsZTJuNFV2RkpMTTdveGN2ZlRKVDMtZm5NNkxrVVFrc2FuNE9hbDYyQWtXS0lUQ0J5dEFVaGJLODZVS1pGel9WVzJ6UF9qVVU2cVhDTGxJNVdHbUROV3VyOGVQZXNMZ2J3QTI2?oc=5",
+        "source": "Deloitte",
+        "published": "Thu, 27 Aug 2026 10:34:01 GMT"
+      },
+      {
+        "title": "Recruiters say no to online hiring, return to IIT campuses amid AI cheating fears",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXFheWdMNkpvb3VyRVVFQkkxWGFzSWh1eFJlZXJ6aHlfNGh6WGVkMWJjR1hPXzlOMm1YTWxnMUMtSkFjLWxidzkxa1lOdDhqUnZhZFh1ODBoTnV0LWs2SWpUS1FEVUM3WTY5ODZENzEwRE03WnlCT1hWN3NTWnZDQUtpUkhldDdmZlQyaGc4XzloVDVucE9hMS04Z09JZW5XaEhBQUxTb2VWMU5TaHNwV3lFblpleDNFLWVvLTkxZFVmRGRySU5rWGwxVWM3WDBEcXl30gHYAUFVX3lxTFBuU3YxVjJEZHJyak5uTjFUelc2XzlyQjFva1hieFRocnFmODhySFlqeFZuNmZodUwwV3N6S24xanJQSTFWVjZhcFNGNm9WOUhFUTRsWXpKOHZTbHdTRTh1dVZTYWdSWHUxUnRsWm1vSnR3cnBPZ0tQcXFmWmgyRlF4aXR3MlFVa0VzMjJHdkNoZXBvNXY2cmQtRWIybjc0MGd1enQ1aHExclktdDJkWnhfSFFmaHRBb2Z1aUltX2hORGhWWHRnV0t1VlN3d2tlSC1vdTZLdzF4Tg?oc=5",
+        "source": "India Today",
+        "published": "Sat, 21 Nov 2026 11:20:41 GMT"
+      },
+      {
+        "title": "IIM Placements 2026: Highest Salary Package & Top Recruiting Companies",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41V0lwd0VIb1p4UkltWmJuWXNDd0paVnUzc3kwcE5ENW1NTXNPV1Y3VWtsa0JPSHFhbjlualVYbVkyNS1HcXdTUlVtN3FXTjN6YWFpcVR1YV9lSmktbWhLVDZxLTNCa1IyOEZZNGdjZnF3UQ?oc=5",
+        "source": "Shiksha.com",
+        "published": "Tue, 10 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Trend reversal: Nearly 100% mechanical engg, EEE students placed in campus placements in top colleges thi",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTkxER0M5Z0t1dTh5X3dzaGlnMXZSUkdrY1JLZjJfVXYwZHZBX2M4ZEVvQlNMcURRVWg3SjZrWXZXZ0FTUVhtdVhpZzZLaVAwV0tqSmJKbGtIRFRQNTFoT3ZJYl9udGs0VEFuQ3IwSE8tTE9ET0h3SzBjVFV5STIxMzRSYU9PRnRYWTFNZ1NJYjM1MC10UFE4TUllTzl6OEZ5TVI0S3lzZkpNV2tjd3lNS0lvVTF0VTYtd0p1Zy0wMWhLdFhtXzBqOTlaRmFXSTdGV1R1REVhSGttU0ROX2k0YU03bVFMdEI1V0FDeXBkSTNSVjVqR2c4S2wzVWExV3ZoR1N3MWN0aXZpUDZJcEwtUNIBlgJBVV95cUxOamdqNE5aLVFWazkxdF9lNmRNamVjRjVaYnJ3RXJxblZxTVhQdTZpaThVXzNGeTBwcVVueHppNVFGTXRpbXRjZGtqY1JjNnczRG82a2lkX2RDXzJFZy1qcUQ3ejVSc1gxNzBaOGJzeHlrMVlNd2pKZEFMVDRwWTJNeDdWZExpWTY3d2xuMFdpUHlEWGxHMmpiQ0pmOU5IeVo3Smw0T3JCeW13LWRNQXZ6SEtGTldmUmZvWDd0dW9OdHhrNGs0N0tBR3ZvS2YybnVNTnlqUlpTYlVGc3dJblpFRVltZU1DNDgtUGRFX05BQ05lYUIyejQtdzJzUWpISVA4MUItZlJFWXFLWjU4dXpreHJzODlQZw?oc=5",
+        "source": "The Times of India",
+        "published": "Thu, 28 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Galgotias University Surges in Times BBA Survey 2026, Rises to No. 2 in India for Placements",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0ZZdk4wLVBvdFY1VGJhYmk3ODIzWWFGQ1BsVUpLNHA0MkFjQ0hUd1RVSlNUcWtBTWxCTzRqUEs0RG53TC02NlpwZzRGQlBMd0hjaElZemFyby1FSFhjd21YYjZ6VVQwMnEyOWpFa3g1Q3lxMlY5Qjc2UzZqU2xiYXJ6WVRqVm5ZV2RUMUw3VEFPV09pbEluQTFscndXSTN0ajAxZkltNzVTbDFLQmJHMmJLOTBNQkVULXZKVFN0eHBkRXBmdnFEaNIBzgFBVV95cUxPS0NlbUEzdmVpRTNUMkF5MHVZS01TU0p0VnIwTDg3bXptV1hPZjVaRkhDN3RoQ1hJNWpxYnpxd0g0ZnZKdjJVLWVoXzNxTm5nSG02a0ZPbXgyT1JYUE1qZElzYUJXTi12OGxXUm1KYWxhZFpFOFJsa1ZxcF8tTkRaVGJqSXRWWHlBbFZGT1p6S0VnQkV6LUZEVVljZjdsUzRQS2o1aXBiLUZHNF90azBDN3FaOHY3MEhaZU01TjBlN0RNcDh2b3Bud3BkTTVpdw?oc=5",
+        "source": "TheWire.in",
+        "published": "Tue, 11 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "8 in 10 engineers, 3 in 4 MBAs, 84% grad unplaced: The placement crisis we ignore",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3lRbmtheEtYSW9OVHJrUGFLcnBfVWZkM25UQnREdzZnMVF3WWRpY3N6M2IwbHNRMFNPdUxtb2puWXBldVlQN1U4LUhTOEdMVk9oTTNSMnREcVZGZnRRenFEMC1mZXZ5X2ExVy1feDJsZEgwaDcwdUxtSExKbFQ3QVlzTmthTmJ4M2VsS3oyN0dtTHlIaTJKY1RKajlfeXZhd2w2N1FTXzFqVVEzSm1Ub2hjRnRyNlIyaDdtUTBVWTZ2OUdabm83QW95Yk42R0ZMZ1HSAdcBQVVfeXFMUE1GZUpBRkQxUFZmWUlzV2xxclZqSHpxUXZSa2JWTlRvSldpRS1YMm42cWtYZW1mc0s5UC1FMXQ4ck5LUS01RXJOa3BHR2hueWlJRlJZb0szdnhHSWZLc3p1RmFGTFlsamlLcGUzSXFiZ3Y0Qy1VVVRqMmxUMGZQcU1sODBTVFdwdlBmT2o1aVVMQk1OTkdveTdDYVZHVjA4bWxDcW9WVXNuSC1wWHVhOHNqa082cnVCaTBZVEhCLTlXNTUyOGh5ZFRxb2NpTEp3VEwzcDNhXzQ?oc=5",
+        "source": "India Today",
+        "published": "Tue, 05 May 2026 07:00:00 GMT"
+      }
+    ],
+    "india": [
+      {
+        "title": "Google responds to 'huge layoffs' in India report; says: Last week Google Cloud made …",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclhqMjFBRmVfLTBTWG93TlZqTTQ0RE9vQUxBMG10cnU2ZTd2ZFBzVlJUMWxQUGxMSXpNNk92WUFUYVV4bzVXZ3RhS3dCdzNhVTY2SUdyOGw0TFE4OFlyeGVpQ3oxR3diWWFDMEdvRzBDUE1jd29kNjZfSHVNOW11akc1TldDUF9SUm5sbGRaa1BiVlBOUjJQTDZNblNqLU5vZnFJUnc3SS1rZXhhQ0Jnd0ctRnNNQ2NydDk1VEctenp6Z3RCNFZGY1ZINWp2czNzTUZBcTNTN3VXUWl4SFV2TTJmZUhabVVKTXdYRnBmS1pQVy1LNGJF0gH8AUFVX3lxTFAwbnhhMnZuYzY0SE9GSVdBc21pLVUwT1lUaEJ4M3JIUHV2TWRuYjBpZkpudThvbDJlY1dRRXU3dmpVXzVaNDNhS04wM2tGcU00YW5LYTE2eHlhT1diOEVTa1k2d29DSkg1cTlBeFlDUjFvZnA4R3NRYm1aYTZkZkk5Z19pV1dTd0F5QTBhWlg2LUF0engyVGp2TVNOX0tCdll2M2lMWnlndGZwU1U2Q2c2ZEZValFBbVlxWnRtRFZVX0h6cGNsRTQ1N0RqMFhMdmZlTnVGU3BSTzNiY2I5ZVh6WU9BX0YzdXl2ZG5ZVEVPdEVBdGRySDR0SVJWVQ?oc=5",
+        "source": "The Times of India",
+        "published": "Tue, 24 Nov 2026 04:54:00 GMT"
+      },
+      {
+        "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGdRSWw2SUFjZWwxQVFIR0M4dUZhNF96aXRnRWxqTmVoV2lhUm8zVl9RbW92Umwyd2JaYlRKLUhyTkhhdEhfaXJFSHVuTzRGQnpfeEVEMllFV1JPUzI5RlBXdGk2Q0puTGstVUtkNUhTMERLY0xVWm1pLXhlaENRd1dlQmc5MXhjekxjWWs2aWw3TGk3Z2U1TFYzZ0FWNXhlTWhNMkFUbHdkVE9Ec253WFpLcGw2Z9IBvgFBVV95cUxOSzhSQUIyTThvQjVFSEtpQnlPa0VJUkRqd3YxcUYteWJZY1FHNnlKUTQzVG9vUkdydy12dHRQakN0Y1o2ZXh0dllocEpPUXlHb2x2cXNzUzcwMzlMbnJjbGk1OWpVT1JjNVd3dkdLNF9Zb3dIeTVpS0FMNEV0NjhseFlNbkdiNm1FaDNjV194b0ZvTzMzWHl2cWpjTXRjMlRSOFFmdVNVSmpmcjNkSXAwWTktcE41Y19QRnQ3TW1R?oc=5",
+        "source": "NDTV",
+        "published": "Tue, 24 Nov 2026 02:34:32 GMT"
+      },
+      {
+        "title": "Parties should unite to fight Indian hegemony: Nahid Islam after meeting Bangladesh PM",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY3dIUzI0LTVJZ29pRlkyeUJlU3B4VGxpYWxyREI2cnpLSGIzMHFLTlNXSGZyUnV0TkJYMHRLRVp3Y1h1cWVHUTRkX0JKbEduc0xJdmJheHhJaVV1QUx4aW1DYnpVazY0WXNGb1p4RXpNZmhhOXRxSnl6T1pFZ1ZnSFVZZXByUWo2UmExYXNLWjdldkRPVW44Yi1kQ3pBMFR6V1ExaFhkNTIyRGRzbFhpRUFnTnprTklSOHhlME0yNEFySzR6S0t0dlVBaF9rVTF2WHowQWx4aTF1UUFDRnRqVG9vWVI0VTVKU1BUZy1fcXlJd3MyQ09v0gH8AUFVX3lxTE12MFV1QXNoWDhyNHBPaDRKcjdwSzlic0ZXV0JKSEcyOFYxWjdqbHQyTUNDMmhzLVAzSWZyMVVQZjMycGlEVHk5bVhiOTFMUzNMR0VjOXAyWnFQRlBsVTJaTDJMdUFfX1FnRVo4Mm0yNU1Qc3h1S3BORktkLXdzVF9MZV8tVEJ1YmJmTVVUQ0dibEFMU29seWdLZ0p5NVdFWDlpNW9EX3J2cmFDQm0wcnZvMnplc1VSYVZqdFpEd0duUlFTSUZjNXZzei0xaUI3dE11dEVtVjJNLVhJNkdsaGtvdmtlTDRITHJFSVNFcHJjS2lfLTNYZFJPNklCTw?oc=5",
+        "source": "India Today",
+        "published": "Mon, 23 Nov 2026 13:24:06 GMT"
+      },
+      {
+        "title": "India News Highlights, 23 November 2026: Air India, Air India Express suspend Saudi flights till November 30",
+        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeHQwdVJLLUJLTnVKV1BuUC14LVZIcW9MU0xrWlBzSklpWTV3bWc5cWFiWkZBd3B6bTY1NDdoVmxYZERZZVhmanMtalMxMThMSkJUX2s5bGtLdzNWMTIzTGYyaWlUWEx2anRWc0ljWlVrWm85b2dSNG1IV1dFZTlNaDAwZzdlUU1wMDhsOGhXcGhBQWE1YUY2MXhUY0VCTVRfUHBtMFhzNWpvOC1uNjEwMkFkOUFYbDh1RVVOTmNpTWw2eWFiYUtLczZOV2RxdkNDdlUtbk9oSU1rcmY0Zk81djhjdktUeTh0amZsY1hmeXNxUHFEOFRxMWtJR0p3LVZaS01oQVRDRDhTeVcyazJmb1dLMEppQURKMWlOMFVFTDR6TDZrVThZZGx0aVlQdnhRUm5V0gG6AkFVX3lxTE1fbWwyQ1NYVGVPNXhiNTUwTDFoQXVhYW5iQW5OYldpZ3FMYzBPZThJQnZ4SEZIVzB4TG5mc1drUG5QaEVGcVRqRFNjU09lMnFTZGV3NEZVdDVzMUppSlljNkFjcjNXdHR2OEp3LTN5Y3QxT3Vlek5semRhdDZ5MEdzQlRrTlY0OUllOEEwOXk3ekRsTTRuODR5R0xMU0VEMEkwdkl6V0NEbkhGUTBVVE5mR3A0TUNVLTJESUlSV2xjZFZYdkhjM0FWXzl2RmhKSzJ0R1NhTzgxR1hiQ3VRRU56cWstNUpGY1ExdlRwYXFodTNEaHk1aDFiejJTUExNRnhxXzYxYU5nSm1QYV95R0RQTXU0X3J1Q1Z5MnFPbHB4MXVDSE9aNWdGYnRFRXZhdmV6WmdUMFF0RC1R?oc=5",
+        "source": "The Indian Express",
+        "published": "Mon, 23 Nov 2026 04:10:22 GMT"
+      },
+      {
+        "title": "BJP, Akali Dal likely to announce Punjab alliance today | India News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWJQOHV3ZUNDNDE0ekhNbXlWYWg2NUxabTNzUk9XN1NWMU81VWdQY0pOei1JN1dvYlZPNE10WXRaU0REQWVCOHhkaU9sdThZc2JOdV9NUzRzbkZtZExQTk1qNU1iaDc5NG9CVV9LUURBZVFTcm5aZEVRZTlvc3JVZm9oY0h5elZQYVd3TzU0cW5iMTNzd2w2X180TmQ2ZkNMV3ZtdXJXTzlNSnY1VU4zN3VtUjgxMEFm0gG-AUFVX3lxTE5iTkk0Z0xwX3lld2JrODBvanMxWEJLVHNyWC03T3FCd2hYZGx2TlFETElZNDlJTjg4bGNlTkFHSzRVbWlLY3k0dktpTDBGUGNtRDRNbnZxajc4bW5qb1VOdkJMNVFwMTlCczllZ1VtdURJMWxYbmZDbnhLVWdqNi1FaVFHSDJiTnEybDdKdkRvOHYzUWFPdlhDTjRDWTJxZDRsTmVXSV9hSV9KZno3QlZ4NnVrbjZnUzJyeGlpTlE?oc=5",
+        "source": "Hindustan Times",
+        "published": "Tue, 24 Nov 2026 05:53:15 GMT"
+      },
+      {
+        "title": "Nepal PM Balen Shah India Visit Highlights: India, Nepal Ink 8 Agreements During PM Balen Shah's New Delhi Visit",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbGI1NHJkZ2lqYUEwaEJROE9leDJCYkZXd0NVeEFvdFNMNHlXRVZDRDNQcVk1VFBVcGFzWjg3Z3o1WGdmTV9CRE41NXZ4ckcyaFY4ZUFKTmFTSk9QWTdIbktHV1JUOTRwQVVFT01ZUWtrMEZ5VUxiQ2ExcEdXU1MzYVd1YXczVWF1SkIzN1RHZTF3LUl0SXkyVGJxQ2tHbXVvMWlQNVdhWDlaZkhmeHFPS21WX21fTGtsTjZ5LUd5eGRTT0RTQ1A1b2NJa0ZmY0xfRUI2NDUzVldsdWVKaGtmbnY0eWczeU1oM2lrbFJGODZJc2NsRTM3blZJQVJtdkI1VkRzZnlqaGhwdU5kdVBrUFRwbHZYYWdnYXfSAaICQVVfeXFMUDZjdkp3TE1VUUtYQ3Q3MDJ6eTl0Y2VfcU9NdGlWdVY0TUJTb3hhOEtRRm1fdld5T2FnQ2M2MnZfVDRqX0UtQkdUTWJ1N1BkLWRNYWNLX3N4LXVYU3M2YzRxaGQ0UkhIeWViRDdpbkJuQll2MWoybV9rZmdSQ1hISk4zOUV4elVlQnMyWGNkbmVDdjJqdHc0eUY3WUtFcHJ4emJ1a1o0ZElDTE9pYXVKLXJnTnVBdEw3dHc3VFlTVklKU3MyTFJzVGIxYkVSb1lMTGoyVlZud2RWTnRVUzFSYTlCdGZCUUozMWt0dG9EUGNBc2FCTVBFUEU1UVh1bGF4OGo0TXBYNk93cU1jWmx5UEd1dDVpa3NFV2hHMXQwMHNuTFE?oc=5",
+        "source": "NDTV",
+        "published": "Mon, 23 Nov 2026 13:33:03 GMT"
+      }
+    ],
+    "sports": [
+      {
+        "title": "Pat Cash on the Davis Cup in the 1980s: ‘It felt like you were going to war’ | Tennis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWpESTd6QS1rNnp3b2RSQS1OcmpRd3ROeWhHV3pfMmJ2cUNQVXdyM1pqdmdpWktLOHZLUnFLc2ZZVUt5V2ZUWVF6OHVndnhCbmljUnFJUWJqUVZLZDQxMUhIZUdBSnpsQ255X1kxbE5lSFFjQTVKR3lPNW9WSDk5RHBHU1Fub1FCTTZZSTZyekpEbDFWck5UcXpaa0RuSmxEclpNRDBXVmFTZ3RpX2hEV3hMd2ZmUThFT0c4?oc=5",
+        "source": "The Guardian",
+        "published": "Tue, 24 Nov 2026 07:36:00 GMT"
+      },
+      {
+        "title": "ATP Finals: Carlos Alcaraz beats world No 1 Alexander Zverev in blockbuster final to claim title for first time",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlV5NDhUMVFMNkxiYXk2bHRhdFRBYlBMQjRGMFlTUE5OLWlEbk15NGdSeFBfUlNqVnRwOUNNaFJyeVdpSDJEdHNlMlRtR3ktcUtxc2tJS0w1Z1BmSF9wNXp3YTNBSFRHbmZuZ2ZPREpmUms2TTFmOC1qaDNXaGdMWEN6TWo3QjctWVRJUnVPOVJjZ3R2NDdmOEh2V1AwOGpPOWhpcE9HUHZYRjUzN1NzbDN3YlVaQ0h4a01tejI4eDVTeTBCb2ZsaVJMXzFWajJhbjJGYUxKQXA4OEZGd25YSGY0YVZmZnhhM1NVUTln?oc=5",
+        "source": "Sky Sports",
+        "published": "Mon, 23 Nov 2026 07:47:42 GMT"
+      },
+      {
+        "title": "Alcaraz dispatches Zverev, wins first Nitto ATP Finals crown",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWpNNjhWelI3bE90bWlnWW9peXZzNnRDQ2YwMXhzZzZpWnd0YWkwT05weXI4SlVUb1hlT0ZiUTFFdG1HeUJ5VGw4Y0VIYmhWX01ramtTVjM5b0p2TEV6Tk9RS29IRGNRS2liazRTV09HLWtlUTU0WHlHMzdWUzE2VA?oc=5",
+        "source": "ATP Tour",
+        "published": "Sun, 22 Nov 2026 21:41:06 GMT"
+      },
+      {
+        "title": "ATP Finals: Carlos Alcaraz beats world number one Alexander Zverev to claim title",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZENlLVFFS3FIQTc1UTJTaURKc3ZYcGZOM04ydGpJMmk4MjRxMHRpcy1XS1cyQndMakFqS2RhN3VueG41M0tvOWpVUlFkT2ZReGs0RTltYnhBYnc0Z0pLdlFsSlhOdw?oc=5",
+        "source": "BBC",
+        "published": "Sun, 22 Nov 2026 19:36:14 GMT"
+      },
+      {
+        "title": "Carlos Alcaraz restores familiar order in men’s tennis with ATP Finals win over Alexander Zverev",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXlNODY3VFlqNDExdWJ1U01yOE9vR0JEVFNJWVBja3ZaRjU2RjBTTmdWOWFHZWNuNTJueVFIRTBTREh3bVFxUWROTEgzOW11OEhNYnRoMGhkbE8tU2FrR09VUk1NdzVtSWxJSENiN3ZnUHJrT2dTMGNYOVJJZlA2amN3YldKLWxBaGVLNmhsQ25xU09GbTRHOFZfa2RMeUszV1pTOXQ0cVdQT3pjUTR1MA?oc=5",
+        "source": "The New York Times",
+        "published": "Sun, 22 Nov 2026 22:16:03 GMT"
+      },
+      {
+        "title": "WATCH: Alex Eala got a bit emotional remembering her early tennis days in Pasig, says she started dreaming here. Alex is now World's number 15. | via Jervis Manahan, ABS-CBN News",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUVUyeF9tcHlLYkFqTFJyVWR1V2xLNFpyXzQ1WWVXbzhNRlJQUEttMkxyNmhyNW0yWHdQSjRXOVJyMDlLVXg0eEhDM08yRGJQaG0zclAxZk1wMTN4OHVab01jbElfZXdQQi15YktVVnJ2TXotNDl3U2Q4S1JOS1czcF9xTHRhWjBQWmJFeWVrdFJ2SzZSY0hlbEk3TzBiRU8yTDZXUHpBMXFLZThoQnc2WTJacDVlOWthX3dSM2RHelpLRXdKaVBNY0l1UXVDLVlVU09BOEFDVQ?oc=5",
+        "source": "Facebook",
+        "published": "Tue, 24 Nov 2026 02:57:32 GMT"
+      }
+    ]
   }
 }
